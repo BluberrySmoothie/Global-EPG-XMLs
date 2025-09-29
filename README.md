@@ -14,7 +14,7 @@ Content: This contains 7 days of data from 3pm UTC on the run date.
 
 Platform: BSkyB
 
-Country: United Kingdom (GB)
+Country: United Kingdom (GB) - Note, This also contains a number of Irish (IE) channels.
 
 Content: This contains 8 days of data from midnight UTC on the run date.
 
@@ -31,6 +31,14 @@ Content: This contains 7 days of data from midnight UTC on the run date.
 Platform: Bein Sports
 
 Country: France (FR), United Arab Emirates (AE), USA (US), Malaysia (MY), Australia (AU), Bein Xtra
+
+Content: This contains 7 days of data from midnight UTC on the run date.
+
+**VirginMediaIE_EPG**
+
+Platform: Virgin Media
+
+Country: Ireland (IE)
 
 Content: This contains 7 days of data from midnight UTC on the run date.
 
