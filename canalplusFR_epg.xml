@@ -1,0 +1,2359 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="Custom Canal+ EPG Generator">
+  <channel id="Canal+FR_CH19">
+    <display-name lang="fr">CANAL+ FOOT</display-name>
+  </channel>
+  <channel id="Canal+FR_CH26">
+    <display-name lang="fr">FRANCE 2</display-name>
+  </channel>
+  <programme start="20250929050200 +0000" stop="20250929055000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Football Club</title>
+    <desc lang="fr">Bilan européen, Ballon d'Or et c...</desc>
+    <uid system="canalplus.fr">29818485_50001</uid>
+  </programme>
+  <programme start="20250929055000 +0000" stop="20250929073400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Newcastle / Arsenal</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29678226_50001</uid>
+  </programme>
+  <programme start="20250929073400 +0000" stop="20250929091800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Aston Villa / Fulham</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29810187_50001</uid>
+  </programme>
+  <programme start="20250929091800 +0000" stop="20250929110300 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Manchester City / Burnley</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29868188_50001</uid>
+  </programme>
+  <programme start="20250929110300 +0000" stop="20250929115100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Football Club</title>
+    <desc lang="fr">Bilan européen, Ballon d'Or et c...</desc>
+    <uid system="canalplus.fr">29818485_50001</uid>
+  </programme>
+  <programme start="20250929115100 +0000" stop="20250929133500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Paris FC / Saint-Etienne</title>
+    <desc lang="fr">Arkema Première Ligue - 3e journ...</desc>
+    <uid system="canalplus.fr">29805594_50001</uid>
+  </programme>
+  <programme start="20250929133500 +0000" stop="20250929151900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Chelsea / Brighton &amp; Hove Albion</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29868190_50001</uid>
+  </programme>
+  <programme start="20250929151900 +0000" stop="20250929170400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Crystal Palace / Liverpool</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29868189_50001</uid>
+  </programme>
+  <programme start="20250929170400 +0000" stop="20250929173900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Le Club - Saison 1</title>
+    <desc lang="fr">Episode 3</desc>
+    <uid system="canalplus.fr">29873320_50001</uid>
+  </programme>
+  <programme start="20250929173900 +0000" stop="20250929182000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Le Club - Saison 1</title>
+    <desc lang="fr">Episode 4</desc>
+    <uid system="canalplus.fr">29873319_50001</uid>
+  </programme>
+  <programme start="20250929182000 +0000" stop="20250929185500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Jour de foot</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29818486_50001</uid>
+  </programme>
+  <programme start="20250929185500 +0000" stop="20250929210000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Everton / West Ham</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29687029_50001</uid>
+  </programme>
+  <programme start="20250929210000 +0000" stop="20250929220200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Late Football Club</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29818487_50001</uid>
+  </programme>
+  <programme start="20250929220200 +0000" stop="20250929222800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Champions League Weekly</title>
+    <desc lang="fr">Présentation de la 2e journée</desc>
+    <uid system="canalplus.fr">29810196_50001</uid>
+  </programme>
+  <programme start="20250929222800 +0000" stop="20250929223900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Football : conférence de presse</title>
+    <desc lang="fr">Marseille</desc>
+    <uid system="canalplus.fr">29969402_50001</uid>
+  </programme>
+  <programme start="20250929223900 +0000" stop="20250929232900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Weekly UEL / UECL Magazine</title>
+    <desc lang="fr">Présentation de la 2e journée de...</desc>
+    <uid system="canalplus.fr">29810198_50001</uid>
+  </programme>
+  <programme start="20250929232900 +0000" stop="20250930011100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Lyon / Paris-SG</title>
+    <desc lang="fr">Arkema Première Ligue - 3e journ...</desc>
+    <uid system="canalplus.fr">29849084_50001</uid>
+  </programme>
+  <programme start="20250930011100 +0000" stop="20250930045300 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29934124_50001</uid>
+  </programme>
+  <programme start="20250930045300 +0000" stop="20250930055500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Late Football Club</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29818487_50001</uid>
+  </programme>
+  <programme start="20250930055500 +0000" stop="20250930073700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Paris FC / Saint-Etienne</title>
+    <desc lang="fr">Arkema Première Ligue - 3e journ...</desc>
+    <uid system="canalplus.fr">29805594_50001</uid>
+  </programme>
+  <programme start="20250930073700 +0000" stop="20250930092100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Lyon / Paris-SG</title>
+    <desc lang="fr">Arkema Première Ligue - 3e journ...</desc>
+    <uid system="canalplus.fr">29849084_50001</uid>
+  </programme>
+  <programme start="20250930092100 +0000" stop="20250930110500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Everton / West Ham</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29687029_50001</uid>
+  </programme>
+  <programme start="20250930110500 +0000" stop="20250930124900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Newcastle / Arsenal</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29678226_50001</uid>
+  </programme>
+  <programme start="20250930124900 +0000" stop="20250930133500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Détective Mathoux</title>
+    <desc lang="fr">Détective Mathoux avec Mamadou N...</desc>
+    <uid system="canalplus.fr">29856352_50001</uid>
+  </programme>
+  <programme start="20250930133500 +0000" stop="20250930135500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 1 : Real Madrid - Marsei...</desc>
+    <uid system="canalplus.fr">29810202_50001</uid>
+  </programme>
+  <programme start="20250930135500 +0000" stop="20250930155800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Chelsea  / Benfica Lisbonne</title>
+    <desc lang="fr">UEFA Youth League - 2e  journée</desc>
+    <uid system="canalplus.fr">29872874_50001</uid>
+  </programme>
+  <programme start="20250930155800 +0000" stop="20250930161400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Football : conférence de presse</title>
+    <desc lang="fr">Marseille</desc>
+    <uid system="canalplus.fr">29969402_50001</uid>
+  </programme>
+  <programme start="20250930161400 +0000" stop="20250930164000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29810194_50001</uid>
+  </programme>
+  <programme start="20250930164000 +0000" stop="20250930184500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Kairat Almaty / Real Madrid</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29810192_50001</uid>
+  </programme>
+  <programme start="20250930184500 +0000" stop="20250930190000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29810195_50001</uid>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930205600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Marseille / Ajax Amsterdam</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29810193_50001</uid>
+  </programme>
+  <programme start="20250930205600 +0000" stop="20250930215600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club le debrief</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29873309_50001</uid>
+  </programme>
+  <programme start="20250930215600 +0000" stop="20250930220900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Football : conférence de presse</title>
+    <desc lang="fr">Paris-SG</desc>
+    <uid system="canalplus.fr">29969403_50001</uid>
+  </programme>
+  <programme start="20250930220900 +0000" stop="20250930235300 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Atlético Madrid / Eintracht Francfort</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29932918_50001</uid>
+  </programme>
+  <programme start="20250930235300 +0000" stop="20251001013600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Inter Milan / Slavia Prague</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29932915_50001</uid>
+  </programme>
+  <programme start="20251001013600 +0000" stop="20251001052100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29943771_50001</uid>
+  </programme>
+  <programme start="20251001052100 +0000" stop="20251001053800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29810195_50001</uid>
+  </programme>
+  <programme start="20251001053800 +0000" stop="20251001072300 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Marseille / Ajax Amsterdam</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29810193_50001</uid>
+  </programme>
+  <programme start="20251001072300 +0000" stop="20251001082000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club le debrief</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29873309_50001</uid>
+  </programme>
+  <programme start="20251001082000 +0000" stop="20251001101000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Multiplex</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29868177_50001</uid>
+  </programme>
+  <programme start="20251001101000 +0000" stop="20251001115500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Kairat Almaty / Real Madrid</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29810192_50001</uid>
+  </programme>
+  <programme start="20251001115500 +0000" stop="20251001134000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Galatasaray / Liverpool</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29818467_50001</uid>
+  </programme>
+  <programme start="20251001134000 +0000" stop="20251001135500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 2 : Paris-SG - Atalanta ...</desc>
+    <uid system="canalplus.fr">29810203_50001</uid>
+  </programme>
+  <programme start="20251001135500 +0000" stop="20251001155900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">FC Barcelone / Paris-SG</title>
+    <desc lang="fr">UEFA Youth League - 2e  journée</desc>
+    <uid system="canalplus.fr">29872876_50001</uid>
+  </programme>
+  <programme start="20251001155900 +0000" stop="20251001161400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 2 : Paris-SG - Atalanta ...</desc>
+    <uid system="canalplus.fr">29810203_50001</uid>
+  </programme>
+  <programme start="20251001161400 +0000" stop="20251001162800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Football : conférence de presse</title>
+    <desc lang="fr">Paris-SG</desc>
+    <uid system="canalplus.fr">29969403_50001</uid>
+  </programme>
+  <programme start="20251001162800 +0000" stop="20251001164000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Plateau avant-match UEFA Champions League</title>
+    <desc lang="fr">Union Saint-Gilloise - Newcastle</desc>
+    <uid system="canalplus.fr">29985146_50001</uid>
+  </programme>
+  <programme start="20251001164000 +0000" stop="20251001184400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Union Saint-Gilloise / Newcastle</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29818482_50001</uid>
+  </programme>
+  <programme start="20251001184400 +0000" stop="20251001190000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Plateau avant-match UEFA Champions League</title>
+    <desc lang="fr">Monaco - Manchester City</desc>
+    <uid system="canalplus.fr">29969404_50001</uid>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001210400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Monaco / Manchester City</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29818483_50001</uid>
+  </programme>
+  <programme start="20251001210400 +0000" stop="20251001224900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">FC Barcelone / Paris-SG</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29825799_50001</uid>
+  </programme>
+  <programme start="20251001224900 +0000" stop="20251002003200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Borussia Dortmund / Athletic Bilbao</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29932911_50001</uid>
+  </programme>
+  <programme start="20251002003200 +0000" stop="20251002041900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29957286_50001</uid>
+  </programme>
+  <programme start="20251002041900 +0000" stop="20251002055200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29855628_50001</uid>
+  </programme>
+  <programme start="20251002055200 +0000" stop="20251002073600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">FC Barcelone / Paris-SG</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29825799_50001</uid>
+  </programme>
+  <programme start="20251002073600 +0000" stop="20251002083800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Champions Club le debrief</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29855629_50001</uid>
+  </programme>
+  <programme start="20251002083800 +0000" stop="20251002102200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Multiplex</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29957304_50001</uid>
+  </programme>
+  <programme start="20251002102200 +0000" stop="20251002120500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Monaco / Manchester City</title>
+    <desc lang="fr">Ligue des champions - 2e journée</desc>
+    <uid system="canalplus.fr">29818483_50001</uid>
+  </programme>
+  <programme start="20251002120500 +0000" stop="20251002125600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Weekly UEL / UECL Magazine</title>
+    <desc lang="fr">Présentation de la 2e journée de...</desc>
+    <uid system="canalplus.fr">29810198_50001</uid>
+  </programme>
+  <programme start="20251002125600 +0000" stop="20251002143900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Newcastle / Arsenal</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29678226_50001</uid>
+  </programme>
+  <programme start="20251002143900 +0000" stop="20251002162400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Manchester City / Burnley</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29868188_50001</uid>
+  </programme>
+  <programme start="20251002162400 +0000" stop="20251002164000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Plateau avant-match UEFA Europa League</title>
+    <desc lang="fr">AS Roma - Lille</desc>
+    <uid system="canalplus.fr">29969405_50001</uid>
+  </programme>
+  <programme start="20251002164000 +0000" stop="20251002184500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">AS Roma / Lille</title>
+    <desc lang="fr">Ligue Europa - 2e journée</desc>
+    <uid system="canalplus.fr">29825800_50001</uid>
+  </programme>
+  <programme start="20251002184500 +0000" stop="20251002190000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Plateau avant-match UEFA Conference League</title>
+    <desc lang="fr">Slovan Bratislava - Strasbourg</desc>
+    <uid system="canalplus.fr">29969406_50001</uid>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002210100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Slovan Bratislava / Strasbourg</title>
+    <desc lang="fr">Ligue Conférence - 1re journée</desc>
+    <uid system="canalplus.fr">29855634_50001</uid>
+  </programme>
+  <programme start="20251002210100 +0000" stop="20251002224500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Celtic Glasgow / Sporting Braga</title>
+    <desc lang="fr">Ligue Europa - 2e journée</desc>
+    <uid system="canalplus.fr">29932921_50001</uid>
+  </programme>
+  <programme start="20251002224500 +0000" stop="20251003002700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Ludogorets Razgrad / Betis Séville</title>
+    <desc lang="fr">Ligue Europa - 2e journée</desc>
+    <uid system="canalplus.fr">29932914_50001</uid>
+  </programme>
+  <programme start="20251003002700 +0000" stop="20251003051700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29957285_50001</uid>
+  </programme>
+  <programme start="20251003051700 +0000" stop="20251003053700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Soir d'Europe</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29855630_50001</uid>
+  </programme>
+  <programme start="20251003053700 +0000" stop="20251003072000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Lyon / Salzbourg</title>
+    <desc lang="fr">Ligue Europa - 2e journée</desc>
+    <uid system="canalplus.fr">29825804_50001</uid>
+  </programme>
+  <programme start="20251003072000 +0000" stop="20251003082200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Soir d'Europe le débrief</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29855631_50001</uid>
+  </programme>
+  <programme start="20251003082200 +0000" stop="20251003100600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Multiplex</title>
+    <desc lang="fr">Ligue Europa et Ligue Conference</desc>
+    <uid system="canalplus.fr">29868179_50001</uid>
+  </programme>
+  <programme start="20251003100600 +0000" stop="20251003114900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">AS Roma / Lille</title>
+    <desc lang="fr">Ligue Europa - 2e journée</desc>
+    <uid system="canalplus.fr">29825800_50001</uid>
+  </programme>
+  <programme start="20251003114900 +0000" stop="20251003133200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fenerbahçe / Nice</title>
+    <desc lang="fr">Ligue Europa - 2e journée</desc>
+    <uid system="canalplus.fr">29818471_50001</uid>
+  </programme>
+  <programme start="20251003133200 +0000" stop="20251003135900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Histoires de Premier League - Saison 5</title>
+    <desc lang="fr">David Luiz</desc>
+    <uid system="canalplus.fr">29933015_50001</uid>
+  </programme>
+  <programme start="20251003135900 +0000" stop="20251003154100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Aston Villa / Fulham</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29810187_50001</uid>
+  </programme>
+  <programme start="20251003154100 +0000" stop="20251003172400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Newcastle / Arsenal</title>
+    <desc lang="fr">Premier League - 6e journée</desc>
+    <uid system="canalplus.fr">29678226_50001</uid>
+  </programme>
+  <programme start="20251003172400 +0000" stop="20251003182000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Premier League Review</title>
+    <desc lang="fr">6e journée</desc>
+    <uid system="canalplus.fr">29810190_50001</uid>
+  </programme>
+  <programme start="20251003182000 +0000" stop="20251003185400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Jour de foot</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29825805_50001</uid>
+  </programme>
+  <programme start="20251003185400 +0000" stop="20251003205700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">FC Nantes / Paris FC</title>
+    <desc lang="fr">Arkema Première Ligue - 4e journ...</desc>
+    <uid system="canalplus.fr">29910026_50001</uid>
+  </programme>
+  <programme start="20251003205700 +0000" stop="20251003215900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Late Football Club</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29825806_50001</uid>
+  </programme>
+  <programme start="20251003215900 +0000" stop="20251003234100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Bournemouth / Fulham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810189_50001</uid>
+  </programme>
+  <programme start="20251003234100 +0000" stop="20251004052600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29969130_50001</uid>
+  </programme>
+  <programme start="20251004052600 +0000" stop="20251004070800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">FC Nantes / Paris FC</title>
+    <desc lang="fr">Arkema Première Ligue - 4e journ...</desc>
+    <uid system="canalplus.fr">29910026_50001</uid>
+  </programme>
+  <programme start="20251004070800 +0000" stop="20251004081100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Late Football Club</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29825806_50001</uid>
+  </programme>
+  <programme start="20251004081100 +0000" stop="20251004095400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Bournemouth / Fulham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810189_50001</uid>
+  </programme>
+  <programme start="20251004095400 +0000" stop="20251004102100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Histoires de Premier League - Saison 5</title>
+    <desc lang="fr">David Luiz</desc>
+    <uid system="canalplus.fr">29933015_50001</uid>
+  </programme>
+  <programme start="20251004102100 +0000" stop="20251004111400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Premier League Review</title>
+    <desc lang="fr">6e journée</desc>
+    <uid system="canalplus.fr">29810190_50001</uid>
+  </programme>
+  <programme start="20251004111400 +0000" stop="20251004112500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Sports Club</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976044_50001</uid>
+  </programme>
+  <programme start="20251004112500 +0000" stop="20251004132700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Leeds / Tottenham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810182_50001</uid>
+  </programme>
+  <programme start="20251004132700 +0000" stop="20251004135600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Match of ze Day</title>
+    <desc lang="fr">MATCH OF ZE DAY AVT ARSENAL / WE...</desc>
+    <uid system="canalplus.fr">29975342_50001</uid>
+  </programme>
+  <programme start="20251004135600 +0000" stop="20251004160200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Arsenal / West Ham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29916203_50001</uid>
+  </programme>
+  <programme start="20251004160200 +0000" stop="20251004162600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Match of ze Day</title>
+    <desc lang="fr">MATCH OF ZE DAY AVT CHELEA / LIV...</desc>
+    <uid system="canalplus.fr">29975343_50001</uid>
+  </programme>
+  <programme start="20251004162600 +0000" stop="20251004184100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Chelsea / Liverpool</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810188_50001</uid>
+  </programme>
+  <programme start="20251004184100 +0000" stop="20251004185500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Soir de Première Ligue</title>
+    <desc lang="fr">Avant Paris-SG - Dijon</desc>
+    <uid system="canalplus.fr">29976411_50001</uid>
+  </programme>
+  <programme start="20251004185500 +0000" stop="20251004205500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Paris-SG / Dijon</title>
+    <desc lang="fr">Arkema Première Ligue - 4e journ...</desc>
+    <uid system="canalplus.fr">29910028_50001</uid>
+  </programme>
+  <programme start="20251004205500 +0000" stop="20251004210700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Débrief Arkema Première Ligue</title>
+    <desc lang="fr">Paris-SG - Dijon</desc>
+    <uid system="canalplus.fr">29970133_50001</uid>
+  </programme>
+  <programme start="20251004210700 +0000" stop="20251004213600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 3 : FC Barcelone - Paris...</desc>
+    <uid system="canalplus.fr">29896167_50001</uid>
+  </programme>
+  <programme start="20251004213600 +0000" stop="20251004231900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Leeds / Tottenham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810182_50001</uid>
+  </programme>
+  <programme start="20251004231900 +0000" stop="20251005010100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Manchester United / Sunderland</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29884590_50001</uid>
+  </programme>
+  <programme start="20251005010100 +0000" stop="20251005053000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29976043_50001</uid>
+  </programme>
+  <programme start="20251005053000 +0000" stop="20251005071400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Paris-SG / Dijon</title>
+    <desc lang="fr">Arkema Première Ligue - 4e journ...</desc>
+    <uid system="canalplus.fr">29910028_50001</uid>
+  </programme>
+  <programme start="20251005071400 +0000" stop="20251005085900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Arsenal / West Ham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29916203_50001</uid>
+  </programme>
+  <programme start="20251005085900 +0000" stop="20251005104400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Manchester United / Sunderland</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29884590_50001</uid>
+  </programme>
+  <programme start="20251005104400 +0000" stop="20251005122800 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Chelsea / Liverpool</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810188_50001</uid>
+  </programme>
+  <programme start="20251005122800 +0000" stop="20251005124000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 4 : Marseille - Ajax Ams...</desc>
+    <uid system="canalplus.fr">29896166_50001</uid>
+  </programme>
+  <programme start="20251005124000 +0000" stop="20251005125400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Match of ze Day</title>
+    <desc lang="fr">MATCH OF ZE DAY AVT MULTIPLEX 05...</desc>
+    <uid system="canalplus.fr">29983882_50001</uid>
+  </programme>
+  <programme start="20251005125400 +0000" stop="20251005151100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Multiplex</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29849271_50001</uid>
+  </programme>
+  <programme start="20251005151100 +0000" stop="20251005152500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Match of ze Day</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985145_50001</uid>
+  </programme>
+  <programme start="20251005152500 +0000" stop="20251005153000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">The Match</title>
+    <desc lang="fr">Brentford - Manchester City</desc>
+    <uid system="canalplus.fr">29984601_50001</uid>
+  </programme>
+  <programme start="20251005153000 +0000" stop="20251005172600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Brentford / Manchester City</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810183_50001</uid>
+  </programme>
+  <programme start="20251005172600 +0000" stop="20251005173000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">The Match</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29984999_50001</uid>
+  </programme>
+  <programme start="20251005173000 +0000" stop="20251005182600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Football Club</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29876877_50001</uid>
+  </programme>
+  <programme start="20251005182600 +0000" stop="20251005185700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 3 : FC Barcelone - Paris...</desc>
+    <uid system="canalplus.fr">29896167_50001</uid>
+  </programme>
+  <programme start="20251005185700 +0000" stop="20251005204300 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Newcastle / Nottingham Forest</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29933011_50001</uid>
+  </programme>
+  <programme start="20251005204300 +0000" stop="20251005222700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Aston Villa / Burnley</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29933010_50001</uid>
+  </programme>
+  <programme start="20251005222700 +0000" stop="20251005232000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Football Club</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29876877_50001</uid>
+  </programme>
+  <programme start="20251005232000 +0000" stop="20251006010200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Wolverhampton / Brighton &amp; Hove Albion</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29910024_50001</uid>
+  </programme>
+  <programme start="20251006010200 +0000" stop="20251006055600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29985149_50001</uid>
+  </programme>
+  <programme start="20251006055600 +0000" stop="20251006064900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Football Club</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29876877_50001</uid>
+  </programme>
+  <programme start="20251006064900 +0000" stop="20251006082900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Everton / Crystal Palace</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29933012_50001</uid>
+  </programme>
+  <programme start="20251006082900 +0000" stop="20251006101100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">FC Nantes / Paris FC</title>
+    <desc lang="fr">Arkema Première Ligue - 4e journ...</desc>
+    <uid system="canalplus.fr">29910026_50001</uid>
+  </programme>
+  <programme start="20251006101100 +0000" stop="20251006110100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Canal Football Club</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29876877_50001</uid>
+  </programme>
+  <programme start="20251006110100 +0000" stop="20251006124600 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Paris-SG / Dijon</title>
+    <desc lang="fr">Arkema Première Ligue - 4e journ...</desc>
+    <uid system="canalplus.fr">29910028_50001</uid>
+  </programme>
+  <programme start="20251006124600 +0000" stop="20251006142900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Leeds / Tottenham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810182_50001</uid>
+  </programme>
+  <programme start="20251006142900 +0000" stop="20251006161200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Manchester United / Sunderland</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29884590_50001</uid>
+  </programme>
+  <programme start="20251006161200 +0000" stop="20251006175100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Brentford / Manchester City</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810183_50001</uid>
+  </programme>
+  <programme start="20251006175100 +0000" stop="20251006182000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 3 : FC Barcelone - Paris...</desc>
+    <uid system="canalplus.fr">29896167_50001</uid>
+  </programme>
+  <programme start="20251006182000 +0000" stop="20251006185700 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Jour de foot</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29876880_50001</uid>
+  </programme>
+  <programme start="20251006185700 +0000" stop="20251006204200 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Chelsea / Liverpool</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29810188_50001</uid>
+  </programme>
+  <programme start="20251006204200 +0000" stop="20251006210000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">30/05/2026 : En Route pour Budapest</title>
+    <desc lang="fr">Episode 4 : Marseille - Ajax Ams...</desc>
+    <uid system="canalplus.fr">29896166_50001</uid>
+  </programme>
+  <programme start="20251006210000 +0000" stop="20251006220400 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Late Football Club</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29876881_50001</uid>
+  </programme>
+  <programme start="20251006220400 +0000" stop="20251006223000 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Champions League Weekly</title>
+    <desc lang="fr">Retour sur la 2e journée</desc>
+    <uid system="canalplus.fr">29818489_50001</uid>
+  </programme>
+  <programme start="20251006223000 +0000" stop="20251007000900 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Arsenal / West Ham</title>
+    <desc lang="fr">Premier League - 7e journée</desc>
+    <uid system="canalplus.fr">29916203_50001</uid>
+  </programme>
+  <programme start="20251007000900 +0000" stop="20251007015100 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Football : Arkema Première Ligue</title>
+    <desc lang="fr">Football</desc>
+    <uid system="canalplus.fr">29995027_50001</uid>
+  </programme>
+  <programme start="20251007015100 +0000" stop="20251007053500 +0000" channel="Canal+FR_CH19">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+    <uid system="canalplus.fr">29995028_50001</uid>
+  </programme>
+  <programme start="20250929040000 +0000" stop="20250929043000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934166_50026</uid>
+  </programme>
+  <programme start="20250929043000 +0000" stop="20250929060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934162_50026</uid>
+  </programme>
+  <programme start="20250929060000 +0000" stop="20250929063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29933698_50026</uid>
+  </programme>
+  <programme start="20250929063000 +0000" stop="20250929075500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934183_50026</uid>
+  </programme>
+  <programme start="20250929075500 +0000" stop="20250929084500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934173_50026</uid>
+  </programme>
+  <programme start="20250929084500 +0000" stop="20250929084600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Assurance habitation : êtes-vous...</desc>
+    <uid system="canalplus.fr">29797658_50026</uid>
+  </programme>
+  <programme start="20250929084600 +0000" stop="20250929085000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29934155_50026</uid>
+  </programme>
+  <programme start="20250929085000 +0000" stop="20250929092500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934156_50026</uid>
+  </programme>
+  <programme start="20250929092500 +0000" stop="20250929095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du lundi 29 septembre 2...</desc>
+    <uid system="canalplus.fr">29934169_50026</uid>
+  </programme>
+  <programme start="20250929095500 +0000" stop="20250929105000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934167_50026</uid>
+  </programme>
+  <programme start="20250929105000 +0000" stop="20250929105500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Parentalité Lucien JB</desc>
+    <uid system="canalplus.fr">29944083_50026</uid>
+  </programme>
+  <programme start="20250929105500 +0000" stop="20250929110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934157_50026</uid>
+  </programme>
+  <programme start="20250929110000 +0000" stop="20250929114000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934164_50026</uid>
+  </programme>
+  <programme start="20250929114000 +0000" stop="20250929114400 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934163_50026</uid>
+  </programme>
+  <programme start="20250929114400 +0000" stop="20250929114500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">L'organisation du GP Explorer</desc>
+    <uid system="canalplus.fr">29943971_50026</uid>
+  </programme>
+  <programme start="20250929114500 +0000" stop="20250929115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">Poésies verticales, de Roberto J...</desc>
+    <uid system="canalplus.fr">29933700_50026</uid>
+  </programme>
+  <programme start="20250929115500 +0000" stop="20250929130500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Camps scouts, pensionnat religie...</desc>
+    <uid system="canalplus.fr">29934184_50026</uid>
+  </programme>
+  <programme start="20250929130500 +0000" stop="20250929141000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Accidents de la route : des vies...</desc>
+    <uid system="canalplus.fr">27169984_50026</uid>
+  </programme>
+  <programme start="20250929141000 +0000" stop="20250929150000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934170_50026</uid>
+  </programme>
+  <programme start="20250929150000 +0000" stop="20250929155500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934159_50026</uid>
+  </programme>
+  <programme start="20250929155500 +0000" stop="20250929160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934171_50026</uid>
+  </programme>
+  <programme start="20250929160000 +0000" stop="20250929164000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934172_50026</uid>
+  </programme>
+  <programme start="20250929164000 +0000" stop="20250929171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934174_50026</uid>
+  </programme>
+  <programme start="20250929171000 +0000" stop="20250929175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934160_50026</uid>
+  </programme>
+  <programme start="20250929175500 +0000" stop="20250929180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934168_50026</uid>
+  </programme>
+  <programme start="20250929180000 +0000" stop="20250929185000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934158_50026</uid>
+  </programme>
+  <programme start="20250929185000 +0000" stop="20250929185200 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934161_50026</uid>
+  </programme>
+  <programme start="20250929185200 +0000" stop="20250929185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Le GP Explorer en chiffre</desc>
+    <uid system="canalplus.fr">29943972_50026</uid>
+  </programme>
+  <programme start="20250929185500 +0000" stop="20250929190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29933697_50026</uid>
+  </programme>
+  <programme start="20250929190000 +0000" stop="20250929191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29925037_50026</uid>
+  </programme>
+  <programme start="20250929191000 +0000" stop="20250929195500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La vallée fracturée - Saison 1</title>
+    <desc lang="fr">Episode 3</desc>
+    <uid system="canalplus.fr">29819322_50026</uid>
+  </programme>
+  <programme start="20250929195500 +0000" stop="20250929204500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La vallée fracturée - Saison 1</title>
+    <desc lang="fr">Episode 4</desc>
+    <uid system="canalplus.fr">29819335_50026</uid>
+  </programme>
+  <programme start="20250929204500 +0000" stop="20250929213500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">L'affaire d'Outreau</title>
+    <desc lang="fr">Episode 1 : Un inceste de palier...</desc>
+    <uid system="canalplus.fr">20713834_50026</uid>
+  </programme>
+  <programme start="20250929213500 +0000" stop="20250929223000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">L'affaire d'Outreau</title>
+    <desc lang="fr">Episode 2 : Un réseau pédophile ...</desc>
+    <uid system="canalplus.fr">20713835_50026</uid>
+  </programme>
+  <programme start="20250929223000 +0000" stop="20250929223500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Expression directe</title>
+    <desc lang="fr">CPME</desc>
+    <uid system="canalplus.fr">29934165_50026</uid>
+  </programme>
+  <programme start="20250929223500 +0000" stop="20250929232500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Surface - Saison 1</title>
+    <desc lang="fr">Episode 4</desc>
+    <uid system="canalplus.fr">29423006_50026</uid>
+  </programme>
+  <programme start="20250929232500 +0000" stop="20250930001000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Surface - Saison 1</title>
+    <desc lang="fr">Episode 5</desc>
+    <uid system="canalplus.fr">29478967_50026</uid>
+  </programme>
+  <programme start="20250930001000 +0000" stop="20250930011000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Surface - Saison 1</title>
+    <desc lang="fr">Episode 6</desc>
+    <uid system="canalplus.fr">29478802_50026</uid>
+  </programme>
+  <programme start="20250930011000 +0000" stop="20250930020500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Camps scouts, pensionnat religie...</desc>
+    <uid system="canalplus.fr">29934184_50026</uid>
+  </programme>
+  <programme start="20250930020500 +0000" stop="20250930021000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29934155_50026</uid>
+  </programme>
+  <programme start="20250930021000 +0000" stop="20250930023000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le trafic des tortues</title>
+    <desc lang="fr">Émission du 0306 à 04:35</desc>
+    <uid system="canalplus.fr">612123_50026</uid>
+  </programme>
+  <programme start="20250930023000 +0000" stop="20250930024500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">Hortus</desc>
+    <uid system="canalplus.fr">18695177_50026</uid>
+  </programme>
+  <programme start="20250930024500 +0000" stop="20250930030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">Le jardin pirouette</desc>
+    <uid system="canalplus.fr">19091283_50026</uid>
+  </programme>
+  <programme start="20250930030000 +0000" stop="20250930035000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29934167_50026</uid>
+  </programme>
+  <programme start="20250930035000 +0000" stop="20250930040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 29 sept. 2025</desc>
+    <uid system="canalplus.fr">29925037_50026</uid>
+  </programme>
+  <programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943811_50026</uid>
+  </programme>
+  <programme start="20250930043000 +0000" stop="20250930060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943806_50026</uid>
+  </programme>
+  <programme start="20250930060000 +0000" stop="20250930063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943836_50026</uid>
+  </programme>
+  <programme start="20250930063000 +0000" stop="20250930075500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943835_50026</uid>
+  </programme>
+  <programme start="20250930075500 +0000" stop="20250930084500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943814_50026</uid>
+  </programme>
+  <programme start="20250930084500 +0000" stop="20250930084600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Patients consommateurs : comment...</desc>
+    <uid system="canalplus.fr">29815545_50026</uid>
+  </programme>
+  <programme start="20250930084600 +0000" stop="20250930085000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29943815_50026</uid>
+  </programme>
+  <programme start="20250930085000 +0000" stop="20250930092500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943816_50026</uid>
+  </programme>
+  <programme start="20250930092500 +0000" stop="20250930095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943821_50026</uid>
+  </programme>
+  <programme start="20250930095500 +0000" stop="20250930104900 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943825_50026</uid>
+  </programme>
+  <programme start="20250930104900 +0000" stop="20250930105500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Défilé pyjama</desc>
+    <uid system="canalplus.fr">29969362_50026</uid>
+  </programme>
+  <programme start="20250930105500 +0000" stop="20250930110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943820_50026</uid>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930114000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943809_50026</uid>
+  </programme>
+  <programme start="20250930114000 +0000" stop="20250930114400 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943822_50026</uid>
+  </programme>
+  <programme start="20250930114400 +0000" stop="20250930114500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">La préparation des pilotes sur p...</desc>
+    <uid system="canalplus.fr">29969363_50026</uid>
+  </programme>
+  <programme start="20250930114500 +0000" stop="20250930115000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">Les lauriers sont coupés, d'Edou...</desc>
+    <uid system="canalplus.fr">29943838_50026</uid>
+  </programme>
+  <programme start="20250930115000 +0000" stop="20250930115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Expression directe</title>
+    <desc lang="fr">FNSEA</desc>
+    <uid system="canalplus.fr">29943826_50026</uid>
+  </programme>
+  <programme start="20250930115500 +0000" stop="20250930130500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Maîtresse de leur mari, ex-conjo...</desc>
+    <uid system="canalplus.fr">29943840_50026</uid>
+  </programme>
+  <programme start="20250930130500 +0000" stop="20250930141500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Une rupture amoureuse leur a fai...</desc>
+    <uid system="canalplus.fr">28069791_50026</uid>
+  </programme>
+  <programme start="20250930141500 +0000" stop="20250930150500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943823_50026</uid>
+  </programme>
+  <programme start="20250930150500 +0000" stop="20250930155500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943824_50026</uid>
+  </programme>
+  <programme start="20250930155500 +0000" stop="20250930160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943807_50026</uid>
+  </programme>
+  <programme start="20250930160000 +0000" stop="20250930164000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943827_50026</uid>
+  </programme>
+  <programme start="20250930164000 +0000" stop="20250930171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943810_50026</uid>
+  </programme>
+  <programme start="20250930171000 +0000" stop="20250930175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943812_50026</uid>
+  </programme>
+  <programme start="20250930175500 +0000" stop="20250930180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943808_50026</uid>
+  </programme>
+  <programme start="20250930180000 +0000" stop="20250930185000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943817_50026</uid>
+  </programme>
+  <programme start="20250930185000 +0000" stop="20250930185200 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943818_50026</uid>
+  </programme>
+  <programme start="20250930185200 +0000" stop="20250930185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Le tracé du Mans et ses spécific...</desc>
+    <uid system="canalplus.fr">29969364_50026</uid>
+  </programme>
+  <programme start="20250930185500 +0000" stop="20250930190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943842_50026</uid>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29925035_50026</uid>
+  </programme>
+  <programme start="20250930191000 +0000" stop="20250930210000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Cash investigation</title>
+    <desc lang="fr">SUV : le jackpot des constructeu...</desc>
+    <uid system="canalplus.fr">29943828_50026</uid>
+  </programme>
+  <programme start="20250930210000 +0000" stop="20250930220500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Cash investigation : débat</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943813_50026</uid>
+  </programme>
+  <programme start="20250930220500 +0000" stop="20250930225500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Qui a coulé le Rainbow Warrior ?</title>
+    <desc lang="fr">Episode 1 : Tombés pour la France</desc>
+    <uid system="canalplus.fr">29874565_50026</uid>
+  </programme>
+  <programme start="20250930225500 +0000" stop="20250930234500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Qui a coulé le Rainbow Warrior ?</title>
+    <desc lang="fr">Episode 2 : Déflagrations</desc>
+    <uid system="canalplus.fr">29874334_50026</uid>
+  </programme>
+  <programme start="20250930234500 +0000" stop="20251001004500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Qui a coulé le Rainbow Warrior ?</title>
+    <desc lang="fr">Episode 3 : Chutes</desc>
+    <uid system="canalplus.fr">29874563_50026</uid>
+  </programme>
+  <programme start="20251001004500 +0000" stop="20251001023000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Un dimanche à la campagne</title>
+    <desc lang="fr">Invités : Julie Zenatti, Raphaël...</desc>
+    <uid system="canalplus.fr">29925355_50026</uid>
+  </programme>
+  <programme start="20251001023000 +0000" stop="20251001023500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29943815_50026</uid>
+  </programme>
+  <programme start="20251001023500 +0000" stop="20251001024500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Courant d'art</title>
+    <desc lang="fr">Hugues Reip</desc>
+    <uid system="canalplus.fr">3364782_50026</uid>
+  </programme>
+  <programme start="20251001024500 +0000" stop="20251001030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Sénégal : Mpal</desc>
+    <uid system="canalplus.fr">20583841_50026</uid>
+  </programme>
+  <programme start="20251001030000 +0000" stop="20251001035000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29943825_50026</uid>
+  </programme>
+  <programme start="20251001035000 +0000" stop="20251001040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 30 sept. 2025</desc>
+    <uid system="canalplus.fr">29925035_50026</uid>
+  </programme>
+  <programme start="20251001040000 +0000" stop="20251001043000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957324_50026</uid>
+  </programme>
+  <programme start="20251001043000 +0000" stop="20251001060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957311_50026</uid>
+  </programme>
+  <programme start="20251001060000 +0000" stop="20251001063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957344_50026</uid>
+  </programme>
+  <programme start="20251001063000 +0000" stop="20251001075500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957337_50026</uid>
+  </programme>
+  <programme start="20251001075500 +0000" stop="20251001084500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957333_50026</uid>
+  </programme>
+  <programme start="20251001084500 +0000" stop="20251001084600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Etat des lieux d'entrée : des dr...</desc>
+    <uid system="canalplus.fr">29825279_50026</uid>
+  </programme>
+  <programme start="20251001084600 +0000" stop="20251001085000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29957329_50026</uid>
+  </programme>
+  <programme start="20251001085000 +0000" stop="20251001092500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957318_50026</uid>
+  </programme>
+  <programme start="20251001092500 +0000" stop="20251001095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957320_50026</uid>
+  </programme>
+  <programme start="20251001095500 +0000" stop="20251001105600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957321_50026</uid>
+  </programme>
+  <programme start="20251001105600 +0000" stop="20251001105900 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Madénian et son fils</desc>
+    <uid system="canalplus.fr">29969365_50026</uid>
+  </programme>
+  <programme start="20251001105900 +0000" stop="20251001110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957330_50026</uid>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001114000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957326_50026</uid>
+  </programme>
+  <programme start="20251001114000 +0000" stop="20251001114600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957327_50026</uid>
+  </programme>
+  <programme start="20251001114600 +0000" stop="20251001115000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Visite guidée du tableau de boar...</desc>
+    <uid system="canalplus.fr">29994974_50026</uid>
+  </programme>
+  <programme start="20251001115000 +0000" stop="20251001115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">Le Sang noir, de Louis Guilloux</desc>
+    <uid system="canalplus.fr">29164514_50026</uid>
+  </programme>
+  <programme start="20251001115500 +0000" stop="20251001130500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Nouvelles drogues : addicts, ils...</desc>
+    <uid system="canalplus.fr">29957339_50026</uid>
+  </programme>
+  <programme start="20251001130500 +0000" stop="20251001141500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Elles ont fait le choix de laiss...</desc>
+    <uid system="canalplus.fr">28044067_50026</uid>
+  </programme>
+  <programme start="20251001141500 +0000" stop="20251001150500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957309_50026</uid>
+  </programme>
+  <programme start="20251001150500 +0000" stop="20251001155500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957308_50026</uid>
+  </programme>
+  <programme start="20251001155500 +0000" stop="20251001160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957310_50026</uid>
+  </programme>
+  <programme start="20251001160000 +0000" stop="20251001164000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957319_50026</uid>
+  </programme>
+  <programme start="20251001164000 +0000" stop="20251001171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957323_50026</uid>
+  </programme>
+  <programme start="20251001171000 +0000" stop="20251001175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957322_50026</uid>
+  </programme>
+  <programme start="20251001175500 +0000" stop="20251001180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957328_50026</uid>
+  </programme>
+  <programme start="20251001180000 +0000" stop="20251001185000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957325_50026</uid>
+  </programme>
+  <programme start="20251001185000 +0000" stop="20251001185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957331_50026</uid>
+  </programme>
+  <programme start="20251001185500 +0000" stop="20251001185600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Visite guidée du tableau de boar...</desc>
+    <uid system="canalplus.fr">29994974_50026</uid>
+  </programme>
+  <programme start="20251001185600 +0000" stop="20251001190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957283_50026</uid>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29925093_50026</uid>
+  </programme>
+  <programme start="20251001191000 +0000" stop="20251001204500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Les malvenus</title>
+    <desc lang="fr">Téléfilm Drame</desc>
+    <uid system="canalplus.fr">24850748_50026</uid>
+  </programme>
+  <programme start="20251001204500 +0000" stop="20251001214500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">L'Album SS retrouvé</title>
+    <desc lang="fr">Doc. Histoire</desc>
+    <uid system="canalplus.fr">26398418_50026</uid>
+  </programme>
+  <programme start="20251001214500 +0000" stop="20251001231500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Save our souls</title>
+    <desc lang="fr">Doc. Société</desc>
+    <uid system="canalplus.fr">29957303_50026</uid>
+  </programme>
+  <programme start="20251001231500 +0000" stop="20251002000500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Affaire de l'Ordre du Temple sol...</desc>
+    <uid system="canalplus.fr">29917348_50026</uid>
+  </programme>
+  <programme start="20251002000500 +0000" stop="20251002005000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Affaire de l'Ordre du Temple sol...</desc>
+    <uid system="canalplus.fr">29917347_50026</uid>
+  </programme>
+  <programme start="20251002005000 +0000" stop="20251002005500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29957329_50026</uid>
+  </programme>
+  <programme start="20251002005500 +0000" stop="20251002015000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Emissions religieuses</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957284_50026</uid>
+  </programme>
+  <programme start="20251002015000 +0000" stop="20251002024000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957309_50026</uid>
+  </programme>
+  <programme start="20251002024000 +0000" stop="20251002025000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Danemark : Odense</desc>
+    <uid system="canalplus.fr">15175016_50026</uid>
+  </programme>
+  <programme start="20251002025000 +0000" stop="20251002030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Emirats arabes unis : Dubaï</desc>
+    <uid system="canalplus.fr">21040985_50026</uid>
+  </programme>
+  <programme start="20251002030000 +0000" stop="20251002035000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29957321_50026</uid>
+  </programme>
+  <programme start="20251002035000 +0000" stop="20251002040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 01 oct. 2025</desc>
+    <uid system="canalplus.fr">29925093_50026</uid>
+  </programme>
+  <programme start="20251002040000 +0000" stop="20251002043000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957294_50026</uid>
+  </programme>
+  <programme start="20251002043000 +0000" stop="20251002060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957279_50026</uid>
+  </programme>
+  <programme start="20251002060000 +0000" stop="20251002063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957343_50026</uid>
+  </programme>
+  <programme start="20251002063000 +0000" stop="20251002075500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957336_50026</uid>
+  </programme>
+  <programme start="20251002075500 +0000" stop="20251002084500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957301_50026</uid>
+  </programme>
+  <programme start="20251002084500 +0000" stop="20251002084600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Prise de poids et retraite : pré...</desc>
+    <uid system="canalplus.fr">29825031_50026</uid>
+  </programme>
+  <programme start="20251002084600 +0000" stop="20251002085000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29957298_50026</uid>
+  </programme>
+  <programme start="20251002085000 +0000" stop="20251002092500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957291_50026</uid>
+  </programme>
+  <programme start="20251002092500 +0000" stop="20251002095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957287_50026</uid>
+  </programme>
+  <programme start="20251002095500 +0000" stop="20251002105000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957290_50026</uid>
+  </programme>
+  <programme start="20251002105000 +0000" stop="20251002105500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29969370_50026</uid>
+  </programme>
+  <programme start="20251002105500 +0000" stop="20251002110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957300_50026</uid>
+  </programme>
+  <programme start="20251002110000 +0000" stop="20251002114000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957293_50026</uid>
+  </programme>
+  <programme start="20251002114000 +0000" stop="20251002114400 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957296_50026</uid>
+  </programme>
+  <programme start="20251002114400 +0000" stop="20251002114500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Le GP Explorer en chiffre</desc>
+    <uid system="canalplus.fr">29943972_50026</uid>
+  </programme>
+  <programme start="20251002114500 +0000" stop="20251002115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">La Mouette, d'Anton Tchékhov</desc>
+    <uid system="canalplus.fr">29957341_50026</uid>
+  </programme>
+  <programme start="20251002115500 +0000" stop="20251002130500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Burn-out des soignants : ce méti...</desc>
+    <uid system="canalplus.fr">29957338_50026</uid>
+  </programme>
+  <programme start="20251002130500 +0000" stop="20251002142000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Ce geste chirurgical banal qui a...</desc>
+    <uid system="canalplus.fr">27592338_50026</uid>
+  </programme>
+  <programme start="20251002142000 +0000" stop="20251002151000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957277_50026</uid>
+  </programme>
+  <programme start="20251002151000 +0000" stop="20251002155500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957278_50026</uid>
+  </programme>
+  <programme start="20251002155500 +0000" stop="20251002160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957276_50026</uid>
+  </programme>
+  <programme start="20251002160000 +0000" stop="20251002164000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957292_50026</uid>
+  </programme>
+  <programme start="20251002164000 +0000" stop="20251002171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957288_50026</uid>
+  </programme>
+  <programme start="20251002171000 +0000" stop="20251002175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957289_50026</uid>
+  </programme>
+  <programme start="20251002175500 +0000" stop="20251002180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957297_50026</uid>
+  </programme>
+  <programme start="20251002180000 +0000" stop="20251002185000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957295_50026</uid>
+  </programme>
+  <programme start="20251002185000 +0000" stop="20251002185200 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957299_50026</uid>
+  </programme>
+  <programme start="20251002185200 +0000" stop="20251002185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">La préparation des pilotes sur p...</desc>
+    <uid system="canalplus.fr">29969363_50026</uid>
+  </programme>
+  <programme start="20251002185500 +0000" stop="20251002190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957342_50026</uid>
+  </programme>
+  <programme start="20251002190000 +0000" stop="20251002191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29925095_50026</uid>
+  </programme>
+  <programme start="20251002191000 +0000" stop="20251002210000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Envoyé spécial</title>
+    <desc lang="fr">Bilal Alnemr : un violon contre ...</desc>
+    <uid system="canalplus.fr">29957282_50026</uid>
+  </programme>
+  <programme start="20251002210000 +0000" stop="20251002221500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Complément d'enquête</title>
+    <desc lang="fr">Haine des juifs : ce mal qui déc...</desc>
+    <uid system="canalplus.fr">29957281_50026</uid>
+  </programme>
+  <programme start="20251002221500 +0000" stop="20251002223000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Nous, les Européens</title>
+    <desc lang="fr">Arménie, un pas vers l'Europe ?</desc>
+    <uid system="canalplus.fr">29957280_50026</uid>
+  </programme>
+  <programme start="20251002223000 +0000" stop="20251002224500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Votre télé et vous</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29969407_50026</uid>
+  </programme>
+  <programme start="20251002224500 +0000" stop="20251002233000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">13h15, le dimanche...</title>
+    <desc lang="fr">Les 2 Gisèle (Episodes 1 &amp; 2/4)</desc>
+    <uid system="canalplus.fr">29925253_50026</uid>
+  </programme>
+  <programme start="20251002233000 +0000" stop="20251003002000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">13h15, le dimanche...</title>
+    <desc lang="fr">Les 2 Gisèle (Episodes 3 &amp; 4/4)</desc>
+    <uid system="canalplus.fr">29925252_50026</uid>
+  </programme>
+  <programme start="20251003002000 +0000" stop="20251003020000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Affaire Georges Pouilles, la vér...</desc>
+    <uid system="canalplus.fr">24731484_50026</uid>
+  </programme>
+  <programme start="20251003020000 +0000" stop="20251003025500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaires sensibles</title>
+    <desc lang="fr">1975, Année de la femme</desc>
+    <uid system="canalplus.fr">23106124_50026</uid>
+  </programme>
+  <programme start="20251003025500 +0000" stop="20251003025600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29957298_50026</uid>
+  </programme>
+  <programme start="20251003025600 +0000" stop="20251003030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Courant d'art</title>
+    <desc lang="fr">Las Meninas de Canido</desc>
+    <uid system="canalplus.fr">22450796_50026</uid>
+  </programme>
+  <programme start="20251003030000 +0000" stop="20251003035000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29957290_50026</uid>
+  </programme>
+  <programme start="20251003035000 +0000" stop="20251003040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 02 oct. 2025</desc>
+    <uid system="canalplus.fr">29925095_50026</uid>
+  </programme>
+  <programme start="20251003040000 +0000" stop="20251003043000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969182_50026</uid>
+  </programme>
+  <programme start="20251003043000 +0000" stop="20251003060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969193_50026</uid>
+  </programme>
+  <programme start="20251003060000 +0000" stop="20251003063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969203_50026</uid>
+  </programme>
+  <programme start="20251003063000 +0000" stop="20251003075500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969202_50026</uid>
+  </programme>
+  <programme start="20251003075500 +0000" stop="20251003084500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969183_50026</uid>
+  </programme>
+  <programme start="20251003084500 +0000" stop="20251003084600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Permis de conduire : les aides p...</desc>
+    <uid system="canalplus.fr">29838422_50026</uid>
+  </programme>
+  <programme start="20251003084600 +0000" stop="20251003085000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29969176_50026</uid>
+  </programme>
+  <programme start="20251003085000 +0000" stop="20251003092500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969184_50026</uid>
+  </programme>
+  <programme start="20251003092500 +0000" stop="20251003095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969185_50026</uid>
+  </programme>
+  <programme start="20251003095500 +0000" stop="20251003105500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969194_50026</uid>
+  </programme>
+  <programme start="20251003105500 +0000" stop="20251003110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969192_50026</uid>
+  </programme>
+  <programme start="20251003110000 +0000" stop="20251003114000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969195_50026</uid>
+  </programme>
+  <programme start="20251003114000 +0000" stop="20251003114600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969190_50026</uid>
+  </programme>
+  <programme start="20251003114600 +0000" stop="20251003115000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Le tracé du Mans et ses spécific...</desc>
+    <uid system="canalplus.fr">29969364_50026</uid>
+  </programme>
+  <programme start="20251003115000 +0000" stop="20251003115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">Au-delà de cette limite votre ti...</desc>
+    <uid system="canalplus.fr">29969204_50026</uid>
+  </programme>
+  <programme start="20251003115500 +0000" stop="20251003130500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui, les jours d'après</title>
+    <desc lang="fr">Jumeaux, triplés, quadruplés : l...</desc>
+    <uid system="canalplus.fr">29969186_50026</uid>
+  </programme>
+  <programme start="20251003130500 +0000" stop="20251003142000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Leur incroyable histoire avec le...</desc>
+    <uid system="canalplus.fr">28056015_50026</uid>
+  </programme>
+  <programme start="20251003142000 +0000" stop="20251003151000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969180_50026</uid>
+  </programme>
+  <programme start="20251003151000 +0000" stop="20251003155500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969181_50026</uid>
+  </programme>
+  <programme start="20251003155500 +0000" stop="20251003160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969187_50026</uid>
+  </programme>
+  <programme start="20251003160000 +0000" stop="20251003164000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969191_50026</uid>
+  </programme>
+  <programme start="20251003164000 +0000" stop="20251003171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969188_50026</uid>
+  </programme>
+  <programme start="20251003171000 +0000" stop="20251003175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969189_50026</uid>
+  </programme>
+  <programme start="20251003175500 +0000" stop="20251003180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969177_50026</uid>
+  </programme>
+  <programme start="20251003180000 +0000" stop="20251003183500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969217_50026</uid>
+  </programme>
+  <programme start="20251003183500 +0000" stop="20251003185000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">20h30 le vendredi</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969178_50026</uid>
+  </programme>
+  <programme start="20251003185000 +0000" stop="20251003185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969179_50026</uid>
+  </programme>
+  <programme start="20251003185500 +0000" stop="20251003185600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au coeur du GP Explorer</title>
+    <desc lang="fr">Visite guidée du tableau de boar...</desc>
+    <uid system="canalplus.fr">29994974_50026</uid>
+  </programme>
+  <programme start="20251003185600 +0000" stop="20251003190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969218_50026</uid>
+  </programme>
+  <programme start="20251003190000 +0000" stop="20251003191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29925030_50026</uid>
+  </programme>
+  <programme start="20251003191000 +0000" stop="20251003195500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 5 : Mort sur le Green</desc>
+    <uid system="canalplus.fr">29873545_50026</uid>
+  </programme>
+  <programme start="20251003195500 +0000" stop="20251003205000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 6 : L'étoile filante</desc>
+    <uid system="canalplus.fr">29873643_50026</uid>
+  </programme>
+  <programme start="20251003205000 +0000" stop="20251003215000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, le concert</title>
+    <desc lang="fr">Michel Jonasz</desc>
+    <uid system="canalplus.fr">29969221_50026</uid>
+  </programme>
+  <programme start="20251003215000 +0000" stop="20251004000000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La Grande Fête de Carcassonne</title>
+    <desc lang="fr">Concert Variétés</desc>
+    <uid system="canalplus.fr">29737620_50026</uid>
+  </programme>
+  <programme start="20251004000000 +0000" stop="20251004005500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui, les jours d'après</title>
+    <desc lang="fr">Jumeaux, triplés, quadruplés : l...</desc>
+    <uid system="canalplus.fr">29969186_50026</uid>
+  </programme>
+  <programme start="20251004005500 +0000" stop="20251004010000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29969176_50026</uid>
+  </programme>
+  <programme start="20251004010000 +0000" stop="20251004015000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969180_50026</uid>
+  </programme>
+  <programme start="20251004015000 +0000" stop="20251004024000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969181_50026</uid>
+  </programme>
+  <programme start="20251004024000 +0000" stop="20251004025000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Courant d'art</title>
+    <desc lang="fr">Pierre Dubrunquez</desc>
+    <uid system="canalplus.fr">96984_50026</uid>
+  </programme>
+  <programme start="20251004025000 +0000" stop="20251004025500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Episode 18 : Turquie, Istanbul</desc>
+    <uid system="canalplus.fr">16295705_50026</uid>
+  </programme>
+  <programme start="20251004025500 +0000" stop="20251004031000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">France : Haut-Var-Aups</desc>
+    <uid system="canalplus.fr">16290885_50026</uid>
+  </programme>
+  <programme start="20251004031000 +0000" stop="20251004040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29969194_50026</uid>
+  </programme>
+  <programme start="20251004040000 +0000" stop="20251004043500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976147_50026</uid>
+  </programme>
+  <programme start="20251004043500 +0000" stop="20251004060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976148_50026</uid>
+  </programme>
+  <programme start="20251004060000 +0000" stop="20251004063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976177_50026</uid>
+  </programme>
+  <programme start="20251004063000 +0000" stop="20251004073500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976173_50026</uid>
+  </programme>
+  <programme start="20251004073500 +0000" stop="20251004084000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel et bien</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976150_50026</uid>
+  </programme>
+  <programme start="20251004084000 +0000" stop="20251004085500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Clôturer son compte bancaire : m...</desc>
+    <uid system="canalplus.fr">29765427_50026</uid>
+  </programme>
+  <programme start="20251004085500 +0000" stop="20251004093500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976151_50026</uid>
+  </programme>
+  <programme start="20251004093500 +0000" stop="20251004100500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976152_50026</uid>
+  </programme>
+  <programme start="20251004100500 +0000" stop="20251004103000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976139_50026</uid>
+  </programme>
+  <programme start="20251004103000 +0000" stop="20251004110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976137_50026</uid>
+  </programme>
+  <programme start="20251004110000 +0000" stop="20251004112000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976130_50026</uid>
+  </programme>
+  <programme start="20251004112000 +0000" stop="20251004115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">13h15, le samedi...</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976172_50026</uid>
+  </programme>
+  <programme start="20251004115500 +0000" stop="20251004120000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976138_50026</uid>
+  </programme>
+  <programme start="20251004120000 +0000" stop="20251004120500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">C'est bon à savoir</title>
+    <desc lang="fr">Comment bien manger pendant la g...</desc>
+    <uid system="canalplus.fr">29976140_50026</uid>
+  </programme>
+  <programme start="20251004120500 +0000" stop="20251004130000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Affaire Marc Machin, l'innocent ...</desc>
+    <uid system="canalplus.fr">29976149_50026</uid>
+  </programme>
+  <programme start="20251004130000 +0000" stop="20251004140000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">L'affaire des disparus de Mirepo...</desc>
+    <uid system="canalplus.fr">26450353_50026</uid>
+  </programme>
+  <programme start="20251004140000 +0000" stop="20251004150000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
+    <desc lang="fr">Affaire Michel Guibal, obsession</desc>
+    <uid system="canalplus.fr">23038733_50026</uid>
+  </programme>
+  <programme start="20251004150000 +0000" stop="20251004155000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976141_50026</uid>
+  </programme>
+  <programme start="20251004155000 +0000" stop="20251004160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976143_50026</uid>
+  </programme>
+  <programme start="20251004160000 +0000" stop="20251004163500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976133_50026</uid>
+  </programme>
+  <programme start="20251004163500 +0000" stop="20251004171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Best of</desc>
+    <uid system="canalplus.fr">30004505_50026</uid>
+  </programme>
+  <programme start="20251004171000 +0000" stop="20251004175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Best of</desc>
+    <uid system="canalplus.fr">30004507_50026</uid>
+  </programme>
+  <programme start="20251004175500 +0000" stop="20251004180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976134_50026</uid>
+  </programme>
+  <programme start="20251004180000 +0000" stop="20251004183000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976135_50026</uid>
+  </programme>
+  <programme start="20251004183000 +0000" stop="20251004185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">20h30 le samedi</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976153_50026</uid>
+  </programme>
+  <programme start="20251004185500 +0000" stop="20251004190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976145_50026</uid>
+  </programme>
+  <programme start="20251004190000 +0000" stop="20251004191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Immeuble partagé - Saison 1</title>
+    <desc lang="fr">Episode 4 : La lettre</desc>
+    <uid system="canalplus.fr">29718764_50026</uid>
+  </programme>
+  <programme start="20251004191000 +0000" stop="20251004212500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">100 % logique : la réponse est sous vos yeux</title>
+    <desc lang="fr">Invités : Agathe Lecaron, Valéri...</desc>
+    <uid system="canalplus.fr">29976174_50026</uid>
+  </programme>
+  <programme start="20251004212500 +0000" stop="20251004232500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Quelle époque !</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976146_50026</uid>
+  </programme>
+  <programme start="20251004232500 +0000" stop="20251004233000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo 2</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29976142_50026</uid>
+  </programme>
+  <programme start="20251004233000 +0000" stop="20251005014000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Intuition, qui sera le plus proche ?</title>
+    <desc lang="fr">Invités : Willy Rovelli, Cendrin...</desc>
+    <uid system="canalplus.fr">29857173_50026</uid>
+  </programme>
+  <programme start="20251005014000 +0000" stop="20251005023500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Les enfants de la télé</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29976136_50026</uid>
+  </programme>
+  <programme start="20251005023500 +0000" stop="20251005025500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Courant d'art</title>
+    <desc lang="fr">Nathalie Cora</desc>
+    <uid system="canalplus.fr">22666203_50026</uid>
+  </programme>
+  <programme start="20251005025500 +0000" stop="20251005030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">USA : Alabama</desc>
+    <uid system="canalplus.fr">19915667_50026</uid>
+  </programme>
+  <programme start="20251005030000 +0000" stop="20251005031000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Canada : Toronto</desc>
+    <uid system="canalplus.fr">15147498_50026</uid>
+  </programme>
+  <programme start="20251005031000 +0000" stop="20251005040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 04 oct. 2025</desc>
+    <uid system="canalplus.fr">29976139_50026</uid>
+  </programme>
+  <programme start="20251005040000 +0000" stop="20251005044500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985154_50026</uid>
+  </programme>
+  <programme start="20251005044500 +0000" stop="20251005060500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985135_50026</uid>
+  </programme>
+  <programme start="20251005060500 +0000" stop="20251005061500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985008_50026</uid>
+  </programme>
+  <programme start="20251005061500 +0000" stop="20251005063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29984996_50026</uid>
+  </programme>
+  <programme start="20251005063000 +0000" stop="20251005064500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Sagesses bouddhistes</title>
+    <desc lang="fr">La conscience après la mort</desc>
+    <uid system="canalplus.fr">29984998_50026</uid>
+  </programme>
+  <programme start="20251005064500 +0000" stop="20251005071500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Islam</title>
+    <desc lang="fr">L'empire Moghol, un monde de spi...</desc>
+    <uid system="canalplus.fr">29985143_50026</uid>
+  </programme>
+  <programme start="20251005071500 +0000" stop="20251005080000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">A l'origine</title>
+    <desc lang="fr">Histoires : Souccot, la fête de ...</desc>
+    <uid system="canalplus.fr">29985161_50026</uid>
+  </programme>
+  <programme start="20251005080000 +0000" stop="20251005083000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Présence protestante</title>
+    <desc lang="fr">Ma foi... la transmission</desc>
+    <uid system="canalplus.fr">26904258_50026</uid>
+  </programme>
+  <programme start="20251005083000 +0000" stop="20251005090000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le jour du Seigneur</title>
+    <desc lang="fr">MED25, le navire école pour la p...</desc>
+    <uid system="canalplus.fr">29985144_50026</uid>
+  </programme>
+  <programme start="20251005090000 +0000" stop="20251005095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Messe</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985148_50026</uid>
+  </programme>
+  <programme start="20251005095500 +0000" stop="20251005100600 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Parole inattendue</title>
+    <desc lang="fr">Invité : Greg Zlap</desc>
+    <uid system="canalplus.fr">29985142_50026</uid>
+  </programme>
+  <programme start="20251005100600 +0000" stop="20251005105500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985152_50026</uid>
+  </programme>
+  <programme start="20251005105500 +0000" stop="20251005110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985157_50026</uid>
+  </programme>
+  <programme start="20251005110000 +0000" stop="20251005112000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985127_50026</uid>
+  </programme>
+  <programme start="20251005112000 +0000" stop="20251005121000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">13h15, le dimanche...</title>
+    <desc lang="fr">Robert Badinter, une conscience ...</desc>
+    <uid system="canalplus.fr">29984997_50026</uid>
+  </programme>
+  <programme start="20251005121000 +0000" stop="20251005121500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">C'est bon à savoir</title>
+    <desc lang="fr">La vitamine C. Info ou Intox ?</desc>
+    <uid system="canalplus.fr">29985138_50026</uid>
+  </programme>
+  <programme start="20251005121500 +0000" stop="20251005131000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">13h15, le dimanche...</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985139_50026</uid>
+  </programme>
+  <programme start="20251005131000 +0000" stop="20251005140000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaires sensibles</title>
+    <desc lang="fr">Khaled Kelkal</desc>
+    <uid system="canalplus.fr">30004486_50026</uid>
+  </programme>
+  <programme start="20251005140000 +0000" stop="20251005145000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Un dimanche à la campagne</title>
+    <desc lang="fr">Invités : Henri Sannier, Shy'm, ...</desc>
+    <uid system="canalplus.fr">29985159_50026</uid>
+  </programme>
+  <programme start="20251005145000 +0000" stop="20251005154000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">GP Explorer</title>
+    <desc lang="fr">Sport Mécanique</desc>
+    <uid system="canalplus.fr">30004484_50026</uid>
+  </programme>
+  <programme start="20251005154000 +0000" stop="20251005165000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">GP Explorer</title>
+    <desc lang="fr">Sport Mécanique</desc>
+    <uid system="canalplus.fr">29985160_50026</uid>
+  </programme>
+  <programme start="20251005165000 +0000" stop="20251005175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Les enfants de la télé</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985147_50026</uid>
+  </programme>
+  <programme start="20251005175500 +0000" stop="20251005180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985155_50026</uid>
+  </programme>
+  <programme start="20251005180000 +0000" stop="20251005183000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985153_50026</uid>
+  </programme>
+  <programme start="20251005183000 +0000" stop="20251005190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">20h30, le dimanche</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985137_50026</uid>
+  </programme>
+  <programme start="20251005190000 +0000" stop="20251005190300 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985158_50026</uid>
+  </programme>
+  <programme start="20251005190300 +0000" stop="20251005191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">GP Explorer</title>
+    <desc lang="fr">Podium</desc>
+    <uid system="canalplus.fr">29994957_50026</uid>
+  </programme>
+  <programme start="20251005191000 +0000" stop="20251005213000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Skyfall</title>
+    <desc lang="fr">Film Action</desc>
+    <uid system="canalplus.fr">2746717_50026</uid>
+  </programme>
+  <programme start="20251005213000 +0000" stop="20251005231500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Quantum of Solace</title>
+    <desc lang="fr">Film Action</desc>
+    <uid system="canalplus.fr">1135279_50026</uid>
+  </programme>
+  <programme start="20251005231500 +0000" stop="20251005232000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le pitch cinéma</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985140_50026</uid>
+  </programme>
+  <programme start="20251005232000 +0000" stop="20251005235000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Histoires courtes</title>
+    <desc lang="fr">Cycle résilience</desc>
+    <uid system="canalplus.fr">29985141_50026</uid>
+  </programme>
+  <programme start="20251005235000 +0000" stop="20251005235500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo 2</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29985156_50026</uid>
+  </programme>
+  <programme start="20251005235500 +0000" stop="20251006004000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 1 : Dernier solo</desc>
+    <uid system="canalplus.fr">29770517_50026</uid>
+  </programme>
+  <programme start="20251006004000 +0000" stop="20251006012500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 2 : La voie du sang</desc>
+    <uid system="canalplus.fr">29770211_50026</uid>
+  </programme>
+  <programme start="20251006012500 +0000" stop="20251006021500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 3 : Mauvaise mer</desc>
+    <uid system="canalplus.fr">29830599_50026</uid>
+  </programme>
+  <programme start="20251006021500 +0000" stop="20251006024500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Les joyaux des mers du Sud</title>
+    <desc lang="fr">Émission du 1108 à 03:55</desc>
+    <uid system="canalplus.fr">96428_50026</uid>
+  </programme>
+  <programme start="20251006024500 +0000" stop="20251006025000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">La cuisine de Laurie</desc>
+    <uid system="canalplus.fr">19118432_50026</uid>
+  </programme>
+  <programme start="20251006025000 +0000" stop="20251006030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Episode 38 : Poitiers - Chauvigny</desc>
+    <uid system="canalplus.fr">24436906_50026</uid>
+  </programme>
+  <programme start="20251006030000 +0000" stop="20251006035000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 05 oct. 2025</desc>
+    <uid system="canalplus.fr">29985152_50026</uid>
+  </programme>
+  <programme start="20251006035000 +0000" stop="20251006040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 03 oct. 2025</desc>
+    <uid system="canalplus.fr">29925030_50026</uid>
+  </programme>
+  <programme start="20251006040000 +0000" stop="20251006043000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le 6h info</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994991_50026</uid>
+  </programme>
+  <programme start="20251006043000 +0000" stop="20251006060000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994979_50026</uid>
+  </programme>
+  <programme start="20251006060000 +0000" stop="20251006063000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 08h00</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994969_50026</uid>
+  </programme>
+  <programme start="20251006063000 +0000" stop="20251006075500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Télématin</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994952_50026</uid>
+  </programme>
+  <programme start="20251006075500 +0000" stop="20251006084500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Bel &amp; Bien ensemble</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994999_50026</uid>
+  </programme>
+  <programme start="20251006084500 +0000" stop="20251006085000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Consomag</title>
+    <desc lang="fr">Devis et ordre de réparation du ...</desc>
+    <uid system="canalplus.fr">29778926_50026</uid>
+  </programme>
+  <programme start="20251006085000 +0000" stop="20251006085500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29994994_50026</uid>
+  </programme>
+  <programme start="20251006085500 +0000" stop="20251006092500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994968_50026</uid>
+  </programme>
+  <programme start="20251006092500 +0000" stop="20251006095500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Chacun son tour</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994988_50026</uid>
+  </programme>
+  <programme start="20251006095500 +0000" stop="20251006104500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994967_50026</uid>
+  </programme>
+  <programme start="20251006104500 +0000" stop="20251006105500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Le meilleur des Maternelles XXL</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994953_50026</uid>
+  </programme>
+  <programme start="20251006105500 +0000" stop="20251006110000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994993_50026</uid>
+  </programme>
+  <programme start="20251006110000 +0000" stop="20251006114000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 13h00</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994990_50026</uid>
+  </programme>
+  <programme start="20251006114000 +0000" stop="20251006114500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994995_50026</uid>
+  </programme>
+  <programme start="20251006114500 +0000" stop="20251006115500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La p'tite librairie</title>
+    <desc lang="fr">Mémoires d'un vieux con, de Rola...</desc>
+    <uid system="canalplus.fr">29994981_50026</uid>
+  </programme>
+  <programme start="20251006115500 +0000" stop="20251006130000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994956_50026</uid>
+  </programme>
+  <programme start="20251006130000 +0000" stop="20251006133000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Rendez-vous chez le psy</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29993604_50026</uid>
+  </programme>
+  <programme start="20251006133000 +0000" stop="20251006141000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Rendez-vous chez le psy</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29993727_50026</uid>
+  </programme>
+  <programme start="20251006141000 +0000" stop="20251006150000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994978_50026</uid>
+  </programme>
+  <programme start="20251006150000 +0000" stop="20251006155500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994976_50026</uid>
+  </programme>
+  <programme start="20251006155500 +0000" stop="20251006160000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994977_50026</uid>
+  </programme>
+  <programme start="20251006160000 +0000" stop="20251006163500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde a son mot à dire</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994984_50026</uid>
+  </programme>
+  <programme start="20251006163500 +0000" stop="20251006171000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">30004510_50026</uid>
+  </programme>
+  <programme start="20251006171000 +0000" stop="20251006175500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">N'oubliez pas les paroles</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">30004511_50026</uid>
+  </programme>
+  <programme start="20251006175500 +0000" stop="20251006180000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994970_50026</uid>
+  </programme>
+  <programme start="20251006180000 +0000" stop="20251006185000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994989_50026</uid>
+  </programme>
+  <programme start="20251006185000 +0000" stop="20251006185500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Journal Météo Climat</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994992_50026</uid>
+  </programme>
+  <programme start="20251006185500 +0000" stop="20251006190000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994982_50026</uid>
+  </programme>
+  <programme start="20251006190000 +0000" stop="20251006191000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994987_50026</uid>
+  </programme>
+  <programme start="20251006191000 +0000" stop="20251006200000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La vallée fracturée - Saison 1</title>
+    <desc lang="fr">Episode 5</desc>
+    <uid system="canalplus.fr">29819349_50026</uid>
+  </programme>
+  <programme start="20251006200000 +0000" stop="20251006205000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La vallée fracturée - Saison 1</title>
+    <desc lang="fr">Episode 6</desc>
+    <uid system="canalplus.fr">29819363_50026</uid>
+  </programme>
+  <programme start="20251006205000 +0000" stop="20251006213500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">L'affaire d'Outreau - Saison 1</title>
+    <desc lang="fr">Episode 3 : Le meurtre de la pet...</desc>
+    <uid system="canalplus.fr">20764091_50026</uid>
+  </programme>
+  <programme start="20251006213500 +0000" stop="20251006223000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">L'affaire d'Outreau</title>
+    <desc lang="fr">Episode 4 : Les procès : 2004 - ...</desc>
+    <uid system="canalplus.fr">20764379_50026</uid>
+  </programme>
+  <programme start="20251006223000 +0000" stop="20251006223500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Expression directe</title>
+    <desc lang="fr">Les Républicains</desc>
+    <uid system="canalplus.fr">29994983_50026</uid>
+  </programme>
+  <programme start="20251006223500 +0000" stop="20251006232500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 4 : Noces mortelles</desc>
+    <uid system="canalplus.fr">29830598_50026</uid>
+  </programme>
+  <programme start="20251006232500 +0000" stop="20251007001000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 5 : Mort sur le Green</desc>
+    <uid system="canalplus.fr">29873545_50026</uid>
+  </programme>
+  <programme start="20251007001000 +0000" stop="20251007005500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Simon Coleman - Saison 3</title>
+    <desc lang="fr">Episode 6 : L'étoile filante</desc>
+    <uid system="canalplus.fr">29873643_50026</uid>
+  </programme>
+  <programme start="20251007005500 +0000" stop="20251007015500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Ça commence aujourd'hui</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994956_50026</uid>
+  </programme>
+  <programme start="20251007015500 +0000" stop="20251007022500 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Rendez-vous chez le psy</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29993604_50026</uid>
+  </programme>
+  <programme start="20251007022500 +0000" stop="20251007023000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Météo Outre-mer</title>
+    <desc lang="fr">Météo</desc>
+    <uid system="canalplus.fr">29994994_50026</uid>
+  </programme>
+  <programme start="20251007023000 +0000" stop="20251007024000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">La civilisation des arbres</title>
+    <desc lang="fr">Le vrai visage des trognes</desc>
+    <uid system="canalplus.fr">22484901_50026</uid>
+  </programme>
+  <programme start="20251007024000 +0000" stop="20251007025000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Courant d'art</title>
+    <desc lang="fr">Marionnettes laotiennes</desc>
+    <uid system="canalplus.fr">4264601_50026</uid>
+  </programme>
+  <programme start="20251007025000 +0000" stop="20251007030000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Pays et marchés du monde - Saison 4</title>
+    <desc lang="fr">Episode 24 : Sénégal : Saint-Louis</desc>
+    <uid system="canalplus.fr">20597719_50026</uid>
+  </programme>
+  <programme start="20251007030000 +0000" stop="20251007035000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994967_50026</uid>
+  </programme>
+  <programme start="20251007035000 +0000" stop="20251007040000 +0000" channel="Canal+FR_CH26">
+    <title lang="fr">Memory, qui paire gagne !</title>
+    <desc lang="fr">Emission du 06 oct. 2025</desc>
+    <uid system="canalplus.fr">29994987_50026</uid>
+  </programme>
+</tv>
