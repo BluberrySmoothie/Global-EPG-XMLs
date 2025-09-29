@@ -1,4 +1,6 @@
-Daily XML and CSV TV Guides. I plan to automate the jobs that create these guides and upload automatically once run.
+Daily XML and CSV TV Guides. 
+
+The job to generate these scripts starts running at 10pm UK Time. Once the scripts are finished, they files will be automatically uploaded to this repo.
 
 **starhubSG_EPG**
 Platform: Star Hub
