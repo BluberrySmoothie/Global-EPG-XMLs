@@ -1,6 +1,6 @@
 Daily XML and CSV TV Guides. 
 
-The job to generate these scripts starts running at 10pm UK Time. Once the scripts are finished, they files will be automatically uploaded to this repo.
+The job to generate these files starts running at 10pm UK Time. Once the scripts are finished, the files will be automatically uploaded to this repo.
 
 **starhubSG_EPG**
 Platform: Star Hub
@@ -21,3 +21,6 @@ Content: This contains 7 days of data from midnight UTC on the run date.
 Platform: Bein Sports
 Country: France (FR), United Arab Emirates (AE), USA (US), Malaysia (MY), Australia (AU), Bein Xtra
 Content: This contains 7 days of data from midnight UTC on the run date.
+
+**script_run.log**
+Output log from the batch job.
