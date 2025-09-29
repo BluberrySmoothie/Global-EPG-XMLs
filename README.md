@@ -42,6 +42,14 @@ Country: Ireland (IE)
 
 Content: This contains 7 days of data from midnight UTC on the run date.
 
+**CanalPlusFR_epg**
+
+Platform: Canal+
+
+Country: France (FR)
+
+Content: This contains 8 days of data from midnight UTC on the run date.
+
 **script_run.log**
 
 Output log from the batch job.
