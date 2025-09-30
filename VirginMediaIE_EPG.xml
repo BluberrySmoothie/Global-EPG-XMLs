@@ -120,12 +120,12 @@
     <desc lang="en">The Trial of Richard Satchwell examines the extraordinary investigation into the disappearance and murder of Tina Satchwell. With exclusive interviews from her family, this documentary follows the cas...</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20250929210000 +0000" stop="20250929220500 +0000" channel="Virgin Media One">
+  <programme start="20250929210000 +0000" stop="20250929221500 +0000" channel="Virgin Media One">
     <title lang="en">The Tonight Show Presidential Debate</title>
     <desc lang="en">Kieran Cuddihy hosts a live debate with the candidates who want to be Ireland’s next President.</desc>
-    <length units="minutes">65</length>
+    <length units="minutes">75</length>
   </programme>
-  <programme start="20250929220500 +0000" stop="20250929230000 +0000" channel="Virgin Media One">
+  <programme start="20250929221500 +0000" stop="20250929231000 +0000" channel="Virgin Media One">
     <title lang="en">Law &amp; Order: SVU</title>
     <desc lang="en">A teenager found unconscious in the park leads to a missing persons investigation. Benson must help Noah come to terms with the past when he questions the origins of his birth.</desc>
     <length units="minutes">55</length>
@@ -535,12 +535,17 @@
     <desc lang="en">Legendary former Irish international football manager Brian Kerr discusses his life and career in an in-depth conversation with Virgin Media Sport’s Tommy Martin. In this episode Brian takes us ...</desc>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20250929230000 +0000" stop="20250929235500 +0000" channel="Virgin Media One">
+  <programme start="20250930221500 +0000" stop="20250930231000 +0000" channel="Virgin Media One">
+    <title lang="en">Law &amp; Order: SVU</title>
+    <desc lang="en">A teenager found unconscious in the park leads to a missing persons investigation. Benson must help Noah come to terms with the past when he questions the origins of his birth.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20250929231000 +0000" stop="20250930000500 +0000" channel="Virgin Media One">
     <title lang="en">Sport Stories: Mick McCarthy Part One</title>
     <desc lang="en">One of the most prominent figures in Irish football history, Mick McCarthy sits down with Tommy Martin for an in-depth, honest conversation. In part one of this series, the former Man City, Celtic and...</desc>
     <length units="minutes">55</length>
   </programme>
-  <programme start="20250929235500 +0000" stop="20250930005900 +0000" channel="Virgin Media One">
+  <programme start="20250930000500 +0000" stop="20250930010900 +0000" channel="Virgin Media One">
     <title lang="en">The Game</title>
     <desc lang="en">Detective Miller is haunted by the one case he failed to solve until he meets his new neighbour. Jason Watkins and Robson Green star in this psychological cat and mouse thriller.</desc>
     <length units="minutes">64</length>
@@ -1025,10 +1030,10 @@
     <desc lang="en">In the second part of this fascinating discussion, Mick McCarthy opens up about life as a manager, taking the Ireland job twice, the 2002 World Cup and the infamous relationship with Roy Keane.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251001000000 +0000" stop="20251001010600 +0000" channel="Virgin Media One">
+  <programme start="20251001000000 +0000" stop="20251001010900 +0000" channel="Virgin Media One">
     <title lang="en">Dr Blake Mysteries</title>
     <desc lang="en">Medical cases turn to murder cases in this compelling detective drama based on the hit Australian series.</desc>
-    <length units="minutes">66</length>
+    <length units="minutes">69</length>
   </programme>
   <programme start="20251001042500 +0000" stop="20251001051500 +0000" channel="Virgin Media One">
     <title lang="en">The Tonight Show</title>
@@ -1135,10 +1140,10 @@
     <desc lang="en">Follow LA’s hottest and most aggressive real estate magnates in the making as they net a fortune selling multi-million dollar properties in the most exclusive neighbourhoods.</desc>
     <length units="minutes">55</length>
   </programme>
-  <programme start="20250930235000 +0000" stop="20251001004500 +0000" channel="Virgin Media Two">
+  <programme start="20250930235000 +0000" stop="20251001004700 +0000" channel="Virgin Media Two">
     <title lang="en">My Mum, Your Dad USA</title>
     <desc lang="en">Fortune favors the bold as Noah, PJ, and Myles jump at the chance to give their parents some sage advice. Then, a poolside challenge offers the kids an opportunity to score their mom or dad an off-sit...</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">57</length>
   </programme>
   <programme start="20251001044500 +0000" stop="20251001051500 +0000" channel="Virgin Media Two">
     <title lang="en">DR HO Longform (aka teleshopping/infomercials)</title>
@@ -1410,15 +1415,15 @@
     <desc lang="en">The show follows the biggest characters from the world of pawn broking as they uncover the stories behind, and the prospective value of, the most amazing objects being bought, sold and loaned against....</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251001180000 +0000" stop="20251001185500 +0000" channel="Virgin Media Four">
+  <programme start="20251001180000 +0000" stop="20251001190000 +0000" channel="Virgin Media Four">
     <title lang="en">Guess This House</title>
     <desc lang="en">Home is where the heart is, but in this show, it’s all about the money. Four couples, who think they know the property market, snoop around a home and give their candid opinion of what it’...</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">60</length>
   </programme>
-  <programme start="20251001185500 +0000" stop="20251001200000 +0000" channel="Virgin Media Four">
+  <programme start="20251001190000 +0000" stop="20251001200000 +0000" channel="Virgin Media Four">
     <title lang="en">Storage Hoarders</title>
     <desc lang="en">It's time to say goodbye to the things with no value and turn forgotten collectibles into hard cash.</desc>
-    <length units="minutes">65</length>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20251001200000 +0000" stop="20251001210000 +0000" channel="Virgin Media Four">
     <title lang="en">The Cube</title>
@@ -1440,10 +1445,10 @@
     <desc lang="en">Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers.</desc>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251001225500 +0000" stop="20251002011700 +0000" channel="Virgin Media Four">
+  <programme start="20251001225500 +0000" stop="20251002012000 +0000" channel="Virgin Media Four">
     <title lang="en">This Morning</title>
     <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more.</desc>
-    <length units="minutes">142</length>
+    <length units="minutes">145</length>
   </programme>
   <programme start="20251001224000 +0000" stop="20251001233500 +0000" channel="Virgin Media More">
     <title lang="en">Classic Six Nations: England v Scotland 2019</title>
@@ -1515,10 +1520,10 @@
     <desc lang="en">In the latest episode of Sport Stories, Tommy Martin catches up with former Premier League referee Dermot Gallagher. Dermot tells his story from growing up in Ringsend to becoming one of the most reco...</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251002000500 +0000" stop="20251002011100 +0000" channel="Virgin Media One">
+  <programme start="20251002000500 +0000" stop="20251002011300 +0000" channel="Virgin Media One">
     <title lang="en">Dr Blake Mysteries</title>
     <desc lang="en">Medical cases turn to murder cases in this compelling detective drama based on the hit Australian series.</desc>
-    <length units="minutes">66</length>
+    <length units="minutes">68</length>
   </programme>
   <programme start="20251002042500 +0000" stop="20251002051500 +0000" channel="Virgin Media One">
     <title lang="en">The Tonight Show</title>
@@ -1635,10 +1640,10 @@
     <desc lang="en">A married couple suddly go bankrupt and the only remaining asset they has is a small ugly town named Schitt's Creek</desc>
     <length units="minutes">35</length>
   </programme>
-  <programme start="20251002001500 +0000" stop="20251002010700 +0000" channel="Virgin Media Two">
+  <programme start="20251002001500 +0000" stop="20251002010800 +0000" channel="Virgin Media Two">
     <title lang="en">The Real Housewives of Beverly Hills</title>
     <desc lang="en">Balancing their ever-evolving friendships with the demands of family life can be difficult while a string of shocking events proves living this large is more than meets the eye.</desc>
-    <length units="minutes">52</length>
+    <length units="minutes">53</length>
   </programme>
   <programme start="20251002044500 +0000" stop="20251002051500 +0000" channel="Virgin Media Two">
     <title lang="en">DR HO Longform (aka teleshopping/infomercials)</title>
@@ -1850,10 +1855,10 @@
     <desc lang="en">Detective Inspector Jimmy Perez and his team investigate various criminal activities that take place in Shetland</desc>
     <length units="minutes">75</length>
   </programme>
-  <programme start="20251002225500 +0000" stop="20251003011700 +0000" channel="Virgin Media Four">
+  <programme start="20251002225500 +0000" stop="20251003012000 +0000" channel="Virgin Media Four">
     <title lang="en">This Morning</title>
     <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more.</desc>
-    <length units="minutes">142</length>
+    <length units="minutes">145</length>
   </programme>
   <programme start="20251002054000 +0000" stop="20251002061000 +0000" channel="Virgin Media Four">
     <title lang="en">DR HO Longform (aka teleshopping/infomercials)</title>
@@ -1885,15 +1890,15 @@
     <desc lang="en">The Cube which tests contestants' ability, nerve and determination to win.</desc>
     <length units="minutes">65</length>
   </programme>
-  <programme start="20251002115000 +0000" stop="20251002122500 +0000" channel="Virgin Media Four">
-    <title lang="en">Marcus Wareing: Tales from a Kitchen Garden</title>
-    <desc lang="en">This series follows Marcus - chef extraordinaire and successful restaurateur - as he follows his dream of living, and cooking, in the English countryside.</desc>
-    <length units="minutes">35</length>
-  </programme>
-  <programme start="20251002122500 +0000" stop="20251002130500 +0000" channel="Virgin Media Four">
+  <programme start="20251002115000 +0000" stop="20251002123000 +0000" channel="Virgin Media Four">
     <title lang="en">Marcus Wareing: Tales from a Kitchen Garden</title>
     <desc lang="en">This series follows Marcus - chef extraordinaire and successful restaurateur - as he follows his dream of living, and cooking, in the English countryside.</desc>
     <length units="minutes">40</length>
+  </programme>
+  <programme start="20251002123000 +0000" stop="20251002130500 +0000" channel="Virgin Media Four">
+    <title lang="en">Marcus Wareing: Tales from a Kitchen Garden</title>
+    <desc lang="en">This series follows Marcus - chef extraordinaire and successful restaurateur - as he follows his dream of living, and cooking, in the English countryside.</desc>
+    <length units="minutes">35</length>
   </programme>
   <programme start="20251002130500 +0000" stop="20251002140000 +0000" channel="Virgin Media Four">
     <title lang="en">The Six O'Clock Show</title>
@@ -1925,15 +1930,15 @@
     <desc lang="en">The show follows the biggest characters from the world of pawn broking as they uncover the stories behind, and the prospective value of, the most amazing objects being bought, sold and loaned against....</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251002180000 +0000" stop="20251002185500 +0000" channel="Virgin Media Four">
+  <programme start="20251002180000 +0000" stop="20251002190000 +0000" channel="Virgin Media Four">
     <title lang="en">Guess This House</title>
     <desc lang="en">Home is where the heart is, but in this show, it’s all about the money. Four couples, who think they know the property market, snoop around a home and give their candid opinion of what it’...</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">60</length>
   </programme>
-  <programme start="20251002185500 +0000" stop="20251002200000 +0000" channel="Virgin Media Four">
+  <programme start="20251002190000 +0000" stop="20251002200000 +0000" channel="Virgin Media Four">
     <title lang="en">Storage Hoarders</title>
     <desc lang="en">It's time to say goodbye to the things with no value and turn forgotten collectibles into hard cash.</desc>
-    <length units="minutes">65</length>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20251002200000 +0000" stop="20251002210000 +0000" channel="Virgin Media Four">
     <title lang="en">The Cube</title>
@@ -2500,10 +2505,10 @@
     <desc lang="en">In the latest episode of Sport Stories, Tommy Martin catches up with former Premier League referee Dermot Gallagher. Dermot tells his story from growing up in Ringsend to becoming one of the most reco...</desc>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20251002232000 +0000" stop="20251003001500 +0000" channel="Virgin Media More">
+  <programme start="20251002232000 +0000" stop="20251003001400 +0000" channel="Virgin Media More">
     <title lang="en">Classic Six Nations: Wales v Ireland 2003</title>
     <desc lang="en">Steve Hanson's Wales welcomed Ireland to the Millennium Stadium for a nail biting match that went right to the wire.</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">54</length>
   </programme>
   <programme start="20251003120500 +0000" stop="20251003130000 +0000" channel="Virgin Media More">
     <title lang="en">France v Ireland 2014</title>
@@ -2989,10 +2994,10 @@ Changing Roo...</desc>
     <desc lang="en">From Clondalkin to Beijing. Olympic silver medallist Kenny Egan’s journey to the top of the amateur boxing world and his hidden struggles with addiction</desc>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20251004000000 +0000" stop="20251004005300 +0000" channel="Virgin Media More">
+  <programme start="20251004000000 +0000" stop="20251004005500 +0000" channel="Virgin Media More">
     <title lang="en">Classic Six Nations: Scotland v Ireland 2015</title>
     <desc lang="en">The final day of the 2015 Six Nations saw everything still up for grabs, as Ireland tried to pip Wales and England to the title with a win over Scotland in Murrayfield</desc>
-    <length units="minutes">53</length>
+    <length units="minutes">55</length>
   </programme>
   <programme start="20251004120500 +0000" stop="20251004125500 +0000" channel="Virgin Media More">
     <title lang="en">UCL Defining Moment</title>
