@@ -58,6 +58,13 @@ Country: Germany (DE)
 
 Content: This contains 7 to 8 days of data from midnight UTC on the run date. Sometimes the 8th day of data won't extract from the website.
 
+**MagentaTvDE_epg**
+
+Platform: Magenta TV
+
+Country: Germany (DE)
+
+Content: This contains 8 days of data from midnight UTC on the run date.
 
 **script_run.log**
 
