@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="max_sport_4_hd">
+    <display-name>max_sport_4_hd</display-name>
+  </channel>
+  <channel id="bnt_3">
+    <display-name>bnt_3</display-name>
+  </channel>
+  <channel id="ring">
+    <display-name>ring</display-name>
+  </channel>
+  <channel id="nova_sport">
+    <display-name>nova_sport</display-name>
+  </channel>
+  <channel id="eurosport_1">
+    <display-name>eurosport_1</display-name>
+  </channel>
+  <channel id="eurosport_2">
+    <display-name>eurosport_2</display-name>
+  </channel>
+  <channel id="diema_sport">
+    <display-name>diema_sport</display-name>
+  </channel>
+  <channel id="diema_sport_2">
+    <display-name>diema_sport_2</display-name>
+  </channel>
+  <channel id="max_sport_1_hd">
+    <display-name>max_sport_1_hd</display-name>
+  </channel>
+  <channel id="max_sport_2_hd">
+    <display-name>max_sport_2_hd</display-name>
+  </channel>
+  <channel id="max_sport_3_hd">
+    <display-name>max_sport_3_hd</display-name>
+  </channel>
+</tv>
