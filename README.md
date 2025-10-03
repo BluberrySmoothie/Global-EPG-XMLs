@@ -34,6 +34,8 @@ Country: France (FR), United Arab Emirates (AE), USA (US), Malaysia (MY), Austra
 
 Content: This contains 7 days of data from midnight UTC on the run date.
 
+Note: From 03-Oct-2025, the output will automatically be translated to English for the French channels.
+
 **VirginMediaIE_EPG**
 
 Platform: Virgin Media
