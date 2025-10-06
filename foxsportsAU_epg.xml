@@ -1,1478 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv date="20251005223955" source-info-url="https://tvguide.foxsports.com.au/" source-info-name="FOX Sports Australia">
+<tv date="20251006222959" source-info-url="https://tvguide.foxsports.com.au/" source-info-name="FOX Sports Australia">
   <channel id="FOOTY">
     <display-name>FOX Footy</display-name>
   </channel>
-  <programme start="20251004140000 +0000" stop="20251004141500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 PA v WB</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="FS506">
-    <display-name>FOX Sports 506</display-name>
-  </channel>
-  <programme start="20251004140500 +0000" stop="20251004150000 +0000" channel="FS506">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Pit Lane Qualifying</sub-title>
-    <desc lang="en">Get up close and personal with all the teams and drivers as the F1 team present live from the Pit Lane during qualifying.</desc>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="CRICKET">
-    <display-name>FOX Cricket</display-name>
-  </channel>
-  <programme start="20251004141000 +0000" stop="20251004143000 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 1</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004141500 +0000" stop="20251004154500 +0000" channel="FOOTY">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">North Melbourne Tasmania v Sydney</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004143000 +0000" stop="20251004163500 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="LEAGUE">
-    <display-name>FOX League</display-name>
-  </channel>
-  <programme start="20251004143000 +0000" stop="20251004150000 +0000" channel="LEAGUE">
-    <title lang="en">NRLW on Fox</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004150000 +0000" stop="20251004160000 +0000" channel="LEAGUE">
-    <title lang="en">FINALS FOOTY WITH MATTY JOHNS 2025</title>
-    <sub-title lang="en">Grand Final Week</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004150000 +0000" stop="20251004153000 +0000" channel="FS506">
-    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
-    <sub-title lang="en">Singapore Qualifying</sub-title>
-    <desc lang="en">Ted Kravitz tours the paddock following Qualifying, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="FS503">
-    <display-name>FOX Sports 503</display-name>
-  </channel>
-  <programme start="20251004150000 +0000" stop="20251004160000 +0000" channel="FS503">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004153000 +0000" stop="20251004183000 +0000" channel="FS506">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004154500 +0000" stop="20251004161500 +0000" channel="FOOTY">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Gold Coast v Brisbane</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004160000 +0000" stop="20251004180000 +0000" channel="FS503">
-    <title lang="en">Korn Ferry Tour</title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004160000 +0000" stop="20251004163000 +0000" channel="LEAGUE">
-    <title lang="en">ENGLISH SUPER LEAGUE 2025 ESL PRE GAME</title>
-    <desc lang="en">Join the Sky Sports experts at the venue for their preview &amp; latest Super League news.</desc>
-    <category lang="en">Rugby League</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="FS505">
-    <display-name>FOX Sports 505</display-name>
-  </channel>
-  <programme start="20251004160000 +0000" stop="20251004180000 +0000" channel="FS505">
-    <title lang="en">World Series of Darts</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004163000 +0000" stop="20251004190400 +0000" channel="LEAGUE">
-    <title lang="en">English Super League</title>
-    <category lang="en">Rugby League</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="FSM">
-    <display-name>FOX Sports More</display-name>
-  </channel>
-  <programme start="20251004170000 +0000" stop="20251004190000 +0000" channel="FSM">
-    <title lang="en">World Series of Darts</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004171500 +0000" stop="20251004184500 +0000" channel="FOOTY">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Port Adelaide v Western Bulldogs</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004173500 +0000" stop="20251004183500 +0000" channel="CRICKET">
-    <title lang="en">NEW ZEALAND V AUSTRALIA 2004/2005 ONE DAY INTERNATIONALS</title>
-    <sub-title lang="en">The First T20I: NZL v AUS</sub-title>
-    <desc lang="en">In 2005, a new format called Twenty20 revolutionized cricket. Superstars from NZ and Australia faced off in the first-ever international match.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004180000 +0000" stop="20251004183000 +0000" channel="FS503">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">James Tedesco &amp; Sam Walker</sub-title>
-    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004180000 +0000" stop="20251004200000 +0000" channel="FS505">
-    <title lang="en">USPGA Tour</title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004183000 +0000" stop="20251004200000 +0000" channel="FS503">
-    <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Sanderson Farms Championship Round 2</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004183500 +0000" stop="20251004190500 +0000" channel="CRICKET">
-    <title lang="en">Asia Cup</title>
-    <sub-title lang="en">Final</sub-title>
-    <desc lang="en">The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004184500 +0000" stop="20251004211500 +0000" channel="FOOTY">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Grand Final</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004190000 +0000" stop="20251004193000 +0000" channel="FSM">
-    <title lang="en">Smack Talk with Volk</title>
-    <category lang="en">MMA</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004190400 +0000" stop="20251004192400 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">PF</sub-title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004190500 +0000" stop="20251004200500 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004192400 +0000" stop="20251004194400 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">PF</sub-title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004193000 +0000" stop="20251004200000 +0000" channel="FS506">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004193000 +0000" stop="20251004200000 +0000" channel="FSM">
-    <title lang="en">UFC FIGHT WEEK 2025</title>
-    <sub-title lang="en">UFC 320, TX1/9</sub-title>
-    <category lang="en">MMA</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004194400 +0000" stop="20251004201400 +0000" channel="LEAGUE">
-    <title lang="en">Finals Rewind</title>
-    <desc lang="en">Take a look at these classic finals matchups between teams playing in this year's NRL Finals.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004200000 +0000" stop="20251004230000 +0000" channel="FS503">
-    <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Sanderson Farms Championship Round 3</sub-title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="FSM">
-    <title lang="en">UFC COUNTDOWN 2025</title>
-    <sub-title lang="en">UFC 320</sub-title>
-    <category lang="en">MMA</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004200000 +0000" stop="20251004230000 +0000" channel="FS506">
-    <title lang="en">NASCAR Xfinity Series</title>
-    <sub-title lang="en">Playoffs Charlotte</sub-title>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="FS505">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Practice 3</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004200500 +0000" stop="20251004202500 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">1st Test Day 3</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004201400 +0000" stop="20251004204400 +0000" channel="LEAGUE">
-    <title lang="en">Finals Rewind</title>
-    <desc lang="en">Take a look at these classic finals matchups between teams playing in this year's NRL Finals.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004202500 +0000" stop="20251004204500 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004204400 +0000" stop="20251004211400 +0000" channel="LEAGUE">
-    <title lang="en">Finals Rewind</title>
-    <desc lang="en">Take a look at these classic finals matchups between teams playing in this year's NRL Finals.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004204500 +0000" stop="20251004210500 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 1</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004210000 +0000" stop="20251004220000 +0000" channel="FS505">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Qualifying</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004210000 +0000" stop="20251004220000 +0000" channel="FSM">
-    <title lang="en">TRANSWORLD SPORT 2025</title>
-    <desc lang="en">The leading weekly international sports magazine show which features the best action and greatest moments in sport.</desc>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004210500 +0000" stop="20251004220500 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004211400 +0000" stop="20251004214400 +0000" channel="LEAGUE">
-    <title lang="en">NRLW on Fox</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004211500 +0000" stop="20251004213000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 NMT v SYD</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004213000 +0000" stop="20251004214500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 GC v BRI</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004214400 +0000" stop="20251004224400 +0000" channel="LEAGUE">
-    <title lang="en">FINALS FOOTY WITH MATTY JOHNS 2025</title>
-    <sub-title lang="en">Grand Final Week</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004214500 +0000" stop="20251004220000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 PA v WB</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004220000 +0000" stop="20251005003000 +0000" channel="FOOTY">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Grand Final</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004220000 +0000" stop="20251004230000 +0000" channel="FSM">
-    <title lang="en">PBR Teams</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004220000 +0000" stop="20251004223000 +0000" channel="FS505">
-    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004220500 +0000" stop="20251004222500 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">1st Test Day 3</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004222500 +0000" stop="20251004224500 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004223000 +0000" stop="20251005000000 +0000" channel="FS505">
-    <title lang="en">SAILGP 2024/25</title>
-    <sub-title lang="en">Cadiz Day 1</sub-title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004224400 +0000" stop="20251004231200 +0000" channel="LEAGUE">
-    <title lang="en">NRL Grand Final Superstars</title>
-    <sub-title lang="en">Gorden Tallis</sub-title>
-    <desc lang="en">The best players always step up in the biggest game of the year, here are the superstars of previous grand finals.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004224500 +0000" stop="20251004230500 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 1</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004230000 +0000" stop="20251005000000 +0000" channel="FS506">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Practice 3</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004230000 +0000" stop="20251005000000 +0000" channel="FSM">
-    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
-    <sub-title lang="en">Episode 13</sub-title>
-    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004230000 +0000" stop="20251005020000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <sub-title lang="en">Lotte Championship Round 3</sub-title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004230500 +0000" stop="20251005000500 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004231200 +0000" stop="20251004234000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Grand Final Superstars</title>
-    <sub-title lang="en">Andrew Johns</sub-title>
-    <desc lang="en">The best players always step up in the biggest game of the year, here are the superstars of previous grand finals.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251004234000 +0000" stop="20251005001000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Grand Final Superstars</title>
-    <sub-title lang="en">Sam Burgess</sub-title>
-    <desc lang="en">The best players always step up in the biggest game of the year, here are the superstars of previous grand finals.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005000000 +0000" stop="20251005020000 +0000" channel="FSM">
-    <title lang="en">World Rowing Championships</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005000000 +0000" stop="20251005003000 +0000" channel="FS505">
-    <title lang="en">MOTOGP 2025 SPRINT RACES</title>
-    <sub-title lang="en">Indoensia Sprint Race</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005000000 +0000" stop="20251005010000 +0000" channel="FS506">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Qualifying</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005000500 +0000" stop="20251005002500 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">1st Test Day 3</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005001000 +0000" stop="20251005004000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Grand Final Superstars</title>
-    <sub-title lang="en">Johnathan Thurston</sub-title>
-    <desc lang="en">The best players always step up in the biggest game of the year, here are the superstars of previous grand finals.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005002500 +0000" stop="20251005004500 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005003000 +0000" stop="20251005013000 +0000" channel="FS505">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">Indonesia Qualifying</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005003000 +0000" stop="20251005004500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 HAW v PA</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005004000 +0000" stop="20251005011000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Grand Final Superstars</title>
-    <sub-title lang="en">Ryan Papenhuyzen</sub-title>
-    <desc lang="en">The best players always step up in the biggest game of the year, here are the superstars of previous grand finals.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005004500 +0000" stop="20251005010500 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 1</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005004500 +0000" stop="20251005010000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 MEL v ESS</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005010000 +0000" stop="20251005011500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 GWS v STK</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005010000 +0000" stop="20251005013000 +0000" channel="FS506">
-    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
-    <sub-title lang="en">Singapore Qualifying</sub-title>
-    <desc lang="en">Ted Kravitz tours the paddock following Qualifying, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005010500 +0000" stop="20251005020500 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005011000 +0000" stop="20251005013000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">GF MEL v PEN</sub-title>
-    <desc lang="en">They finished 1st &amp; 2nd on the ladder, it shapes as a classic decider. Can the Panthers make it 4 in-a-row, or will the Storm triumph as they did in 2020?</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005011500 +0000" stop="20251005013000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 NMT v SYD</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005013000 +0000" stop="20251005014500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 GC v BRI</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005013000 +0000" stop="20251005020000 +0000" channel="LEAGUE">
-    <title lang="en">Get 'Em Onside</title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005013000 +0000" stop="20251005023500 +0000" channel="FS506">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">Indonesia Qualifying</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005013000 +0000" stop="20251005023000 +0000" channel="FS505">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Practice 3</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005014500 +0000" stop="20251005020000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 PA v WB</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005020000 +0000" stop="20251005033000 +0000" channel="FS503">
-    <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Sanderson Farms Championship Round 3</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005020000 +0000" stop="20251005023000 +0000" channel="FSM">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">James Tedesco &amp; Sam Walker</sub-title>
-    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005020000 +0000" stop="20251005022000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005020000 +0000" stop="20251005020500 +0000" channel="FOOTY">
-    <title lang="en">AFLW PRE GAME 2025 SUNDAY</title>
-    <sub-title lang="en">Round 8</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis and interviews.</desc>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005020500 +0000" stop="20251005022500 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 1</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005020500 +0000" stop="20251005035000 +0000" channel="FOOTY">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Richmond v Adelaide</sub-title>
-    <category lang="en">AFL</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005022000 +0000" stop="20251005041000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005022500 +0000" stop="20251005043500 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield</title>
-    <sub-title lang="en">WA v NSW Day 2</sub-title>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005023000 +0000" stop="20251005030000 +0000" channel="FSM">
-    <title lang="en">RACING ON THE EDGE 2024/25 ROTE</title>
-    <sub-title lang="en">Spain</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005023000 +0000" stop="20251005033000 +0000" channel="FS505">
-    <title lang="en">F1</title>
-    <sub-title lang="en">Singapore Qualifying</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005023500 +0000" stop="20251005030000 +0000" channel="FS506">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">Indonesia Warm Up</sub-title>
-    <desc lang="en">The riders get one final look around the circuit before all the races begin.</desc>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005030000 +0000" stop="20251005034500 +0000" channel="FS506">
-    <title lang="en">MOTOGP 2025 SPRINT RACES</title>
-    <sub-title lang="en">Indoensia Sprint Race</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005030000 +0000" stop="20251005033000 +0000" channel="FSM">
-    <title lang="en">Inside Sailing</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Inside Sailing presents the heart of sailing; from the very essence of elegance and prestige in super yachts, to the endurance of offshore racing, the tough and physical world of dinghy racing to the extremes of kite surfing.</desc>
-    <category lang="en">Water Sports</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005033000 +0000" stop="20251005034500 +0000" channel="FS505">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005033000 +0000" stop="20251005050000 +0000" channel="FSM">
-    <title lang="en">SAILGP 2024/25</title>
-    <sub-title lang="en">Cadiz Day 1</sub-title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005033000 +0000" stop="20251005040000 +0000" channel="FS503">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">James Tedesco &amp; Sam Walker</sub-title>
-    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005034500 +0000" stop="20251005110000 +0000" channel="FS505">
-    <title lang="en">Test</title>
-    <sub-title lang="en">IND v WI 1st Test Day 4 S1</sub-title>
-    <category lang="en">Cricket</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005034500 +0000" stop="20251005050000 +0000" channel="FS506">
-    <title lang="en">Moto3</title>
-    <sub-title lang="en">Grand Prix of Indonesia</sub-title>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005035000 +0000" stop="20251005040000 +0000" channel="FOOTY">
-    <title lang="en">AFLW POST GAME 2025 SUNDAY</title>
-    <sub-title lang="en">Round 8</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis and interviews.</desc>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005040000 +0000" stop="20251005040500 +0000" channel="FOOTY">
-    <title lang="en">AFLW PRE GAME 2025 SUNDAY</title>
-    <sub-title lang="en">Round 8</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis and interviews.</desc>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005040000 +0000" stop="20251005080000 +0000" channel="FS503">
-    <title lang="en">Asian PGA Tour</title>
-    <sub-title lang="en">Indonesian Masters Final Round</sub-title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005040500 +0000" stop="20251005055000 +0000" channel="FOOTY">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Geelong v Carlton</sub-title>
-    <category lang="en">AFL</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005041000 +0000" stop="20251005042000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005042000 +0000" stop="20251005045500 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005043500 +0000" stop="20251005050500 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005045500 +0000" stop="20251005063500 +0000" channel="LEAGUE">
-    <title lang="en">NRLW</title>
-    <category lang="en">Rugby League</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005050000 +0000" stop="20251005060000 +0000" channel="FSM">
-    <title lang="en">WSL HIGHLIGHTS</title>
-    <category lang="en">Surfing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005050000 +0000" stop="20251005061500 +0000" channel="FS506">
-    <title lang="en">Moto2</title>
-    <sub-title lang="en">Grand Prix of Indonesia</sub-title>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005050500 +0000" stop="20251005100000 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield</title>
-    <sub-title lang="en">WA v NSW Day 2</sub-title>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005055000 +0000" stop="20251005060000 +0000" channel="FOOTY">
-    <title lang="en">AFLW POST GAME 2025 SUNDAY</title>
-    <sub-title lang="en">Round 8</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis and interviews.</desc>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005060000 +0000" stop="20251005060500 +0000" channel="FOOTY">
-    <title lang="en">AFLW PRE GAME 2025 SUNDAY</title>
-    <sub-title lang="en">Round 8</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis and interviews.</desc>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005060000 +0000" stop="20251005120000 +0000" channel="FSM">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005060500 +0000" stop="20251005075000 +0000" channel="FOOTY">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">West Coast v Collingwood</sub-title>
-    <category lang="en">AFL</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005061500 +0000" stop="20251005065800 +0000" channel="FS506">
-    <title lang="en">MotoGP The Grid</title>
-    <sub-title lang="en">Indonesia</sub-title>
-    <desc lang="en">All the latest news and interviews from the MotoGP Grid.</desc>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005063500 +0000" stop="20251005070000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005065800 +0000" stop="20251005082000 +0000" channel="FS506">
-    <title lang="en">MOTOGP 2025 RACES</title>
-    <sub-title lang="en">Indonesia Race</sub-title>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005070000 +0000" stop="20251005074500 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005074500 +0000" stop="20251005083000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005075000 +0000" stop="20251005080000 +0000" channel="FOOTY">
-    <title lang="en">AFLW POST GAME 2025 SUNDAY</title>
-    <sub-title lang="en">Round 8</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis and interviews.</desc>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005080000 +0000" stop="20251005083000 +0000" channel="FOOTY">
-    <title lang="en">The W Debrief</title>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005080000 +0000" stop="20251005090000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <sub-title lang="en">Lotte Championship Round 3</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005082000 +0000" stop="20251005103000 +0000" channel="FS506">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005083000 +0000" stop="20251005085700 +0000" channel="LEAGUE">
-    <title lang="en">Top 5 Grand Finals</title>
-    <sub-title lang="en">#4</sub-title>
-    <desc lang="en">A retrospective journey through the most iconic and unforgettable Grand Finals in rugby league history, featuring standout performances of legendary players and thrilling matches where teams stage remarkable comebacks.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005083000 +0000" stop="20251005093000 +0000" channel="FOOTY">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Grand Final</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005085700 +0000" stop="20251005092500 +0000" channel="LEAGUE">
-    <title lang="en">Top 5 Grand Finals</title>
-    <sub-title lang="en">#3</sub-title>
-    <desc lang="en">A retrospective journey through the most iconic and unforgettable Grand Finals in rugby league history, featuring standout performances of legendary players and thrilling matches where teams stage remarkable comebacks.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005090000 +0000" stop="20251005103000 +0000" channel="FS503">
-    <title lang="en">Euro PGA</title>
-    <sub-title lang="en">Alfred Dunhill Links Championship Round 3</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005092500 +0000" stop="20251005095500 +0000" channel="LEAGUE">
-    <title lang="en">Top 5 Grand Finals</title>
-    <sub-title lang="en">#2</sub-title>
-    <desc lang="en">A retrospective journey through the most iconic and unforgettable Grand Finals in rugby league history, featuring standout performances of legendary players and thrilling matches where teams stage remarkable comebacks.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005093000 +0000" stop="20251005100000 +0000" channel="FOOTY">
-    <title lang="en">The W Debrief</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005095500 +0000" stop="20251005102500 +0000" channel="LEAGUE">
-    <title lang="en">Top 5 Grand Finals</title>
-    <sub-title lang="en">#1</sub-title>
-    <desc lang="en">A retrospective journey through the most iconic and unforgettable Grand Finals in rugby league history, featuring standout performances of legendary players and thrilling matches where teams stage remarkable comebacks.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005100000 +0000" stop="20251005110000 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 2</sub-title>
-    <desc lang="en">Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005100000 +0000" stop="20251005101500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 RIC v ADE</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005101500 +0000" stop="20251005103000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 GEE v CAR</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005102500 +0000" stop="20251005122500 +0000" channel="LEAGUE">
-    <title lang="en">NRL</title>
-    <sub-title lang="en">Grand Final</sub-title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005103000 +0000" stop="20251005104500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 WC v COL</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005103000 +0000" stop="20251005160000 +0000" channel="FS503">
-    <title lang="en">Euro PGA</title>
-    <sub-title lang="en">Alfred Dunhill Links Championship Final Round</sub-title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005103000 +0000" stop="20251005115500 +0000" channel="FS506">
-    <title lang="en">Grand Prix Sunday</title>
-    <sub-title lang="en">Singapore</sub-title>
-    <desc lang="en">Join us on the grid ahead of the Grand Prix, with all the latest news and interviews.</desc>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005104500 +0000" stop="20251005110000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 RIC v ADE</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005110000 +0000" stop="20251005120000 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005110000 +0000" stop="20251005113000 +0000" channel="FOOTY">
-    <title lang="en">The W Debrief</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005110000 +0000" stop="20251005120000 +0000" channel="FS505">
-    <title lang="en">NASCAR Xfinity Series</title>
-    <sub-title lang="en">Playoffs Charlotte</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005113000 +0000" stop="20251005114500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 GEE v CAR</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005114500 +0000" stop="20251005120000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 WC v COL</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005115500 +0000" stop="20251005140000 +0000" channel="FS506">
-    <title lang="en">F1</title>
-    <sub-title lang="en">SIngapore Race</sub-title>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005120000 +0000" stop="20251005150000 +0000" channel="FSM">
-    <title lang="en">British Superbikes</title>
-    <category lang="en">Racing</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005120000 +0000" stop="20251005123000 +0000" channel="FS505">
-    <title lang="en">MOTOGP 2025 SPRINT RACES</title>
-    <sub-title lang="en">Indoensia Sprint Race</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005120000 +0000" stop="20251005122000 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 2</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005120000 +0000" stop="20251005121500 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 RIC v ADE</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005121500 +0000" stop="20251005123000 +0000" channel="FOOTY">
-    <title lang="en">FOX MINI 2025 AFLW</title>
-    <sub-title lang="en">Round 8 GEE v CAR</sub-title>
-    <category lang="en">AFL</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005122000 +0000" stop="20251005124000 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005122500 +0000" stop="20251005124500 +0000" channel="LEAGUE">
-    <title lang="en">NRLW Mini</title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005123000 +0000" stop="20251005133000 +0000" channel="FS505">
-    <title lang="en">MOTOGP 2025 RACES</title>
-    <sub-title lang="en">Indonesia Race</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005123000 +0000" stop="20251005130000 +0000" channel="FOOTY">
-    <title lang="en">The W Debrief</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005124000 +0000" stop="20251005130000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005124500 +0000" stop="20251005130500 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">GF</sub-title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251005130000 +0000" stop="20251005163000 +0000" channel="FOOTY">
     <title lang="en">AFL</title>
     <sub-title lang="en">Grand Final</sub-title>
@@ -1482,6 +12,9 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="CRICKET">
+    <display-name>FOX Cricket</display-name>
+  </channel>
   <programme start="20251005130000 +0000" stop="20251005140000 +0000" channel="CRICKET">
     <title lang="en">INDIA V AUSTRALIA ODI 2001</title>
     <sub-title lang="en">2001 IND v AUS Game 3</sub-title>
@@ -1491,6 +24,9 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="LEAGUE">
+    <display-name>FOX League</display-name>
+  </channel>
   <programme start="20251005130500 +0000" stop="20251005140500 +0000" channel="LEAGUE">
     <title lang="en">NRL</title>
     <sub-title lang="en">Grand Final</sub-title>
@@ -1500,6 +36,9 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="FS505">
+    <display-name>FOX Sports 505</display-name>
+  </channel>
   <programme start="20251005133000 +0000" stop="20251005150000 +0000" channel="FS505">
     <title lang="en">SAILGP 2024/25</title>
     <sub-title lang="en">Cadiz Day 2</sub-title>
@@ -1535,6 +74,9 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="FS506">
+    <display-name>FOX Sports 506</display-name>
+  </channel>
   <programme start="20251005143000 +0000" stop="20251005153000 +0000" channel="FS506">
     <title lang="en">Chequered Flag</title>
     <sub-title lang="en">Singapore</sub-title>
@@ -1573,6 +115,9 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="FSM">
+    <display-name>FOX Sports More</display-name>
+  </channel>
   <programme start="20251005150000 +0000" stop="20251005170000 +0000" channel="FSM">
     <title lang="en">World Rowing Championships</title>
     <category lang="en">Sport</category>
@@ -1616,6 +161,9 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="FS503">
+    <display-name>FOX Sports 503</display-name>
+  </channel>
   <programme start="20251005160000 +0000" stop="20251005193000 +0000" channel="FS503">
     <title lang="en">PGA TOUR CHAMPIONS 2025 GOLF</title>
     <category lang="en">Golf</category>
@@ -1629,6 +177,16 @@
     <title lang="en">AFLW</title>
     <sub-title lang="en">GWS v St Kilda</sub-title>
     <category lang="en">AFL</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251005163000 +0000" stop="20251005173000 +0000" channel="CRICKET">
+    <title lang="en">ODI</title>
+    <sub-title lang="en">2009 IND v AUS Game 1</sub-title>
+    <desc lang="en">The first match of a seven game ODI series, from Reliance Stadium, Vadodara.</desc>
+    <category lang="en">Cricket</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -1651,11 +209,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251005163000 +0000" stop="20251005173000 +0000" channel="CRICKET">
-    <title lang="en">ODI</title>
-    <sub-title lang="en">2009 IND v AUS Game 1</sub-title>
-    <desc lang="en">The first match of a seven game ODI series, from Reliance Stadium, Vadodara.</desc>
-    <category lang="en">Cricket</category>
+  <programme start="20251005170000 +0000" stop="20251005173000 +0000" channel="FS506">
+    <title lang="en">MotoGP Mini</title>
+    <sub-title lang="en">Indonesia</sub-title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -1665,15 +222,6 @@
     <title lang="en">PBR Teams</title>
     <sub-title lang="en">Episode 5</sub-title>
     <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251005170000 +0000" stop="20251005173000 +0000" channel="FS506">
-    <title lang="en">MotoGP Mini</title>
-    <sub-title lang="en">Indonesia</sub-title>
-    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -1698,15 +246,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251005180000 +0000" stop="20251005183000 +0000" channel="FS506">
-    <title lang="en">FOX MINI 2025 F1</title>
-    <sub-title lang="en">Singapore</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251005180000 +0000" stop="20251005190000 +0000" channel="FSM">
     <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
     <sub-title lang="en">Episode 13</sub-title>
@@ -1721,6 +260,15 @@
     <title lang="en">AFLW</title>
     <sub-title lang="en">Hawthorn v Fremantle</sub-title>
     <category lang="en">AFL</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251005180000 +0000" stop="20251005183000 +0000" channel="FS506">
+    <title lang="en">FOX MINI 2025 F1</title>
+    <sub-title lang="en">Singapore</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -1743,16 +291,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251005183000 +0000" stop="20251005193000 +0000" channel="CRICKET">
-    <title lang="en">Women's ODI IND v AUS</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en">With the series locked at 1-1, Australia and India will get their final look at each other before the ODI World Cup kicks off.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251005183000 +0000" stop="20251005223000 +0000" channel="FS506">
     <title lang="en">NASCAR 2025 RACES</title>
     <sub-title lang="en">Playoffs Charlotte</sub-title>
@@ -1763,9 +301,11 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251005190000 +0000" stop="20251005193000 +0000" channel="FSM">
-    <title lang="en">F1 Academy</title>
-    <category lang="en">Racing</category>
+  <programme start="20251005183000 +0000" stop="20251005193000 +0000" channel="CRICKET">
+    <title lang="en">Women's ODI IND v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">With the series locked at 1-1, Australia and India will get their final look at each other before the ODI World Cup kicks off.</desc>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -1775,6 +315,14 @@
     <title lang="en">MOTOGP 2025 RACES</title>
     <sub-title lang="en">Indonesia Race</sub-title>
     <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251005190000 +0000" stop="20251005193000 +0000" channel="FSM">
+    <title lang="en">F1 Academy</title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2009,14 +557,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251005230000 +0000" stop="20251006010000 +0000" channel="FSM">
-    <title lang="en">World Rowing Championships</title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251005230000 +0000" stop="20251006010000 +0000" channel="FS505">
     <title lang="en">F1</title>
     <sub-title lang="en">SIngapore Race</sub-title>
@@ -2031,6 +571,14 @@
     <sub-title lang="en">Episode 9</sub-title>
     <desc lang="en">Drivers Only takes fans behind the scenes with the sport's biggest names featuring candid conversations about all things Supercars and beyond.</desc>
     <category lang="en">Racing</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251005230000 +0000" stop="20251006010000 +0000" channel="FSM">
+    <title lang="en">World Rowing Championships</title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2354,11 +902,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006060000 +0000" stop="20251006063000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <category lang="en">Sport</category>
-    <live/>
+  <programme start="20251006060000 +0000" stop="20251006063000 +0000" channel="FS506">
+    <title lang="en">Supercars: The Formation Lap</title>
+    <sub-title lang="en">Episode 9</sub-title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2373,10 +920,11 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006060000 +0000" stop="20251006063000 +0000" channel="FS506">
-    <title lang="en">Supercars: The Formation Lap</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <category lang="en">Racing</category>
+  <programme start="20251006060000 +0000" stop="20251006063000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <category lang="en">Sport</category>
+    <live/>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2447,6 +995,16 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <programme start="20251006070000 +0000" stop="20251006073000 +0000" channel="FSM">
+    <title lang="en">MotoGP: After The Flag</title>
+    <sub-title lang="en">Indonesia</sub-title>
+    <desc lang="en">The MotoGP commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.</desc>
+    <category lang="en">Racing</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
   <programme start="20251006070000 +0000" stop="20251006073000 +0000" channel="FOOTY">
     <title lang="en">AFL Trading Day</title>
     <sub-title lang="en">Episode 1</sub-title>
@@ -2456,11 +1014,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006070000 +0000" stop="20251006073000 +0000" channel="FSM">
-    <title lang="en">MotoGP: After The Flag</title>
-    <sub-title lang="en">Indonesia</sub-title>
-    <desc lang="en">The MotoGP commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.</desc>
-    <category lang="en">Racing</category>
+  <programme start="20251006073000 +0000" stop="20251006080000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2479,15 +1036,6 @@
     <title lang="en">NASCAR Highlights</title>
     <sub-title lang="en">Playoffs Charlotte</sub-title>
     <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251006073000 +0000" stop="20251006080000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2575,18 +1123,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006090000 +0000" stop="20251006093000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <category lang="en">Sport</category>
+  <programme start="20251006090000 +0000" stop="20251006093000 +0000" channel="FSM">
+    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006090000 +0000" stop="20251006093000 +0000" channel="FSM">
-    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
-    <category lang="en">Racing</category>
+  <programme start="20251006090000 +0000" stop="20251006093000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2620,18 +1168,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006093000 +0000" stop="20251006100000 +0000" channel="FSM">
-    <title lang="en">F1 Academy</title>
-    <category lang="en">Racing</category>
+  <programme start="20251006093000 +0000" stop="20251006100000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006093000 +0000" stop="20251006100000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <category lang="en">Sport</category>
+  <programme start="20251006093000 +0000" stop="20251006100000 +0000" channel="FSM">
+    <title lang="en">F1 Academy</title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -2746,15 +1294,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251006120000 +0000" stop="20251006122000 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield Mini</title>
-    <sub-title lang="en">WA v NSW Day 3</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251006120000 +0000" stop="20251006123000 +0000" channel="FOOTY">
     <title lang="en">AFL Trading Day</title>
     <sub-title lang="en">Episode 1</sub-title>
@@ -2767,6 +1306,15 @@
   <programme start="20251006120000 +0000" stop="20251006130000 +0000" channel="FS505">
     <title lang="en">MOTOGP 2025 RACES</title>
     <sub-title lang="en">Indonesia Race</sub-title>
+    <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251006120000 +0000" stop="20251006122000 +0000" channel="CRICKET">
+    <title lang="en">Sheffield Shield Mini</title>
+    <sub-title lang="en">WA v NSW Day 3</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
@@ -3695,19 +2243,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <category lang="en">Sport</category>
+  <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="FSM">
+    <title lang="en">MOTOGP 2025 SPRINT RACES</title>
+    <sub-title lang="en">Indoensia Sprint Race</sub-title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="FSM">
-    <title lang="en">MOTOGP 2025 SPRINT RACES</title>
-    <sub-title lang="en">Indoensia Sprint Race</sub-title>
-    <category lang="en">Racing</category>
+  <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -3722,20 +2270,20 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007043000 +0000" stop="20251007053000 +0000" channel="LEAGUE">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 100</sub-title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251007043000 +0000" stop="20251007045000 +0000" channel="FOOTY">
     <title lang="en">AFL Mini</title>
     <sub-title lang="en">Preliminary Final GEE v HAW</sub-title>
     <desc lang="en">Two of the league's biggest rivals fight for a place in the 2025 AFL Grand Final.</desc>
     <category lang="en">AFL</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251007043000 +0000" stop="20251007053000 +0000" channel="LEAGUE">
+    <title lang="en">NRL 360</title>
+    <sub-title lang="en">Episode 100</sub-title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -3787,19 +2335,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007053000 +0000" stop="20251007073000 +0000" channel="FSM">
-    <title lang="en">World Grand Prix Darts</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <category lang="en">Undefined</category>
+  <programme start="20251007053000 +0000" stop="20251007060000 +0000" channel="LEAGUE">
+    <title lang="en">NRL Mini</title>
+    <sub-title lang="en">GF</sub-title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007053000 +0000" stop="20251007060000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">GF</sub-title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251007053000 +0000" stop="20251007073000 +0000" channel="FSM">
+    <title lang="en">World Grand Prix Darts</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -3831,20 +2379,20 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007060000 +0000" stop="20251007063000 +0000" channel="FS505">
-    <title lang="en">Spirit of Yachting</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251007060000 +0000" stop="20251007063000 +0000" channel="FOOTY">
     <title lang="en">AFL Trading Day</title>
     <sub-title lang="en">Episode 2</sub-title>
     <category lang="en">Sport</category>
     <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251007060000 +0000" stop="20251007063000 +0000" channel="FS505">
+    <title lang="en">Spirit of Yachting</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -3931,20 +2479,20 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007073000 +0000" stop="20251007083000 +0000" channel="FS506">
-    <title lang="en">Dark Horse - Erebus Motorsport</title>
-    <sub-title lang="en">Born To Be Rebels</sub-title>
-    <desc lang="en">Discover how Erebus Motorsport forged their place in Supercars. From the team&amp;#8217;s bold formation to the challenges of engineering a competitive Mercedes program, this is the story of a team refusing to be ignored.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20251007073000 +0000" stop="20251007093000 +0000" channel="FS505">
+    <title lang="en">F1</title>
+    <sub-title lang="en">SIngapore Race</sub-title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007073000 +0000" stop="20251007093000 +0000" channel="FS505">
-    <title lang="en">F1</title>
-    <sub-title lang="en">SIngapore Race</sub-title>
-    <category lang="en">Racing</category>
+  <programme start="20251007073000 +0000" stop="20251007083000 +0000" channel="FS506">
+    <title lang="en">Dark Horse - Erebus Motorsport</title>
+    <sub-title lang="en">Born To Be Rebels</sub-title>
+    <desc lang="en">Discover how Erebus Motorsport forged their place in Supercars. From the team&amp;#8217;s bold formation to the challenges of engineering a competitive Mercedes program, this is the story of a team refusing to be ignored.</desc>
+    <category lang="en">Motorsport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -3977,16 +2525,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007083000 +0000" stop="20251007093000 +0000" channel="FS506">
-    <title lang="en">Dark Horse - Erebus Motorsport</title>
-    <sub-title lang="en">Kings Of The Mountain</sub-title>
-    <desc lang="en">Follow Erebus through a period of dramatic change as they move on from Mercedes, transition to Holden, and rebuild from scratch in Melbourne.</desc>
-    <category lang="en">Motorsport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251007083000 +0000" stop="20251007093000 +0000" channel="FSM">
     <title lang="en">USPGA Tour Highlights</title>
     <sub-title lang="en">Sanderson Farms Championship</sub-title>
@@ -4000,6 +2538,16 @@
     <title lang="en">European PGA Tour Highlights</title>
     <sub-title lang="en">Alfred Dunhill Links Championship</sub-title>
     <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251007083000 +0000" stop="20251007093000 +0000" channel="FS506">
+    <title lang="en">Dark Horse - Erebus Motorsport</title>
+    <sub-title lang="en">Kings Of The Mountain</sub-title>
+    <desc lang="en">Follow Erebus through a period of dramatic change as they move on from Mercedes, transition to Holden, and rebuild from scratch in Melbourne.</desc>
+    <category lang="en">Motorsport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4344,10 +2892,11 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007130000 +0000" stop="20251007150000 +0000" channel="FSM">
-    <title lang="en">World Grand Prix Darts</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <category lang="en">Undefined</category>
+  <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="CRICKET">
+    <title lang="en">T20</title>
+    <sub-title lang="en">NZL v AUS Game 3</sub-title>
+    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
+    <category lang="en">Cricket</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4361,11 +2910,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 3</sub-title>
-    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <category lang="en">Cricket</category>
+  <programme start="20251007130000 +0000" stop="20251007150000 +0000" channel="FSM">
+    <title lang="en">World Grand Prix Darts</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4449,20 +2997,20 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007150000 +0000" stop="20251007152000 +0000" channel="FOOTY">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Preliminary Final GEE v HAW</sub-title>
-    <desc lang="en">Two of the league's biggest rivals fight for a place in the 2025 AFL Grand Final.</desc>
-    <category lang="en">AFL</category>
+  <programme start="20251007150000 +0000" stop="20251007160000 +0000" channel="LEAGUE">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Prelim</sub-title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007150000 +0000" stop="20251007160000 +0000" channel="LEAGUE">
-    <title lang="en">NRL</title>
-    <sub-title lang="en">Prelim</sub-title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251007150000 +0000" stop="20251007152000 +0000" channel="FOOTY">
+    <title lang="en">AFL Mini</title>
+    <sub-title lang="en">Preliminary Final GEE v HAW</sub-title>
+    <desc lang="en">Two of the league's biggest rivals fight for a place in the 2025 AFL Grand Final.</desc>
+    <category lang="en">AFL</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4558,19 +3106,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007170000 +0000" stop="20251007202000 +0000" channel="FS506">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251007170000 +0000" stop="20251007200000 +0000" channel="CRICKET">
     <title lang="en">T20</title>
     <sub-title lang="en">NZL v AUS Game 2</sub-title>
     <desc lang="en">Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.</desc>
     <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251007170000 +0000" stop="20251007202000 +0000" channel="FS506">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4748,10 +3296,20 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007210000 +0000" stop="20251007213000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <category lang="en">Sport</category>
+  <programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="FS506">
+    <title lang="en">Supercars Bathurst</title>
+    <sub-title lang="en">2022 Bathurst 1000</sub-title>
+    <desc lang="en">Through 161 laps around Mount Panorama, as Holden goes out in style, who will claim the 2022 Supercars Bathurst crown?</desc>
+    <category lang="en">Racing</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251007210000 +0000" stop="20251007230000 +0000" channel="FSM">
+    <title lang="en">F1</title>
+    <sub-title lang="en">SIngapore Race</sub-title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4767,20 +3325,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007210000 +0000" stop="20251007230000 +0000" channel="FSM">
-    <title lang="en">F1</title>
-    <sub-title lang="en">SIngapore Race</sub-title>
-    <category lang="en">Racing</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="FS506">
-    <title lang="en">Supercars Bathurst</title>
-    <sub-title lang="en">2022 Bathurst 1000</sub-title>
-    <desc lang="en">Through 161 laps around Mount Panorama, as Holden goes out in style, who will claim the 2022 Supercars Bathurst crown?</desc>
-    <category lang="en">Racing</category>
+  <programme start="20251007210000 +0000" stop="20251007213000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -4911,21 +3459,21 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251007230000 +0000" stop="20251008000000 +0000" channel="FSM">
-    <title lang="en">PBR Teams</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251007230000 +0000" stop="20251008022500 +0000" channel="CRICKET">
     <title lang="en">WNCL</title>
     <sub-title lang="en">VIC v TAS</sub-title>
     <desc lang="en">Round 2 of the WNCL kicks off with Victoria taking on Tasmania at Junction Oval.</desc>
     <category lang="en">Sport</category>
     <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251007230000 +0000" stop="20251008000000 +0000" channel="FSM">
+    <title lang="en">PBR Teams</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5174,18 +3722,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008030000 +0000" stop="20251008040000 +0000" channel="FS505">
-    <title lang="en">SAILGP 2024/25 HIGHLIGHTS</title>
-    <sub-title lang="en">Cadiz</sub-title>
+  <programme start="20251008030000 +0000" stop="20251008050000 +0000" channel="FSM">
+    <title lang="en">World Grand Prix Darts</title>
+    <sub-title lang="en">Day 2</sub-title>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008030000 +0000" stop="20251008050000 +0000" channel="FSM">
-    <title lang="en">World Grand Prix Darts</title>
-    <sub-title lang="en">Day 2</sub-title>
+  <programme start="20251008030000 +0000" stop="20251008040000 +0000" channel="FS505">
+    <title lang="en">SAILGP 2024/25 HIGHLIGHTS</title>
+    <sub-title lang="en">Cadiz</sub-title>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
@@ -5327,18 +3875,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008053000 +0000" stop="20251008060000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <category lang="en">Sport</category>
+  <programme start="20251008053000 +0000" stop="20251008063000 +0000" channel="FS505">
+    <title lang="en">WSL HIGHLIGHTS</title>
+    <category lang="en">Surfing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008053000 +0000" stop="20251008063000 +0000" channel="FS505">
-    <title lang="en">WSL HIGHLIGHTS</title>
-    <category lang="en">Surfing</category>
+  <programme start="20251008053000 +0000" stop="20251008060000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5390,18 +3938,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008063000 +0000" stop="20251008073000 +0000" channel="FS505">
-    <title lang="en">PBR Teams</title>
-    <sub-title lang="en">Episode 7</sub-title>
+  <programme start="20251008063000 +0000" stop="20251008070000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 3</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008063000 +0000" stop="20251008070000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 3</sub-title>
+  <programme start="20251008063000 +0000" stop="20251008073000 +0000" channel="FS505">
+    <title lang="en">PBR Teams</title>
+    <sub-title lang="en">Episode 7</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
@@ -5445,18 +3993,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 3</sub-title>
+  <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="FSM">
+    <title lang="en">Spirit of Yachting</title>
+    <sub-title lang="en">Episode 4</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="FSM">
-    <title lang="en">Spirit of Yachting</title>
-    <sub-title lang="en">Episode 4</sub-title>
+  <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 3</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
@@ -5480,18 +4028,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008073000 +0000" stop="20251008080000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 3</sub-title>
+  <programme start="20251008073000 +0000" stop="20251008080000 +0000" channel="FS505">
+    <title lang="en">FOX MINI 2025 F1</title>
+    <sub-title lang="en">Singapore</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008073000 +0000" stop="20251008080000 +0000" channel="FS505">
-    <title lang="en">FOX MINI 2025 F1</title>
-    <sub-title lang="en">Singapore</sub-title>
+  <programme start="20251008073000 +0000" stop="20251008080000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 3</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
@@ -5549,6 +4097,16 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <programme start="20251008080000 +0000" stop="20251008083000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">2020 AUS v IND ODI G1</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
   <programme start="20251008080000 +0000" stop="20251008083000 +0000" channel="FS503">
     <title lang="en">Getting A Round In</title>
     <sub-title lang="en">Julian Wilson</sub-title>
@@ -5578,16 +4136,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008080000 +0000" stop="20251008083000 +0000" channel="CRICKET">
-    <title lang="en">Classic Mini</title>
-    <sub-title lang="en">2020 AUS v IND ODI G1</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251008081000 +0000" stop="20251008083000 +0000" channel="LEAGUE">
     <title lang="en">NRL Mini</title>
     <sub-title lang="en">GF</sub-title>
@@ -5602,6 +4150,16 @@
     <sub-title lang="en">Australia v South Africa Game 2</sub-title>
     <category lang="en">Court Sports</category>
     <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251008083000 +0000" stop="20251008090000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">2020 AUS v IND ODI G2</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5624,16 +4182,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008083000 +0000" stop="20251008090000 +0000" channel="CRICKET">
-    <title lang="en">Classic Mini</title>
-    <sub-title lang="en">2020 AUS v IND ODI G2</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251008083000 +0000" stop="20251008090000 +0000" channel="FOOTY">
     <title lang="en">AFL Trading Day</title>
     <sub-title lang="en">Episode 3</sub-title>
@@ -5646,6 +4194,16 @@
   <programme start="20251008085000 +0000" stop="20251008091000 +0000" channel="LEAGUE">
     <title lang="en">NRLW Mini</title>
     <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251008090000 +0000" stop="20251008093000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">2020 AUS v IND ODI G3</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5669,19 +4227,17 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008090000 +0000" stop="20251008093000 +0000" channel="CRICKET">
-    <title lang="en">Classic Mini</title>
-    <sub-title lang="en">2020 AUS v IND ODI G3</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
+  <programme start="20251008091000 +0000" stop="20251008093000 +0000" channel="LEAGUE">
+    <title lang="en">NRL Mini</title>
+    <sub-title lang="en">GF</sub-title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008091000 +0000" stop="20251008093000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">GF</sub-title>
+  <programme start="20251008093000 +0000" stop="20251008100000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
     <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
@@ -5697,9 +4253,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008093000 +0000" stop="20251008100000 +0000" channel="LEAGUE">
-    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251008093000 +0000" stop="20251008100000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5709,15 +4266,6 @@
     <title lang="en">Test Mini IND v WI</title>
     <sub-title lang="en">1st Test Day 1</sub-title>
     <desc lang="en">Captain Shubman Gill leads India in his first home test series. West Indies, under a new head coach, will be looking to prove their mettle.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251008093000 +0000" stop="20251008100000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 3</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
@@ -5815,15 +4363,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008103000 +0000" stop="20251008110000 +0000" channel="LEAGUE">
-    <title lang="en">The Fan</title>
-    <desc lang="en">Andrew Voss &amp; Lara Pitt present the weird &amp; wonderful side of the game, featuring past &amp; present characters with stories from on &amp; off field.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251008103000 +0000" stop="20251008123000 +0000" channel="FS505">
     <title lang="en">World Grand Prix Darts</title>
     <sub-title lang="en">Day 2</sub-title>
@@ -5833,18 +4372,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008105000 +0000" stop="20251008111000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
-    <category lang="en">Sport</category>
+  <programme start="20251008103000 +0000" stop="20251008110000 +0000" channel="LEAGUE">
+    <title lang="en">The Fan</title>
+    <desc lang="en">Andrew Voss &amp; Lara Pitt present the weird &amp; wonderful side of the game, featuring past &amp; present characters with stories from on &amp; off field.</desc>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008110000 +0000" stop="20251008120000 +0000" channel="FSM">
-    <title lang="en">WSL HIGHLIGHTS</title>
-    <category lang="en">Surfing</category>
+  <programme start="20251008105000 +0000" stop="20251008111000 +0000" channel="CRICKET">
+    <title lang="en">Test Mini IND v WI</title>
+    <sub-title lang="en">1st Test Day 5</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5863,6 +4403,14 @@
     <title lang="en">The Fan</title>
     <desc lang="en">Andrew Voss &amp; Lara Pitt present the weird &amp; wonderful side of the game, featuring past &amp; present characters with stories from on &amp; off field.</desc>
     <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251008110000 +0000" stop="20251008120000 +0000" channel="FSM">
+    <title lang="en">WSL HIGHLIGHTS</title>
+    <category lang="en">Surfing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -5975,15 +4523,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008123000 +0000" stop="20251008130000 +0000" channel="FOOTY">
-    <title lang="en">AFL Trading Day</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251008123000 +0000" stop="20251008130000 +0000" channel="FS505">
     <title lang="en">Spirit of Yachting</title>
     <sub-title lang="en">Episode 4</sub-title>
@@ -5993,9 +4532,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008123000 +0000" stop="20251008130000 +0000" channel="LEAGUE">
-    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251008123000 +0000" stop="20251008130000 +0000" channel="FOOTY">
+    <title lang="en">AFL Trading Day</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -6010,9 +4550,9 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008130000 +0000" stop="20251008143000 +0000" channel="FS506">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
+  <programme start="20251008123000 +0000" stop="20251008130000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -6021,6 +4561,14 @@
   <programme start="20251008130000 +0000" stop="20251008141500 +0000" channel="LEAGUE">
     <title lang="en">NRLW</title>
     <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251008130000 +0000" stop="20251008143000 +0000" channel="FS506">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -6342,19 +4890,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008210000 +0000" stop="20251008220000 +0000" channel="CRICKET">
-    <title lang="en">NEW ZEALAND V AUSTRALIA 2004/2005 ONE DAY INTERNATIONALS</title>
-    <sub-title lang="en">The First T20I: NZL v AUS</sub-title>
-    <desc lang="en">In 2005, a new format called Twenty20 revolutionized cricket. Superstars from NZ and Australia faced off in the first-ever international match.</desc>
-    <category lang="en">Sport</category>
+  <programme start="20251008210000 +0000" stop="20251008213000 +0000" channel="FSM">
+    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
+    <category lang="en">Racing</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008210000 +0000" stop="20251008213000 +0000" channel="FSM">
-    <title lang="en">F1 GP TEDS NOTEBOOK 2025 F1</title>
-    <category lang="en">Racing</category>
+  <programme start="20251008210000 +0000" stop="20251008220000 +0000" channel="CRICKET">
+    <title lang="en">NEW ZEALAND V AUSTRALIA 2004/2005 ONE DAY INTERNATIONALS</title>
+    <sub-title lang="en">The First T20I: NZL v AUS</sub-title>
+    <desc lang="en">In 2005, a new format called Twenty20 revolutionized cricket. Superstars from NZ and Australia faced off in the first-ever international match.</desc>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -6415,19 +4963,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008220000 +0000" stop="20251008222000 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 1</sub-title>
-    <desc lang="en">Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.</desc>
+  <programme start="20251008220000 +0000" stop="20251008230000 +0000" channel="FS505">
+    <title lang="en">PBR Teams</title>
+    <sub-title lang="en">Episode 7</sub-title>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251008220000 +0000" stop="20251008230000 +0000" channel="FS505">
-    <title lang="en">PBR Teams</title>
-    <sub-title lang="en">Episode 7</sub-title>
+  <programme start="20251008220000 +0000" stop="20251008222000 +0000" channel="CRICKET">
+    <title lang="en">T20 Mini NZL v AUS</title>
+    <sub-title lang="en">Game 1</sub-title>
+    <desc lang="en">Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.</desc>
     <category lang="en">Sport</category>
     <video>
       <present>yes</present>
@@ -6614,19 +5162,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009010000 +0000" stop="20251009030000 +0000" channel="FS505">
-    <title lang="en">World Grand Prix Darts</title>
-    <sub-title lang="en">Day 3</sub-title>
+  <programme start="20251009010000 +0000" stop="20251009020000 +0000" channel="FSM">
+    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009010000 +0000" stop="20251009020000 +0000" channel="FSM">
-    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
-    <sub-title lang="en">Episode 13</sub-title>
-    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
+  <programme start="20251009010000 +0000" stop="20251009030000 +0000" channel="FS505">
+    <title lang="en">World Grand Prix Darts</title>
+    <sub-title lang="en">Day 3</sub-title>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
@@ -6737,9 +5285,9 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009030000 +0000" stop="20251009080000 +0000" channel="FS505">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <sub-title lang="en">Shanghai Round 1</sub-title>
+  <programme start="20251009030000 +0000" stop="20251009070000 +0000" channel="FS503">
+    <title lang="en">USPGA Tour</title>
+    <sub-title lang="en">Baycurrent Classic Round 1</sub-title>
     <category lang="en">Golf</category>
     <live/>
     <video>
@@ -6747,9 +5295,9 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009030000 +0000" stop="20251009070000 +0000" channel="FS503">
-    <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Baycurrent Classic Round 1</sub-title>
+  <programme start="20251009030000 +0000" stop="20251009080000 +0000" channel="FS505">
+    <title lang="en">USLPGA EVENTS 2025</title>
+    <sub-title lang="en">Shanghai Round 1</sub-title>
     <category lang="en">Golf</category>
     <live/>
     <video>
@@ -6902,19 +5450,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009083000 +0000" stop="20251009093000 +0000" channel="LEAGUE">
-    <title lang="en">NRL</title>
-    <sub-title lang="en">Grand Final</sub-title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251009083000 +0000" stop="20251009093000 +0000" channel="FS503">
+    <title lang="en">PGA Tour Champions</title>
+    <sub-title lang="en">Constellation FURYK &amp; FRIENDS</sub-title>
+    <category lang="en">Golf</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009083000 +0000" stop="20251009093000 +0000" channel="FS503">
-    <title lang="en">PGA Tour Champions</title>
-    <sub-title lang="en">Constellation FURYK &amp; FRIENDS</sub-title>
-    <category lang="en">Golf</category>
+  <programme start="20251009083000 +0000" stop="20251009093000 +0000" channel="LEAGUE">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Grand Final</sub-title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -6936,19 +5484,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="LEAGUE">
-    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="FS505">
     <title lang="en">SuperTri</title>
     <sub-title lang="en">Chicago</sub-title>
     <desc lang="en">After its 2024 debut in the calendar, the Supertri League returns to Chicago for round two of the 2025 season.</desc>
     <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -6972,18 +5520,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009100000 +0000" stop="20251009113000 +0000" channel="FSM">
-    <title lang="en">SAILGP 2024/25</title>
-    <sub-title lang="en">Cadiz Day 1</sub-title>
-    <category lang="en">Undefined</category>
+  <programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="LEAGUE">
-    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251009100000 +0000" stop="20251009113000 +0000" channel="FSM">
+    <title lang="en">SAILGP 2024/25</title>
+    <sub-title lang="en">Cadiz Day 1</sub-title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -7008,14 +5556,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009103000 +0000" stop="20251009133000 +0000" channel="FS506">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251009103000 +0000" stop="20251009110000 +0000" channel="LEAGUE">
     <title lang="en">The Fan</title>
     <desc lang="en">Andrew Voss &amp; Lara Pitt present the weird &amp; wonderful side of the game, featuring past &amp; present characters with stories from on &amp; off field.</desc>
@@ -7025,10 +5565,9 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009110000 +0000" stop="20251009113000 +0000" channel="LEAGUE">
-    <title lang="en">The Fan</title>
-    <desc lang="en">Andrew Voss &amp; Lara Pitt present the weird &amp; wonderful side of the game, featuring past &amp; present characters with stories from on &amp; off field.</desc>
-    <category lang="en">Rugby League</category>
+  <programme start="20251009103000 +0000" stop="20251009133000 +0000" channel="FS506">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -7037,6 +5576,15 @@
   <programme start="20251009110000 +0000" stop="20251009113000 +0000" channel="FS503">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251009110000 +0000" stop="20251009113000 +0000" channel="LEAGUE">
+    <title lang="en">The Fan</title>
+    <desc lang="en">Andrew Voss &amp; Lara Pitt present the weird &amp; wonderful side of the game, featuring past &amp; present characters with stories from on &amp; off field.</desc>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -7103,6 +5651,15 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <programme start="20251009130000 +0000" stop="20251009150000 +0000" channel="FSM">
+    <title lang="en">World Grand Prix Darts</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
   <programme start="20251009130000 +0000" stop="20251009140000 +0000" channel="LEAGUE">
     <title lang="en">Run to the Grand Final</title>
     <category lang="en">Rugby League</category>
@@ -7113,15 +5670,6 @@
   </programme>
   <programme start="20251009130000 +0000" stop="20251009170000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251009130000 +0000" stop="20251009150000 +0000" channel="FSM">
-    <title lang="en">World Grand Prix Darts</title>
-    <sub-title lang="en">Day 3</sub-title>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
@@ -7207,17 +5755,17 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009170000 +0000" stop="20251009210000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
+  <programme start="20251009170000 +0000" stop="20251009180000 +0000" channel="LEAGUE">
+    <title lang="en">Run to the Grand Final</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009170000 +0000" stop="20251009180000 +0000" channel="LEAGUE">
-    <title lang="en">Run to the Grand Final</title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251009170000 +0000" stop="20251009210000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -7262,19 +5810,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251009180000 +0000" stop="20251009190000 +0000" channel="LEAGUE">
-    <title lang="en">Run to the Grand Final</title>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251009180000 +0000" stop="20251009220000 +0000" channel="FS505">
     <title lang="en">World Grand Prix Darts</title>
     <sub-title lang="en">Day 4</sub-title>
     <category lang="en">Undefined</category>
     <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251009180000 +0000" stop="20251009190000 +0000" channel="LEAGUE">
+    <title lang="en">Run to the Grand Final</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -7472,20 +6020,20 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010000000 +0000" stop="20251010010000 +0000" channel="FSM">
-    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
-    <sub-title lang="en">Episode 13</sub-title>
-    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
-    <category lang="en">Undefined</category>
+  <programme start="20251010000000 +0000" stop="20251010010000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010000000 +0000" stop="20251010010000 +0000" channel="LEAGUE">
-    <title lang="en">Greatest Test Matches</title>
-    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
-    <category lang="en">Rugby League</category>
+  <programme start="20251010000000 +0000" stop="20251010010000 +0000" channel="FSM">
+    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -7518,17 +6066,17 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010010000 +0000" stop="20251010050000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
+  <programme start="20251010010000 +0000" stop="20251010030000 +0000" channel="FS505">
+    <title lang="en">World Grand Prix Darts</title>
+    <sub-title lang="en">Day 4</sub-title>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010010000 +0000" stop="20251010030000 +0000" channel="FS505">
-    <title lang="en">World Grand Prix Darts</title>
-    <sub-title lang="en">Day 4</sub-title>
+  <programme start="20251010010000 +0000" stop="20251010050000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
@@ -7728,16 +6276,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010050000 +0000" stop="20251010052000 +0000" channel="LEAGUE">
-    <title lang="en">NRL Mini</title>
-    <sub-title lang="en">QF MEL v CBY</sub-title>
-    <desc lang="en">The 2025 Finals begin with a rematch from Round 25, when the hosts prevailed in a high-quality clash. A place in the Prelim Finals awaits the winner.</desc>
-    <category lang="en">Rugby League</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251010050000 +0000" stop="20251010090000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
@@ -7750,6 +6288,16 @@
     <title lang="en">TRANSWORLD SPORT 2025</title>
     <desc lang="en">The leading weekly international sports magazine show which features the best action and greatest moments in sport.</desc>
     <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251010050000 +0000" stop="20251010052000 +0000" channel="LEAGUE">
+    <title lang="en">NRL Mini</title>
+    <sub-title lang="en">QF MEL v CBY</sub-title>
+    <desc lang="en">The 2025 Finals begin with a rematch from Round 25, when the hosts prevailed in a high-quality clash. A place in the Prelim Finals awaits the winner.</desc>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8022,16 +6570,6 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010120000 +0000" stop="20251010130000 +0000" channel="FSM">
-    <title lang="en">UIM E1 WORLD CHAMPIONSHIP 2025 HIGHLIGHTS</title>
-    <sub-title lang="en">Nigeria</sub-title>
-    <desc lang="en">Explore the world of electric racing on water in the UIM E1 World Championship. A realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251010120000 +0000" stop="20251010123000 +0000" channel="LEAGUE">
     <title lang="en">Best of Fletch and Hindy</title>
     <category lang="en">Rugby League</category>
@@ -8050,9 +6588,11 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010123000 +0000" stop="20251010130000 +0000" channel="LEAGUE">
-    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251010120000 +0000" stop="20251010130000 +0000" channel="FSM">
+    <title lang="en">UIM E1 WORLD CHAMPIONSHIP 2025 HIGHLIGHTS</title>
+    <sub-title lang="en">Nigeria</sub-title>
+    <desc lang="en">Explore the world of electric racing on water in the UIM E1 World Championship. A realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <category lang="en">Sport</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8062,6 +6602,14 @@
     <title lang="en">FOX MINI 2025 F1</title>
     <sub-title lang="en">Singapore</sub-title>
     <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251010123000 +0000" stop="20251010130000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8077,9 +6625,10 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="LEAGUE">
-    <title lang="en">Run to the Grand Final</title>
-    <category lang="en">Rugby League</category>
+  <programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 1</sub-title>
+    <category lang="en">Cricket</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8094,18 +6643,25 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 1</sub-title>
-    <category lang="en">Cricket</category>
+  <programme start="20251010130000 +0000" stop="20251010170000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010130000 +0000" stop="20251010170000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
+  <programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="LEAGUE">
+    <title lang="en">Run to the Grand Final</title>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251010140000 +0000" stop="20251010150000 +0000" channel="LEAGUE">
+    <title lang="en">Run to the Grand Final</title>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8116,14 +6672,6 @@
     <sub-title lang="en">NZL v AUS Game 1</sub-title>
     <desc lang="en">Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.</desc>
     <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251010140000 +0000" stop="20251010150000 +0000" channel="LEAGUE">
-    <title lang="en">Run to the Grand Final</title>
-    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8342,19 +6890,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010220000 +0000" stop="20251010230000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 1</sub-title>
-    <category lang="en">Cricket</category>
+  <programme start="20251010220000 +0000" stop="20251010233000 +0000" channel="FS503">
+    <title lang="en">Euro PGA</title>
+    <sub-title lang="en">Spanish Open Round 2</sub-title>
+    <category lang="en">Golf</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010220000 +0000" stop="20251010233000 +0000" channel="FS503">
-    <title lang="en">Euro PGA</title>
-    <sub-title lang="en">Spanish Open Round 2</sub-title>
-    <category lang="en">Golf</category>
+  <programme start="20251010220000 +0000" stop="20251010230000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 1</sub-title>
+    <category lang="en">Cricket</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8369,19 +6917,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010230000 +0000" stop="20251011035000 +0000" channel="CRICKET">
-    <title lang="en">WNCL</title>
+  <programme start="20251010230000 +0000" stop="20251011000000 +0000" channel="FSM">
+    <title lang="en">PBR Teams</title>
+    <sub-title lang="en">Episode 5</sub-title>
     <category lang="en">Sport</category>
-    <live/>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251010230000 +0000" stop="20251011000000 +0000" channel="FSM">
-    <title lang="en">PBR Teams</title>
-    <sub-title lang="en">Episode 5</sub-title>
+  <programme start="20251010230000 +0000" stop="20251011035000 +0000" channel="CRICKET">
+    <title lang="en">WNCL</title>
     <category lang="en">Sport</category>
+    <live/>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8397,18 +6945,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011000000 +0000" stop="20251011013000 +0000" channel="FS503">
-    <title lang="en">PGA TOUR CHAMPIONS 2025 GOLF</title>
-    <category lang="en">Golf</category>
+  <programme start="20251011000000 +0000" stop="20251011010000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011000000 +0000" stop="20251011010000 +0000" channel="LEAGUE">
-    <title lang="en">Greatest Test Matches</title>
-    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
-    <category lang="en">Rugby League</category>
+  <programme start="20251011000000 +0000" stop="20251011013000 +0000" channel="FS503">
+    <title lang="en">PGA TOUR CHAMPIONS 2025 GOLF</title>
+    <category lang="en">Golf</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8450,19 +6998,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011013000 +0000" stop="20251011030000 +0000" channel="FSM">
+  <programme start="20251011013000 +0000" stop="20251011030000 +0000" channel="FS503">
     <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Barracuda Championship Round 2</sub-title>
-    <desc lang="en">The PGA Tour heads to Tahoe Mountain Club in Truckee, California, where players have a chance to cement their playoffs eligibility.</desc>
+    <sub-title lang="en">Baycurrent Classic Round 2</sub-title>
     <category lang="en">Golf</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011013000 +0000" stop="20251011030000 +0000" channel="FS503">
+  <programme start="20251011013000 +0000" stop="20251011030000 +0000" channel="FSM">
     <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Baycurrent Classic Round 2</sub-title>
+    <sub-title lang="en">Barracuda Championship Round 2</sub-title>
+    <desc lang="en">The PGA Tour heads to Tahoe Mountain Club in Truckee, California, where players have a chance to cement their playoffs eligibility.</desc>
     <category lang="en">Golf</category>
     <video>
       <present>yes</present>
@@ -8487,19 +7035,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011030000 +0000" stop="20251011040000 +0000" channel="FSM">
-    <title lang="en">TRANSWORLD SPORT 2025</title>
-    <desc lang="en">The leading weekly international sports magazine show which features the best action and greatest moments in sport.</desc>
-    <category lang="en">Undefined</category>
+  <programme start="20251011030000 +0000" stop="20251011043000 +0000" channel="FS503">
+    <title lang="en">Euro PGA</title>
+    <sub-title lang="en">Spanish Open Round 2</sub-title>
+    <category lang="en">Golf</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011030000 +0000" stop="20251011043000 +0000" channel="FS503">
-    <title lang="en">Euro PGA</title>
-    <sub-title lang="en">Spanish Open Round 2</sub-title>
-    <category lang="en">Golf</category>
+  <programme start="20251011030000 +0000" stop="20251011040000 +0000" channel="FSM">
+    <title lang="en">TRANSWORLD SPORT 2025</title>
+    <desc lang="en">The leading weekly international sports magazine show which features the best action and greatest moments in sport.</desc>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8622,18 +7170,18 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011080000 +0000" stop="20251011120000 +0000" channel="FSM">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
+  <programme start="20251011080000 +0000" stop="20251011083000 +0000" channel="FS503">
+    <title lang="en">How Good Is Golf</title>
+    <desc lang="en">How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
+    <category lang="en">Golf</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011080000 +0000" stop="20251011083000 +0000" channel="FS503">
-    <title lang="en">How Good Is Golf</title>
-    <desc lang="en">How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
-    <category lang="en">Golf</category>
+  <programme start="20251011080000 +0000" stop="20251011120000 +0000" channel="FSM">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8659,19 +7207,19 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011090000 +0000" stop="20251011114000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">IND v WI 2nd Test Day 2 S3</sub-title>
-    <category lang="en">Cricket</category>
-    <live/>
+  <programme start="20251011090000 +0000" stop="20251011130000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
     <video>
       <present>yes</present>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251011090000 +0000" stop="20251011130000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
+  <programme start="20251011090000 +0000" stop="20251011114000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">IND v WI 2nd Test Day 2 S3</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
     <video>
       <present>yes</present>
       <quality>HD</quality>
@@ -8751,6 +7299,703 @@
   <programme start="20251011124000 +0000" stop="20251011130000 +0000" channel="CRICKET">
     <title lang="en">Classic Mini</title>
     <sub-title lang="en">1991/92 AUS v IND ODI FNL 1</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011130000 +0000" stop="20251011140000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011130000 +0000" stop="20251011170000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011130000 +0000" stop="20251011140000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011140000 +0000" stop="20251011150000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011140000 +0000" stop="20251011170000 +0000" channel="CRICKET">
+    <title lang="en">T20 AUS v SA</title>
+    <sub-title lang="en">Game 1</sub-title>
+    <desc lang="en">Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011150000 +0000" stop="20251011160000 +0000" channel="LEAGUE">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Grand Final</sub-title>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011160000 +0000" stop="20251011170000 +0000" channel="FS503">
+    <title lang="en">PGA of Australia</title>
+    <sub-title lang="en">WA PGA Round 3</sub-title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011160000 +0000" stop="20251011170000 +0000" channel="LEAGUE">
+    <title lang="en">ENGLISH SUPER LEAGUE 2025 ESL PRE GAME</title>
+    <desc lang="en">Join the Sky Sports experts at the venue for their preview &amp; latest Super League news.</desc>
+    <category lang="en">Rugby League</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011170000 +0000" stop="20251011200000 +0000" channel="CRICKET">
+    <title lang="en">T20</title>
+    <sub-title lang="en">NZL v AUS Game 3</sub-title>
+    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011170000 +0000" stop="20251011210000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011170000 +0000" stop="20251011173000 +0000" channel="FS503">
+    <title lang="en">Getting A Round In</title>
+    <sub-title lang="en">Julian Wilson</sub-title>
+    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011170000 +0000" stop="20251011200000 +0000" channel="LEAGUE">
+    <title lang="en">English Super League</title>
+    <category lang="en">Rugby League</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011173000 +0000" stop="20251011190000 +0000" channel="FS503">
+    <title lang="en">USPGA Tour</title>
+    <sub-title lang="en">Baycurrent Classic Round 3</sub-title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011190000 +0000" stop="20251011220000 +0000" channel="FS503">
+    <title lang="en">Korn Ferry Tour</title>
+    <category lang="en">Golf</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011190000 +0000" stop="20251011200000 +0000" channel="FSM">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Portugal Race 1</sub-title>
+    <desc lang="en">It's time for the first race of the World Superbikes weekend, with Italy's Nicol&amp;#242; Bulega looking to continue his stunning early form.</desc>
+    <category lang="en">Racing</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011200000 +0000" stop="20251011210000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011200000 +0000" stop="20251011210000 +0000" channel="FSM">
+    <title lang="en">TRANSWORLD SPORT 2025</title>
+    <desc lang="en">The leading weekly international sports magazine show which features the best action and greatest moments in sport.</desc>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011200000 +0000" stop="20251011210000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011210000 +0000" stop="20251012010000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011210000 +0000" stop="20251011220000 +0000" channel="FSM">
+    <title lang="en">SAILGP 2024/25 HIGHLIGHTS</title>
+    <sub-title lang="en">Cadiz</sub-title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011210000 +0000" stop="20251011220000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011210000 +0000" stop="20251011212000 +0000" channel="CRICKET">
+    <title lang="en">T20 Mini NZL v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en">Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
+    <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011212000 +0000" stop="20251011214000 +0000" channel="CRICKET">
+    <title lang="en">Test Mini IND v WI</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011214000 +0000" stop="20251011220000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">1991/92 AUS v IND ODI FNL 2</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011220000 +0000" stop="20251011230000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011220000 +0000" stop="20251011230000 +0000" channel="FSM">
+    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2025 PBR</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011220000 +0000" stop="20251011230000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011220000 +0000" stop="20251011223000 +0000" channel="FS503">
+    <title lang="en">Getting A Round In</title>
+    <sub-title lang="en">Julian Wilson</sub-title>
+    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011223000 +0000" stop="20251012000000 +0000" channel="FS503">
+    <title lang="en">Euro PGA</title>
+    <sub-title lang="en">Spanish Open Round 3</sub-title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011230000 +0000" stop="20251012000000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011230000 +0000" stop="20251012000000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 1</sub-title>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251011230000 +0000" stop="20251012000000 +0000" channel="FSM">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Portugal Race 1</sub-title>
+    <desc lang="en">It's time for the first race of the World Superbikes weekend, with Italy's Nicol&amp;#242; Bulega looking to continue his stunning early form.</desc>
+    <category lang="en">Racing</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012000000 +0000" stop="20251012010000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012000000 +0000" stop="20251012010000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012000000 +0000" stop="20251012013000 +0000" channel="FS503">
+    <title lang="en">PGA TOUR CHAMPIONS 2025 GOLF</title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012000000 +0000" stop="20251012013000 +0000" channel="FSM">
+    <title lang="en">Euro PGA</title>
+    <sub-title lang="en">Spanish Open Round 3</sub-title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012010000 +0000" stop="20251012020000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012010000 +0000" stop="20251012012000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">1991/92 AUS v IND ODI FNL 1</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012010000 +0000" stop="20251012050000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012012000 +0000" stop="20251012014000 +0000" channel="CRICKET">
+    <title lang="en">Test Mini IND v WI</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012013000 +0000" stop="20251012020000 +0000" channel="FS503">
+    <title lang="en">How Good Is Golf</title>
+    <desc lang="en">How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012013000 +0000" stop="20251012020000 +0000" channel="FSM">
+    <title lang="en">Getting A Round In</title>
+    <sub-title lang="en">Julian Wilson</sub-title>
+    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012014000 +0000" stop="20251012020000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">1991/92 AUS v IND ODI FNL 1</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="FS503">
+    <title lang="en">PGA of Australia</title>
+    <sub-title lang="en">WA PGA Round 3</sub-title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="FSM">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Portugal Race 1</sub-title>
+    <desc lang="en">It's time for the first race of the World Superbikes weekend, with Italy's Nicol&amp;#242; Bulega looking to continue his stunning early form.</desc>
+    <category lang="en">Racing</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012030000 +0000" stop="20251012040000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012030000 +0000" stop="20251012080000 +0000" channel="FS503">
+    <title lang="en">PGA of Australia</title>
+    <sub-title lang="en">WA PGA Final Round</sub-title>
+    <category lang="en">Golf</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012030000 +0000" stop="20251012070000 +0000" channel="FSM">
+    <title lang="en">USPGA Tour</title>
+    <sub-title lang="en">Baycurrent Classic Final Round</sub-title>
+    <category lang="en">Golf</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012030000 +0000" stop="20251012033000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">2020 AUS v IND ODI G2</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012033000 +0000" stop="20251012035000 +0000" channel="CRICKET">
+    <title lang="en">Test Mini IND v WI</title>
+    <sub-title lang="en">2nd Test Day 2</sub-title>
+    <category lang="en">Sport</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012035000 +0000" stop="20251012060500 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">IND v WI 2nd Test Day 3 S1</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012040000 +0000" stop="20251012050000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012050000 +0000" stop="20251012060000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012050000 +0000" stop="20251012090000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012060000 +0000" stop="20251012070000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012060500 +0000" stop="20251012063500 +0000" channel="CRICKET">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012063500 +0000" stop="20251012083500 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">IND v WI 2nd Test Day 3 S2</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012070000 +0000" stop="20251012083000 +0000" channel="FSM">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012070000 +0000" stop="20251012080000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012080000 +0000" stop="20251012093000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012080000 +0000" stop="20251012083000 +0000" channel="FS503">
+    <title lang="en">Getting A Round In</title>
+    <sub-title lang="en">Julian Wilson</sub-title>
+    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012083000 +0000" stop="20251012100000 +0000" channel="FS503">
+    <title lang="en">Euro PGA</title>
+    <sub-title lang="en">Spanish Open Round 3</sub-title>
+    <category lang="en">Golf</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012083000 +0000" stop="20251012100000 +0000" channel="FSM">
+    <title lang="en">Netball Test</title>
+    <category lang="en">Court Sports</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012083500 +0000" stop="20251012090000 +0000" channel="CRICKET">
+    <title lang="en">Tea Break</title>
+    <sub-title lang="en">IND v WI</sub-title>
+    <desc lang="en">First and Second session is in the books, the teams are taking a tea break and will be back after this for the third and final session of the day.</desc>
+    <category lang="en">Sport</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012090000 +0000" stop="20251012130000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012090000 +0000" stop="20251012114000 +0000" channel="CRICKET">
+    <title lang="en">Test</title>
+    <sub-title lang="en">IND v WI 2nd Test Day 3 S3</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012093000 +0000" stop="20251012100000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012100000 +0000" stop="20251012103000 +0000" channel="LEAGUE">
+    <title lang="en">FACE TO FACE ON FOX 2025 FOX LEAGUE</title>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012100000 +0000" stop="20251012160000 +0000" channel="FSM">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012100000 +0000" stop="20251012150000 +0000" channel="FS503">
+    <title lang="en">Euro PGA</title>
+    <sub-title lang="en">Spanish Open Final Round</sub-title>
+    <category lang="en">Golf</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012103000 +0000" stop="20251012113000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012113000 +0000" stop="20251012130000 +0000" channel="LEAGUE">
+    <title lang="en">Greatest Test Matches</title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <category lang="en">Rugby League</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012114000 +0000" stop="20251012124000 +0000" channel="CRICKET">
+    <title lang="en">ODI Thrillers</title>
+    <sub-title lang="en">2016 AUS v IND Game 1</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
+    <category lang="en">Cricket</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251012124000 +0000" stop="20251012130000 +0000" channel="CRICKET">
+    <title lang="en">Classic Mini</title>
+    <sub-title lang="en">1991/92 AUS v IND ODI FNL 2</sub-title>
     <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
     <category lang="en">Cricket</category>
     <video>
