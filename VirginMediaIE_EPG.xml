@@ -15,459 +15,6 @@
   <channel id="Virgin Media More">
     <display-name lang="en">Virgin Media More</display-name>
   </channel>
-  <programme start="20251012220500 +0000" stop="20251012230500 +0000" channel="Virgin Media One">
-    <title lang="en">Who Wants To Be A Millionaire?</title>
-    <desc lang="en">Jeremy Clarkson hosts the ultimate test of concentration, strategic thinking, and emotional endurance as contestants compete for a top prize of £1,000,000.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251011230500 +0000" stop="20251012000500 +0000" channel="Virgin Media One">
-    <title lang="en">The Sinking of the Superyacht</title>
-    <desc lang="en">Through dramatic, minute by minute analysis of the Bayesian tragedy, we examine the causes of the disaster, asking what the sinking means for anyone stepping onto a boat.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012000500 +0000" stop="20251012010500 +0000" channel="Virgin Media One">
-    <title lang="en">Romesh Ranganathan's Parents Evening</title>
-    <desc lang="en">Romesh Ranganathan (and his mum) host the comedy game show in which celebrities team up with family members.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012053000 +0000" stop="20251012062000 +0000" channel="Virgin Media One">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the &quot;Chaser&quot;, in order to win a cash prize</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012062000 +0000" stop="20251012071000 +0000" channel="Virgin Media One">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">The Australian version of the hit TV game show.</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012071000 +0000" stop="20251012080000 +0000" channel="Virgin Media One">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the &quot;Chaser&quot;, in order to win a cash prize</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012080000 +0000" stop="20251012110000 +0000" channel="Virgin Media One">
-    <title lang="en">Ireland AM</title>
-    <desc lang="en">Ireland AM is the longest running daytime show in Ireland. Blending a mixture of lifestyle interviews and news content, with gardening, health, food and fashion seven days a week.</desc>
-    <length units="minutes">180</length>
-  </programme>
-  <programme start="20251012110000 +0000" stop="20251012120000 +0000" channel="Virgin Media One">
-    <title lang="en">John &amp; Lisa's Weekend Kitchen</title>
-    <desc lang="en">Professional chef John Torode and home cook Lisa Faulkner invite guests to prepare simple, creative dishes and share their expertise with them.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012120000 +0000" stop="20251012130000 +0000" channel="Virgin Media One">
-    <title lang="en">Rich House, Poor House</title>
-    <desc lang="en">Two families are trading houses and budgets for a week. Will this social experiment make them reassess their own day-to-day lives and the value they have on money?</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012130000 +0000" stop="20251012140000 +0000" channel="Virgin Media One">
-    <title lang="en">Wheel Of Fortune</title>
-    <desc lang="en">Hosted by Graham Norton, the classic gameshow is back as contestants once again spin to win!</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012140000 +0000" stop="20251012150000 +0000" channel="Virgin Media One">
-    <title lang="en">The Celebrity Chase</title>
-    <desc lang="en">Celebrity series of The Chase. Contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. Hosted by Bradley Walsh.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012150000 +0000" stop="20251012160000 +0000" channel="Virgin Media One">
-    <title lang="en">You Bet</title>
-    <desc lang="en">The legendary ITV gameshow You Bet! is back with host Stephen Mulhern! He is ready to welcome a new host of ordinary people with extraordinary skills.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012160000 +0000" stop="20251012163000 +0000" channel="Virgin Media One">
-    <title lang="en">Bradley Walsh &amp; Son: Breaking Dad</title>
-    <desc lang="en">Bradley &amp; Barney Walsh are back on the road together, this time experiencing the cultures of beautiful Asia on another epic adventure.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012163000 +0000" stop="20251012170000 +0000" channel="Virgin Media One">
-    <title lang="en">News at 5:30</title>
-    <desc lang="en">The latest national and international news stories from the Virgin Media News team.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012170000 +0000" stop="20251012190000 +0000" channel="Virgin Media One">
-    <title lang="en">Vera</title>
-    <desc lang="en">BAFTA and Golden Globe winner Brenda Blethyn dons her iconic mac and hat to return as the unorthodox but brilliantly perceptive Detective Chief Inspector Vera Stanhope.</desc>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20251012190000 +0000" stop="20251012200000 +0000" channel="Virgin Media One">
-    <title lang="en">A Rebel Education</title>
-    <desc lang="en">Principal Burke is challenged by disruptive second year Kalen, Mr. O Donovan tackles the  impact of social media and former drop-out Alannah struggles to catch up for leaving cert.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012200000 +0000" stop="20251012210000 +0000" channel="Virgin Media One">
-    <title lang="en">Living With Lucy</title>
-    <desc lang="en">Lucy jets off to LA to live with reality TV star Caitlyn Jenner. The controversial star discusses everything from the Kardashians, to why she supports Donald Trump.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012210000 +0000" stop="20251012213000 +0000" channel="Virgin Media One">
-    <title lang="en">Faithless</title>
-    <desc lang="en">Despite downsizing, the Amins need to squeeze in a couple of unexpected house guests when Zu turns up with baby Ruby and Dymphna throws Cormac out. Sam admits to feeling lonely.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012213000 +0000" stop="20251012223000 +0000" channel="Virgin Media One">
-    <title lang="en">Dinner with the Enemy</title>
-    <desc lang="en">Ten radically different dinner guests are served the hottest societal talking points and divisive moral dilemmas. As perceived enemies break bread, can they find common ground?</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012223000 +0000" stop="20251012233000 +0000" channel="Virgin Media One">
-    <title lang="en">Trauma Room One</title>
-    <desc lang="en">We're in the operating theatres of the UK's busiest neurology and neurosurgery hospital, with some of the world's best surgeons as they fight to bring those on the edge, back to life.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251011230000 +0000" stop="20251012000000 +0000" channel="Virgin Media Two">
-    <title lang="en">Autopsy USA</title>
-    <desc lang="en">Celebrity autopsy results are combined with the revelations of the late stars' friends and families to offer a comprehensive overview of the events leading up to the icons' untimely deaths.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012000000 +0000" stop="20251012010500 +0000" channel="Virgin Media Two">
-    <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Graham Norton gets up close and personal with various celebrities whilst focusing on different aspects of celebrity culture that attract his attention.</desc>
-    <length units="minutes">65</length>
-  </programme>
-  <programme start="20251012010500 +0000" stop="20251012014800 +0000" channel="Virgin Media Two">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Balancing their ever-evolving friendships with the demands of family life can be difficult while a string of shocking events proves living this large is more than meets the eye.</desc>
-    <length units="minutes">43</length>
-  </programme>
-  <programme start="20251012053500 +0000" stop="20251012062500 +0000" channel="Virgin Media Two">
-    <title lang="en">Who's Doing The Dishes</title>
-    <desc lang="en">Brian McFadden is at the home of pop star and actor Adam Rickitt as he plays host to four strangers in his home. Will Adam avoid the washing up with his cryptic clues as to his identity or will the fo...</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012062500 +0000" stop="20251012072500 +0000" channel="Virgin Media Two">
-    <title lang="en">Tipping Point</title>
-    <desc lang="en">Hit Quiz Series hosted by Ben Shepherd which sees four contestants do battle to win big cash prizes...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012072500 +0000" stop="20251012083000 +0000" channel="Virgin Media Two">
-    <title lang="en">Tipping Point</title>
-    <desc lang="en">Hit Quiz Series hosted by Ben Shepherd which sees four contestants do battle to win big cash prizes...</desc>
-    <length units="minutes">65</length>
-  </programme>
-  <programme start="20251012083000 +0000" stop="20251012092500 +0000" channel="Virgin Media Two">
-    <title lang="en">The Chase Australia</title>
-    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the &quot;Chaser&quot;, in order to win a cash prize.</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012092500 +0000" stop="20251012102000 +0000" channel="Virgin Media Two">
-    <title lang="en">Inside Paddington Station 24/7</title>
-    <desc lang="en">Taking a look at the behind-the-scenes action at one of the UK's busiest transport hubs, this series chronicles the typical and not-so-typical issues that face station staff, transport workers, e...</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012102000 +0000" stop="20251012105000 +0000" channel="Virgin Media Two">
-    <title lang="en">Heathrow</title>
-    <desc lang="en">This documentary series follows the daily activity at Britain's largest international airport, London Heathrow.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012105000 +0000" stop="20251012120000 +0000" channel="Virgin Media Two">
-    <title lang="en">Britain's Got Talent</title>
-    <desc lang="en">Britain’s Got Talent: With Ant and Dec at the helm, the multi-award-winning talent extravaganza returns for the 18th series, bringing viewers more show-stopping performances than ever before.</desc>
-    <length units="minutes">70</length>
-  </programme>
-  <programme start="20251012120000 +0000" stop="20251012130000 +0000" channel="Virgin Media Two">
-    <title lang="en">The Family Chase</title>
-    <desc lang="en">Family members from all over the country answer a series of general knowledge questions in order to win the prize money.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012130000 +0000" stop="20251012170500 +0000" channel="Virgin Media Two">
-    <title lang="en">New York Jets v Denver Broncos</title>
-    <desc lang="en">Live coverage of the NFL International Series as the Jets take on the Broncos at Tottenham Hotspur Stadium, London.</desc>
-    <length units="minutes">245</length>
-  </programme>
-  <programme start="20251012170500 +0000" stop="20251012173500 +0000" channel="Virgin Media Two">
-    <title lang="en">Heathrow</title>
-    <desc lang="en">This documentary series follows the daily activity at Britain's largest international airport, London Heathrow.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012173500 +0000" stop="20251012180500 +0000" channel="Virgin Media Two">
-    <title lang="en">Britain's Brightest Celebrity Family</title>
-    <desc lang="en">See a whole new side to your favourite stars - and their families - as they take on the ultimate challenge. In each episode, two celebrities and their families go head-to-head in a knockout tournament...</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012180500 +0000" stop="20251012183500 +0000" channel="Virgin Media Two">
-    <title lang="en">Britain's Brightest Family</title>
-    <desc lang="en">In this quiz it’s not just what you know, it’s what you think your family knows!
-The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-min quiz show where sixt...</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012183500 +0000" stop="20251012205000 +0000" channel="Virgin Media Two">
-    <title lang="en">UEFA European Qualifiers Live: Denmark v Greece</title>
-    <desc lang="en">Greece host Denmark in a crucial Group C clash as the race for World Cup qualification heats up</desc>
-    <length units="minutes">135</length>
-  </programme>
-  <programme start="20251012205000 +0000" stop="20251012215000 +0000" channel="Virgin Media Two">
-    <title lang="en">Snowpiercer</title>
-    <desc lang="en">Set seven years after the world has become a frozen wasteland, this star-studded futuristic thriller explores class warfare, social injustice and the politics of survival.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012215000 +0000" stop="20251012225000 +0000" channel="Virgin Media Two">
-    <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Graham Norton is getting up close and personal with various celebrities on his famous sofa.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012225000 +0000" stop="20251013003500 +0000" channel="Virgin Media Two">
-    <title lang="en">The Transporter Refueled</title>
-    <desc lang="en">Former special-ops mercenary Frank Martin enters into a game of chess with a femme-fatale and her three sidekicks who are looking for revenge against a sinister Russian kingpin.</desc>
-    <length units="minutes">105</length>
-  </programme>
-  <programme start="20251012220000 +0000" stop="20251013002000 +0000" channel="Virgin Media Three">
-    <title lang="en">The Fabulous Baker Boys</title>
-    <desc lang="en">Starring Michelle Pfeiffer (Dangerous Liaisons) and real-life brothers Jeff (Seabiscuit) and Beau Bridges (Stargate SG-1), this film is a salute to music, friendship, family and following your dreams.</desc>
-    <length units="minutes">140</length>
-  </programme>
-  <programme start="20251012002000 +0000" stop="20251012020000 +0000" channel="Virgin Media Three">
-    <title lang="en">Dr Blake Mysteries</title>
-    <desc lang="en">Medical cases turn to murder cases in this compelling detective drama based on the hit Australian series.</desc>
-    <length units="minutes">100</length>
-  </programme>
-  <programme start="20251012060500 +0000" stop="20251012070000 +0000" channel="Virgin Media Three">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Members of the local constabulary patrol the town of Ashfordly and the nearby village of Aidensfield in the North Riding of Yorkshire, keeping the peace whilst also dealing with local loveable rogues ...</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012070000 +0000" stop="20251012075500 +0000" channel="Virgin Media Three">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Members of the local constabulary patrol the town of Ashfordly and the nearby village of Aidensfield in the North Riding of Yorkshire, keeping the peace whilst also dealing with local loveable rogues ...</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012075500 +0000" stop="20251012090000 +0000" channel="Virgin Media Three">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Members of the local constabulary patrol the town of Ashfordly and the nearby village of Aidensfield in the North Riding of Yorkshire, keeping the peace whilst also dealing with local loveable rogues ...</desc>
-    <length units="minutes">65</length>
-  </programme>
-  <programme start="20251012090000 +0000" stop="20251012105000 +0000" channel="Virgin Media Three">
-    <title lang="en">Lewis</title>
-    <desc lang="en">When local businesswoman Andrea de Ritter is brutally bludgeoned to death, Lewis and Hathaway are called in to investigate what appears to be a blackmail plot gone wrong.</desc>
-    <length units="minutes">110</length>
-  </programme>
-  <programme start="20251012105000 +0000" stop="20251012112000 +0000" channel="Virgin Media Three">
-    <title lang="en">Coronation Street</title>
-    <desc lang="en">Asha resorts to extreme measures to escape her mental struggles, Tim picks up a former girlfriend in his cab, and Todd berates Theo for doing a disappearing act.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012112000 +0000" stop="20251012115500 +0000" channel="Virgin Media Three">
-    <title lang="en">Coronation Street</title>
-    <desc lang="en">Asha resorts to extreme measures to escape her mental struggles, Tim picks up a former girlfriend in his cab, and Todd berates Theo for doing a disappearing act.</desc>
-    <length units="minutes">35</length>
-  </programme>
-  <programme start="20251012115500 +0000" stop="20251012122000 +0000" channel="Virgin Media Three">
-    <title lang="en">Coronation Street</title>
-    <desc lang="en">Abi and Carl strive to keep their affair under wraps at a Webster-Bailey gathering, Dev confides in Bernie about his anger towards Asha, and Brian is left shocked by Tim’s tales of his past.</desc>
-    <length units="minutes">25</length>
-  </programme>
-  <programme start="20251012122000 +0000" stop="20251012125000 +0000" channel="Virgin Media Three">
-    <title lang="en">Coronation Street</title>
-    <desc lang="en">Abi and Carl strive to keep their affair under wraps at a Webster-Bailey gathering, Dev confides in Bernie about his anger towards Asha, and Brian is left shocked by Tim’s tales of his past.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012125000 +0000" stop="20251012132000 +0000" channel="Virgin Media Three">
-    <title lang="en">Coronation Street</title>
-    <desc lang="en">Kevin tells Abi that she is no longer welcome at Number 13, Brian accuses Trisha of taking advantage of Tim, and Todd turns to Billy for support rather than Theo.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012132000 +0000" stop="20251012135000 +0000" channel="Virgin Media Three">
-    <title lang="en">Coronation Street</title>
-    <desc lang="en">Kevin tells Abi that she is no longer welcome at Number 13, Brian accuses Trisha of taking advantage of Tim, and Todd turns to Billy for support rather than Theo.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012135000 +0000" stop="20251012155000 +0000" channel="Virgin Media Three">
-    <title lang="en">Poirot</title>
-    <desc lang="en">When Ariadne Oliver attends a children's Hallowe'en party in Woodleigh Common with her friend Judith, a young girl Joyce Reynolds boasts of having witnessed a murder years before.  Joyce...</desc>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20251012155000 +0000" stop="20251012180000 +0000" channel="Virgin Media Three">
-    <title lang="en">UEFA European Qualifiers Live: Scotland v Belarus</title>
-    <desc lang="en">Scotland continue their World Cup qualifying campaign with a home clash against Belarus.</desc>
-    <length units="minutes">130</length>
-  </programme>
-  <programme start="20251012180000 +0000" stop="20251012190000 +0000" channel="Virgin Media Three">
-    <title lang="en">Judi Love's Culinary Cruise</title>
-    <desc lang="en">Set sail with comedian, presenter and Masterchef winner Judi Love as she cruises around the Mediterranean, visiting fabulous locations and cooking up local dishes along the way.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012190000 +0000" stop="20251012201000 +0000" channel="Virgin Media Three">
-    <title lang="en">Inside Dubai</title>
-    <desc lang="en">In Dubai, where extreme wealth rules, it’s all about being the biggest and the best. This entertaining series takes us behind the scenes of the desert paradise to revel in unimaginable and jaw-d...</desc>
-    <length units="minutes">70</length>
-  </programme>
-  <programme start="20251012201000 +0000" stop="20251012210500 +0000" channel="Virgin Media Three">
-    <title lang="en">Finders Keepers</title>
-    <desc lang="en">As DS Doyle starts asking Martin awkward questions, Rocky becomes increasingly volatile. Laura makes a discovery.</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012210500 +0000" stop="20251012214000 +0000" channel="Virgin Media Three">
-    <title lang="en">Mum</title>
-    <desc lang="en">Starring Olivier Award winner and BAFTA nominee Lesley Manville, Mum is a family comedy seen through the eyes of Cathy, a mother in her late fifties who finds herself at a milestone in life after the ...</desc>
-    <length units="minutes">35</length>
-  </programme>
-  <programme start="20251012214000 +0000" stop="20251012222500 +0000" channel="Virgin Media Three">
-    <title lang="en">Mum</title>
-    <desc lang="en">Starring Olivier Award winner and BAFTA nominee Lesley Manville, Mum is a family comedy seen through the eyes of Cathy, a mother in her late fifties who finds herself at a milestone in life after the ...</desc>
-    <length units="minutes">45</length>
-  </programme>
-  <programme start="20251012222500 +0000" stop="20251012234000 +0000" channel="Virgin Media Three">
-    <title lang="en">Poldark</title>
-    <desc lang="en">Multi award-winning series adapted from English author Winston Graham's historical novels.</desc>
-    <length units="minutes">75</length>
-  </programme>
-  <programme start="20251012225000 +0000" stop="20251012235000 +0000" channel="Virgin Media Four">
-    <title lang="en">Blue Murder</title>
-    <desc lang="en">Manchester homicide cop Janine Lewis struggles to balance her professional life as the newly promoted detective chief inspector with her personal life as a single mother.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251011235000 +0000" stop="20251012002000 +0000" channel="Virgin Media Four">
-    <title lang="en">The Mike Tomlin Show</title>
-    <desc lang="en">Exclusive weekly sit-down with Pittsburgh Steelers head coach Mike Tomlin. Get insider insights, game previews, and candid commentary straight from the coach.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012060500 +0000" stop="20251012065500 +0000" channel="Virgin Media Four">
-    <title lang="en">Best of Guinness Six Nations 2025: Scotland v Ireland</title>
-    <desc lang="en">Ireland have won their last ten matches against Scotland will it be a different outcome this time around at Murrayfield for Gregor Townsend's side in round two of the Guiness Six Nations</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012065500 +0000" stop="20251012075000 +0000" channel="Virgin Media Four">
-    <title lang="en">UCL Defining Moment</title>
-    <desc lang="en">Celebrating 65-years of European Cup &amp; UEFA Champions League football. Using a combination of UEFA’s vast back-catalogue of archive footage and interviews with coaches and players this serie...</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012075000 +0000" stop="20251012085000 +0000" channel="Virgin Media Four">
-    <title lang="en">Sport Stories: Philly McMahon</title>
-    <desc lang="en">In the latest episode of Sport Stories, 8 time All Ireland winner Philly McMahon talks us through his journey of self-sacrifice, sense of identity, personal tragedy and an insatiable desire for succes...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012085000 +0000" stop="20251012102500 +0000" channel="Virgin Media Four">
-    <title lang="en">The Voice UK</title>
-    <desc lang="en">With Emma Willis at the helm, will.i.am and Sir Tom Jones return to The Voice as coaches, along with LeAnn Rimes, Tom Fletcher and Danny Jones.</desc>
-    <length units="minutes">95</length>
-  </programme>
-  <programme start="20251012102500 +0000" stop="20251012110000 +0000" channel="Virgin Media Four">
-    <title lang="en">Golf's Greatest Holes</title>
-    <desc lang="en">Ryder Cup captain Paul McGinley and TV's Chris Hollins takes viewers on a dream journey across Ireland, playing the courses they have always wanted to play.</desc>
-    <length units="minutes">35</length>
-  </programme>
-  <programme start="20251012110000 +0000" stop="20251012130000 +0000" channel="Virgin Media Four">
-    <title lang="en">Marple</title>
-    <desc lang="en">Miss Marple is asked to help Gwenda Halliday, a wealthy young woman who has bought a house on the english coast, only to experience disturbing visions. Soon Gwenda discovers that, instead of spending ...</desc>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20251012130000 +0000" stop="20251012135500 +0000" channel="Virgin Media Four">
-    <title lang="en">Sport Stories</title>
-    <desc lang="en">The five-time Paralympian tells us about her life as an elite swimmer and her journey to gold in Rio 2016.</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012135500 +0000" stop="20251012160000 +0000" channel="Virgin Media Four">
-    <title lang="en">The Voice UK</title>
-    <desc lang="en">Four superstar coaches search for an incredible singing talent chosen purely on the quality of their voice.</desc>
-    <length units="minutes">125</length>
-  </programme>
-  <programme start="20251012160000 +0000" stop="20251012170000 +0000" channel="Virgin Media Four">
-    <title lang="en">Who's Doing The Dishes</title>
-    <desc lang="en">Footballer Wes Brown hosts a dinner party for four guests who win a cash prize if they can guess his identity from cryptic culinary clues. As an added incentive, if they are successful, Wes has to do ...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012170000 +0000" stop="20251012180000 +0000" channel="Virgin Media Four">
-    <title lang="en">Help me Buy a Home</title>
-    <desc lang="en">Fronted by Buyers Agent Liz O'Kane, How To Buy a Home unpacks the unfiltered realities Irish people face in the search for a home. Following real life experiences, this series takes a raw and hon...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012180000 +0000" stop="20251012190000 +0000" channel="Virgin Media Four">
-    <title lang="en">Storage Hoarders</title>
-    <desc lang="en">Storage Hoarders is the hit series that taps into the ever-growing phenomenon of storage hoarding, and shines a light on couples whose relationships are taking the strain because they have too many po...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012190000 +0000" stop="20251012200000 +0000" channel="Virgin Media Four">
-    <title lang="en">The Salvage Squad</title>
-    <desc lang="en">Brian Dowling and his fashion-forward design team are on a mission to prove to the nation that you 
-can achieve the home renovation of your dreams without it literally costing the earth. 
-Changing Roo...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012200000 +0000" stop="20251012205500 +0000" channel="Virgin Media Four">
-    <title lang="en">The Real Housewives of Dubai</title>
-    <desc lang="en">The drama is heating up as the dazzling women of Dubai navigate love, business empires and ever-evolving friendships, all while seeing who can shine brightest in the City of Gold.</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012205500 +0000" stop="20251012215000 +0000" channel="Virgin Media Four">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <desc lang="en">Balancing their ever-evolving friendships with the demands of family life can be difficult while a string of shocking events proves living this large is more than meets the eye.</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012215000 +0000" stop="20251012225000 +0000" channel="Virgin Media Four">
-    <title lang="en">Million Dollar Listing LA</title>
-    <desc lang="en">Follow LA’s hottest and most aggressive real estate magnates in the making as they net a fortune selling multi-million dollar properties in the most exclusive neighbourhoods.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012225000 +0000" stop="20251012235000 +0000" channel="Virgin Media Four">
-    <title lang="en">Blue Murder</title>
-    <desc lang="en">Manchester homicide cop Janine Lewis struggles to balance her professional life as the newly promoted detective chief inspector with her personal life as a single mother.</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012224000 +0000" stop="20251012233500 +0000" channel="Virgin Media More">
-    <title lang="en">UCL Defining Moment</title>
-    <desc lang="en">Celebrating 65-years of European Cup &amp; UEFA Champions League football. Using a combination of UEFA’s vast back-catalogue of archive footage and interviews with coaches and players this serie...</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012122000 +0000" stop="20251012131500 +0000" channel="Virgin Media More">
-    <title lang="en">Classic UEFA Champions League: PSG v Man United '19</title>
-    <desc lang="en">Ole Gunnar Solskjaer's Manchester United are in Paris as they attempt to overturn a 2-0 deficit from the first-leg of the UEFA Champions League last 16 tie at Old Trafford.</desc>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251012131500 +0000" stop="20251012140500 +0000" channel="Virgin Media More">
-    <title lang="en">Best of u20's Six Nations 2025: Scotland v Ireland</title>
-    <desc lang="en">Neil Doak takes his Ireland side to Edinburgh to take on Scotland in Round Two of the U20 6 Nations Championship.</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012140500 +0000" stop="20251012145500 +0000" channel="Virgin Media More">
-    <title lang="en">UEFA European Qualifiers Matchnight Highlights</title>
-    <desc lang="en">A round up of all the best of the night's action in the European qualifiers as countries look to qualify for the 2026 FIFA World cup.</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012145500 +0000" stop="20251012165000 +0000" channel="Virgin Media More">
-    <title lang="en">UEFA European Qualifiers 2025/26:Hungary v Armenia</title>
-    <desc lang="en">Hungary host Armenia in a crucial Group F qualifier as both sides chase a spot at the 2026 FIFA World Cup.</desc>
-    <length units="minutes">115</length>
-  </programme>
-  <programme start="20251012165000 +0000" stop="20251012172000 +0000" channel="Virgin Media More">
-    <title lang="en">Messi: Barcelona v Liverpool 2019</title>
-    <desc lang="en">Some the most classic and most memorable matches from Europe's premier club competition.</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012172000 +0000" stop="20251012181000 +0000" channel="Virgin Media More">
-    <title lang="en">UEFA Man In The Middle</title>
-    <desc lang="en">Set during the Group Stage of the 2019/20 UEFA Champions League season, Episode 2 takes a deeper dive into the psychology of refereeing, as some of the top officials find themselves having to make the...</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012181000 +0000" stop="20251012190000 +0000" channel="Virgin Media More">
-    <title lang="en">Sport Stories: Damien Delaney</title>
-    <desc lang="en">After breaking into the Premier League as a 19-year-old, it took Damien Delaney 11 years to make it back to the top. In this sit-down interview, the former Crystal Palace defender opens up on his jour...</desc>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20251012190000 +0000" stop="20251012200000 +0000" channel="Virgin Media More">
-    <title lang="en">Brian Kerr - A Life In Football</title>
-    <desc lang="en">Legendary former Irish international football manager Brian Kerr discusses his life and career in an in-depth conversation with Virgin Media Sport’s Tommy Martin. In this episode Brian takes us ...</desc>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20251012200000 +0000" stop="20251012213000 +0000" channel="Virgin Media More">
-    <title lang="en">Grace</title>
-    <desc lang="en">Grace investigates a businessman's death at a hotel but not all is quite as it seems.</desc>
-    <length units="minutes">90</length>
-  </programme>
-  <programme start="20251012213000 +0000" stop="20251012220000 +0000" channel="Virgin Media More">
-    <title lang="en">Spreadsheet</title>
-    <desc lang="en">Meet Lauren. Her life’s a bit of a mess. She’s a busy lawyer, freshly divorced and a mother of two slightly insane children. And she needs to get laid. She hasn’t got the time, patie...</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012220000 +0000" stop="20251012223000 +0000" channel="Virgin Media More">
-    <title lang="en">Spreadsheet</title>
-    <desc lang="en">Meet Lauren. Her life’s a bit of a mess. She’s a busy lawyer, freshly divorced and a mother of two slightly insane children. And she needs to get laid. She hasn’t got the time, patie...</desc>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20251012223000 +0000" stop="20251012232000 +0000" channel="Virgin Media More">
-    <title lang="en">Crash Scene Investigates</title>
-    <desc lang="en">Patricia Gibbons recalls how her husband was killed on his way to work.  She was twelve weeks pregnant at the time.  James Gibbons was working on a building site when the truck he was driving was hit ...</desc>
-    <length units="minutes">50</length>
-  </programme>
   <programme start="20251013223000 +0000" stop="20251013233000 +0000" channel="Virgin Media One">
     <title lang="en">Trauma Room One</title>
     <desc lang="en">We're in the operating theatres of the UK's busiest neurology and neurosurgery hospital, with some of the world's best surgeons as they fight to bring those on the edge, back to life.</desc>
@@ -573,17 +120,17 @@ Changing Roo...</desc>
     <desc lang="en">Were the diners too quick to make snap judgements, or do they stand by their first impressions of each other? They must choose someone to leave the conversation.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251013210000 +0000" stop="20251013213500 +0000" channel="Virgin Media One">
+  <programme start="20251013210000 +0000" stop="20251013214000 +0000" channel="Virgin Media One">
     <title lang="en">The Big Interview: Catherine Connolly</title>
     <desc lang="en">Presidential candidate Catherine Connolly joins Colette Fitzpatrick for a live one on one interview to discuss the issues affecting the country and her plans if she’s elected.</desc>
-    <length units="minutes">35</length>
+    <length units="minutes">40</length>
   </programme>
-  <programme start="20251013213500 +0000" stop="20251013223500 +0000" channel="Virgin Media One">
+  <programme start="20251013214000 +0000" stop="20251013224000 +0000" channel="Virgin Media One">
     <title lang="en">The Tonight Show</title>
     <desc lang="en">Comment and analysis on the big stories of the day in Ireland and abroad with a panel of guests covering the key issues.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251013223500 +0000" stop="20251013233000 +0000" channel="Virgin Media One">
+  <programme start="20251013224000 +0000" stop="20251013233500 +0000" channel="Virgin Media One">
     <title lang="en">Law &amp; Order: SVU</title>
     <desc lang="en">A runaway bride calls the SVU for help on the day of her wedding. Rollins pitches in on her day off.</desc>
     <length units="minutes">55</length>
@@ -684,10 +231,10 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">Multi award-winning series adapted from English author Winston Graham's historical novels.</desc>
     <length units="minutes">75</length>
   </programme>
-  <programme start="20251012234000 +0000" stop="20251013020000 +0000" channel="Virgin Media Three">
+  <programme start="20251012234000 +0000" stop="20251013015900 +0000" channel="Virgin Media Three">
     <title lang="en">Dr Blake Mysteries</title>
     <desc lang="en">Medical cases turn to murder cases in this compelling detective drama based on the hit Australian series.</desc>
-    <length units="minutes">140</length>
+    <length units="minutes">139</length>
   </programme>
   <programme start="20251013062000 +0000" stop="20251013071500 +0000" channel="Virgin Media Three">
     <title lang="en">Heartbeat</title>
@@ -969,25 +516,25 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">Celebrating 65-years of European Cup &amp; UEFA Champions League football. Using a combination of UEFA’s vast back-catalogue of archive footage and interviews with coaches and players this serie...</desc>
     <length units="minutes">53</length>
   </programme>
-  <programme start="20251014223500 +0000" stop="20251014233000 +0000" channel="Virgin Media One">
+  <programme start="20251014224000 +0000" stop="20251014233500 +0000" channel="Virgin Media One">
     <title lang="en">Law &amp; Order: SVU</title>
     <desc lang="en">A runaway bride calls the SVU for help on the day of her wedding. Rollins pitches in on her day off.</desc>
     <length units="minutes">55</length>
   </programme>
-  <programme start="20251013233000 +0000" stop="20251014000000 +0000" channel="Virgin Media One">
+  <programme start="20251013233500 +0000" stop="20251014000500 +0000" channel="Virgin Media One">
     <title lang="en">Don't Look Back In Anger</title>
     <desc lang="en">In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series.</desc>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251014000000 +0000" stop="20251014003000 +0000" channel="Virgin Media One">
+  <programme start="20251014000500 +0000" stop="20251014003500 +0000" channel="Virgin Media One">
     <title lang="en">Don't Look Back In Anger</title>
     <desc lang="en">In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series.</desc>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251014003000 +0000" stop="20251014014500 +0000" channel="Virgin Media One">
+  <programme start="20251014003500 +0000" stop="20251014014600 +0000" channel="Virgin Media One">
     <title lang="en">World on Fire</title>
     <desc lang="en">From multi-award-winning writer Peter Bowker, this heart-stopping drama tells the story of World War Two through the lives of ordinary people from all sides of this global conflict.</desc>
-    <length units="minutes">75</length>
+    <length units="minutes">71</length>
   </programme>
   <programme start="20251014042500 +0000" stop="20251014051500 +0000" channel="Virgin Media One">
     <title lang="en">The Tonight Show</title>
@@ -1449,10 +996,10 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series.</desc>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251015000000 +0000" stop="20251015010900 +0000" channel="Virgin Media One">
+  <programme start="20251015000000 +0000" stop="20251015011200 +0000" channel="Virgin Media One">
     <title lang="en">World on Fire</title>
     <desc lang="en">From multi-award-winning writer Peter Bowker, this heart-stopping drama tells the story of World War Two through the lives of ordinary people from all sides of this global conflict.</desc>
-    <length units="minutes">69</length>
+    <length units="minutes">72</length>
   </programme>
   <programme start="20251015042500 +0000" stop="20251015051500 +0000" channel="Virgin Media One">
     <title lang="en">The Tonight Show</title>
@@ -1564,10 +1111,10 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">The brokers face a declining real estate market as they adjust to exciting developments in their personal lives, from growing families to new relationships and more.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251015000000 +0000" stop="20251015004800 +0000" channel="Virgin Media Two">
+  <programme start="20251015000000 +0000" stop="20251015004900 +0000" channel="Virgin Media Two">
     <title lang="en">My Mum, Your Dad USA</title>
     <desc lang="en">Newcomer Joel embarks on a date with Trish - with some help from Whitney and Brooks. Meanwhile, Karen and Troy finally find time for themselves, Scott and DeNeia discuss interracial dating, and the ki...</desc>
-    <length units="minutes">48</length>
+    <length units="minutes">49</length>
   </programme>
   <programme start="20251015051000 +0000" stop="20251015060000 +0000" channel="Virgin Media Two">
     <title lang="en">The Chase Australia</title>
@@ -1654,10 +1201,10 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">Were the diners too quick to make snap judgements, or do they stand by their first impressions of each other? They must choose someone to leave the conversation.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251015220000 +0000" stop="20251015230500 +0000" channel="Virgin Media Two">
+  <programme start="20251015220000 +0000" stop="20251015231000 +0000" channel="Virgin Media Two">
     <title lang="en">The Graham Norton Show</title>
     <desc lang="en">Graham Norton gets up close and personal with various celebrities whilst focusing on different aspects of celebrity culture that attract his attention.</desc>
-    <length units="minutes">65</length>
+    <length units="minutes">70</length>
   </programme>
   <programme start="20251015215500 +0000" stop="20251015230500 +0000" channel="Virgin Media Three">
     <title lang="en">Piste Noire</title>
@@ -1694,15 +1241,15 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">Detective Superintendent Wycliffe heads an investigating team of officers brought in to solve the most intriguing of murder cases and uncovers a web of deceit and lies.</desc>
     <length units="minutes">55</length>
   </programme>
-  <programme start="20251015074000 +0000" stop="20251015083500 +0000" channel="Virgin Media Three">
+  <programme start="20251015074000 +0000" stop="20251015084000 +0000" channel="Virgin Media Three">
     <title lang="en">The Deal Makers</title>
     <desc lang="en">The show follows the biggest characters from the world of pawn broking as they uncover the stories behind, and the prospective value of, the most amazing objects being bought, sold and loaned against....</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">60</length>
   </programme>
-  <programme start="20251015083500 +0000" stop="20251015101500 +0000" channel="Virgin Media Three">
+  <programme start="20251015084000 +0000" stop="20251015101500 +0000" channel="Virgin Media Three">
     <title lang="en">Kavanagh QC</title>
     <desc lang="en">John Thaw (Goodnight Mister Tom, Inspector Morse) dons the silks of a barrister as James Kavanagh QC, one of the most highly respected criminal advocates in London.</desc>
-    <length units="minutes">100</length>
+    <length units="minutes">95</length>
   </programme>
   <programme start="20251015101500 +0000" stop="20251015112500 +0000" channel="Virgin Media Three">
     <title lang="en">The Darling Buds of May</title>
@@ -1779,10 +1326,10 @@ The Chase's Governess, aka Anne Hegerty, is in the hot seat as she hosts a 30-mi
     <desc lang="en">Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers.</desc>
     <length units="minutes">25</length>
   </programme>
-  <programme start="20251014230500 +0000" stop="20251015013100 +0000" channel="Virgin Media Four">
+  <programme start="20251014230500 +0000" stop="20251015020000 +0000" channel="Virgin Media Four">
     <title lang="en">This Morning</title>
     <desc lang="en">A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more.</desc>
-    <length units="minutes">146</length>
+    <length units="minutes">175</length>
   </programme>
   <programme start="20251015062500 +0000" stop="20251015071500 +0000" channel="Virgin Media Four">
     <title lang="en">Best of Guinness Six Nations 2025: Italy v Ireland</title>
@@ -2071,17 +1618,17 @@ Changing Roo...</desc>
     <desc lang="en">Kieran and Baillie share information that could help Sarah secure an arrest, but her reluctance to cooperate leaves them exasperated.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251016220000 +0000" stop="20251016230500 +0000" channel="Virgin Media Two">
+  <programme start="20251016220000 +0000" stop="20251016231000 +0000" channel="Virgin Media Two">
     <title lang="en">The Graham Norton Show</title>
     <desc lang="en">Graham Norton gets up close and personal with various celebrities whilst focusing on different aspects of celebrity culture that attract his attention.</desc>
-    <length units="minutes">65</length>
+    <length units="minutes">70</length>
   </programme>
-  <programme start="20251015230500 +0000" stop="20251016000000 +0000" channel="Virgin Media Two">
+  <programme start="20251015231000 +0000" stop="20251015235500 +0000" channel="Virgin Media Two">
     <title lang="en">The Real Housewives of Dubai</title>
     <desc lang="en">The drama is heating up as the dazzling women of Dubai navigate love, business empires and ever-evolving friendships, all while seeing who can shine brightest in the City of Gold.</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">45</length>
   </programme>
-  <programme start="20251016000000 +0000" stop="20251016004300 +0000" channel="Virgin Media Two">
+  <programme start="20251015235500 +0000" stop="20251016003800 +0000" channel="Virgin Media Two">
     <title lang="en">The Real Housewives of Dubai</title>
     <desc lang="en">The drama is heating up as the dazzling women of Dubai navigate love, business empires and ever-evolving friendships, all while seeing who can shine brightest in the City of Gold.</desc>
     <length units="minutes">43</length>
@@ -2161,12 +1708,12 @@ Changing Roo...</desc>
     <desc lang="en">Four players take on the show’s distinctive machine in a battle of skill and luck.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251016200000 +0000" stop="20251016221500 +0000" channel="Virgin Media Two">
+  <programme start="20251016200000 +0000" stop="20251016222000 +0000" channel="Virgin Media Two">
     <title lang="en">Con Air</title>
     <desc lang="en">Nicolas Cage is a newly-paroled ex-con and former U.S. Ranger Cameron Poe who finds himself trapped in a prisoner-transport plane when the prisoners seize control.</desc>
-    <length units="minutes">135</length>
+    <length units="minutes">140</length>
   </programme>
-  <programme start="20251016221500 +0000" stop="20251016230500 +0000" channel="Virgin Media Two">
+  <programme start="20251016222000 +0000" stop="20251016231000 +0000" channel="Virgin Media Two">
     <title lang="en">Vanderpump Rules</title>
     <desc lang="en">Lisa Vanderpump rules over her exclusive Hollywood restaurant and its lively and mischievous staff--with a platinum fist.</desc>
     <length units="minutes">50</length>
@@ -2186,10 +1733,10 @@ Changing Roo...</desc>
     <desc lang="en">A married couple suddenly go bankrupt and the only remaining asset they have is an ugly small town named Schitt's Creek.</desc>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251016005500 +0000" stop="20251016011600 +0000" channel="Virgin Media Three">
+  <programme start="20251016005500 +0000" stop="20251016020000 +0000" channel="Virgin Media Three">
     <title lang="en">Schitt's Creek</title>
     <desc lang="en">A married couple suddenly go bankrupt and the only remaining asset they have left is an ugly small town named Schitt's Creek.</desc>
-    <length units="minutes">21</length>
+    <length units="minutes">65</length>
   </programme>
   <programme start="20251016052000 +0000" stop="20251016061000 +0000" channel="Virgin Media Three">
     <title lang="en">Heartbeat</title>
@@ -2573,15 +2120,15 @@ Changing Roo...</desc>
     <desc lang="en">The cultural phenomenon returns as the nation’s sharpest armchair critics share their hilarious, heartfelt and honest reactions to Ireland’s favourite shows.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251017221500 +0000" stop="20251017230500 +0000" channel="Virgin Media Two">
+  <programme start="20251017222000 +0000" stop="20251017231000 +0000" channel="Virgin Media Two">
     <title lang="en">Vanderpump Rules</title>
     <desc lang="en">Lisa Vanderpump rules over her exclusive Hollywood restaurant and its lively and mischievous staff--with a platinum fist.</desc>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20251016230500 +0000" stop="20251017000000 +0000" channel="Virgin Media Two">
+  <programme start="20251016231000 +0000" stop="20251017000000 +0000" channel="Virgin Media Two">
     <title lang="en">Vanderpump Rules</title>
     <desc lang="en">Lisa Vanderpump rules over her exclusive Hollywood restaurant and its lively and mischievous staff--with a platinum fist.</desc>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
   </programme>
   <programme start="20251017000000 +0000" stop="20251017005100 +0000" channel="Virgin Media Two">
     <title lang="en">The Graham Norton Show</title>
@@ -2659,8 +2206,8 @@ Changing Roo...</desc>
     <length units="minutes">30</length>
   </programme>
   <programme start="20251017183000 +0000" stop="20251017211500 +0000" channel="Virgin Media Two">
-    <title lang="en">League of Ireland - MATCH TBC</title>
-    <desc lang="en">Live match coverage from the League of Ireland Men's Premier Division.</desc>
+    <title lang="en">League of Ireland 2025 LIVE: St Patrick's Athletic v Shamrock Rovers</title>
+    <desc lang="en">Live SSE Airtricity Premier Division action from Richmond Park as Dublin rivals clash in a crucial late-season showdown.</desc>
     <length units="minutes">165</length>
   </programme>
   <programme start="20251017211500 +0000" stop="20251017221000 +0000" channel="Virgin Media Two">
@@ -3002,7 +2549,7 @@ Changing Roo...</desc>
   </programme>
   <programme start="20251018110000 +0000" stop="20251018113000 +0000" channel="Virgin Media One">
     <title lang="en">Paul O'Grady: For the Love of Dogs</title>
-    <desc lang="en">The TV host continues to help staff at Battersea Dogs &amp; Cats Home care for stray and abandoned animals, but faces a delicate challenge when a behaviourist enlists him to work with a Rottweiler-bul...</desc>
+    <desc lang="en">The TV host continues to help staff at Battersea Dogs &amp; Cats Home care for stray and abandoned animals, but faces a delicate challenge with a dog who has developed a fear of men.</desc>
     <length units="minutes">30</length>
   </programme>
   <programme start="20251018113000 +0000" stop="20251018163000 +0000" channel="Virgin Media One">
@@ -3025,15 +2572,15 @@ Changing Roo...</desc>
     <desc lang="en">Celebrity series of The Chase. Contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. Hosted by Bradley Walsh.</desc>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251018190000 +0000" stop="20251018200000 +0000" channel="Virgin Media One">
+  <programme start="20251018190000 +0000" stop="20251018200500 +0000" channel="Virgin Media One">
     <title lang="en">You Bet</title>
     <desc lang="en">The legendary ITV gameshow You Bet! is back with host Stephen Mulhern! He is ready to welcome a new host of ordinary people with extraordinary skills.</desc>
-    <length units="minutes">60</length>
+    <length units="minutes">65</length>
   </programme>
-  <programme start="20251018200000 +0000" stop="20251018210000 +0000" channel="Virgin Media One">
+  <programme start="20251018200500 +0000" stop="20251018210000 +0000" channel="Virgin Media One">
     <title lang="en">Beat The Chasers</title>
     <desc lang="en">Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz.</desc>
-    <length units="minutes">60</length>
+    <length units="minutes">55</length>
   </programme>
   <programme start="20251018210000 +0000" stop="20251018220500 +0000" channel="Virgin Media One">
     <title lang="en">The Graham Norton Show</title>
@@ -3042,7 +2589,7 @@ Changing Roo...</desc>
   </programme>
   <programme start="20251018220500 +0000" stop="20251018230500 +0000" channel="Virgin Media One">
     <title lang="en">Living With Lucy</title>
-    <desc lang="en">Lucy jets off to LA to live with reality TV star Catilyn Jenner. The controversial star discusses everything from the Kardashians, to why she supports Donald Trump.</desc>
+    <desc lang="en">Lucy jets off to LA to live with reality TV star Caitlyn Jenner. The controversial star discusses everything from the Kardashians, to why she supports Donald Trump.</desc>
     <length units="minutes">60</length>
   </programme>
   <programme start="20251017230000 +0000" stop="20251018000500 +0000" channel="Virgin Media Two">
@@ -3050,10 +2597,10 @@ Changing Roo...</desc>
     <desc lang="en">The famous trio are back. Richard Chambers, Gavan Reilly and Zara King sit down together and discuss the main news stories of the week in an extended round-table conversation.</desc>
     <length units="minutes">65</length>
   </programme>
-  <programme start="20251018000500 +0000" stop="20251018012900 +0000" channel="Virgin Media Two">
+  <programme start="20251018000500 +0000" stop="20251018012800 +0000" channel="Virgin Media Two">
     <title lang="en">My Mum, Your Dad Australia</title>
     <desc lang="en">In this show, it’s the kids who are playing the game of love, but will their parent play along?</desc>
-    <length units="minutes">84</length>
+    <length units="minutes">83</length>
   </programme>
   <programme start="20251018051000 +0000" stop="20251018060000 +0000" channel="Virgin Media Two">
     <title lang="en">Tipping Point</title>
@@ -3413,6 +2960,451 @@ Changing Roo...</desc>
   <programme start="20251018224000 +0000" stop="20251018233000 +0000" channel="Virgin Media More">
     <title lang="en">Sport Stories: Damien Delaney</title>
     <desc lang="en">After breaking into the Premier League as a 19-year-old, it took Damien Delaney 11 years to make it back to the top. In this sit-down interview, the former Crystal Palace defender opens up on his jour...</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019220500 +0000" stop="20251019230500 +0000" channel="Virgin Media One">
+    <title lang="en">Living With Lucy</title>
+    <desc lang="en">Lucy jets off to LA to live with reality TV star Caitlyn Jenner. The controversial star discusses everything from the Kardashians, to why she supports Donald Trump.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251018230500 +0000" stop="20251019000500 +0000" channel="Virgin Media One">
+    <title lang="en">Million Pound Movers</title>
+    <desc lang="en">Million Pound Movers goes behind closed doors to meet the wealthy clients moving pricey and priceless objects, expensive art and furniture. Luxury removals are no easy task.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019000500 +0000" stop="20251019010200 +0000" channel="Virgin Media One">
+    <title lang="en">Romesh Ranganathan's Parents Evening</title>
+    <desc lang="en">Romesh Ranganathan (and his mum) host the comedy game show in which celebrities team up with family members.</desc>
+    <length units="minutes">57</length>
+  </programme>
+  <programme start="20251019053000 +0000" stop="20251019062000 +0000" channel="Virgin Media One">
+    <title lang="en">The Chase Australia</title>
+    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the &quot;Chaser&quot;, in order to win a cash prize</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019062000 +0000" stop="20251019071000 +0000" channel="Virgin Media One">
+    <title lang="en">The Chase Australia</title>
+    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the &quot;Chaser&quot;, in order to win a cash prize</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019071000 +0000" stop="20251019080000 +0000" channel="Virgin Media One">
+    <title lang="en">The Chase Australia</title>
+    <desc lang="en">The Australian version of the quiz series where four contestants have to compete against a professional quizzer, known as the &quot;Chaser&quot;, in order to win a cash prize</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019080000 +0000" stop="20251019110000 +0000" channel="Virgin Media One">
+    <title lang="en">Ireland AM</title>
+    <desc lang="en">Ireland AM is the longest running daytime show in Ireland. Blending a mixture of lifestyle interviews and news content, with gardening, health, food and fashion seven days a week.</desc>
+    <length units="minutes">180</length>
+  </programme>
+  <programme start="20251019110000 +0000" stop="20251019120000 +0000" channel="Virgin Media One">
+    <title lang="en">John &amp; Lisa's Weekend Kitchen</title>
+    <desc lang="en">Professional chef John Torode and home cook Lisa Faulkner invite guests to prepare simple, creative dishes and share their expertise with them.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019120000 +0000" stop="20251019130000 +0000" channel="Virgin Media One">
+    <title lang="en">Long Lost Family UK</title>
+    <desc lang="en">Davina McCall and Nicky Campbell present the heartwarming series which aims to reunite people desperate to find their long lost relatives after years of separation.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019130000 +0000" stop="20251019140000 +0000" channel="Virgin Media One">
+    <title lang="en">Rich House, Poor House</title>
+    <desc lang="en">Two families are trading houses and budgets for a week. Will this social experiment make them reassess their own day-to-day lives and the value they have on money?</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019140000 +0000" stop="20251019150000 +0000" channel="Virgin Media One">
+    <title lang="en">Champions: Full Gallop</title>
+    <desc lang="en">This series gets a backstage pass into the lives of horse racing jockeys and trainers.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019150000 +0000" stop="20251019160000 +0000" channel="Virgin Media One">
+    <title lang="en">You Bet</title>
+    <desc lang="en">The legendary ITV gameshow You Bet! is back with host Stephen Mulhern! He is ready to welcome a new host of ordinary people with extraordinary skills.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019160000 +0000" stop="20251019163000 +0000" channel="Virgin Media One">
+    <title lang="en">Call The Cleaners</title>
+    <desc lang="en">From hoarders to squalid homes to toxic toilets, join the trained specialist cleaners as they pull on the rubber gloves and tackle domestic dirt like you’ve never seen before.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019163000 +0000" stop="20251019170000 +0000" channel="Virgin Media One">
+    <title lang="en">News at 5:30</title>
+    <desc lang="en">The latest national and international news stories from the Virgin Media News team.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019170000 +0000" stop="20251019190000 +0000" channel="Virgin Media One">
+    <title lang="en">Vera</title>
+    <desc lang="en">Brenda Blethyn dons DCI Vera Stanhope’s iconic mac and hat for the final time as the hit crime drama concludes with two epic films.</desc>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="Virgin Media One">
+    <title lang="en">A Rebel Education</title>
+    <desc lang="en">Luke’s ADHD is adding a lot of stress to his final year. Giselle has high hopes for a major hurdle event and Principal Burke threatens to remove Kalen’s sporting privileges.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019210000 +0000" channel="Virgin Media One">
+    <title lang="en">Living With Lucy</title>
+    <desc lang="en">Lucy moves in with Irish footballer and Wrexham winger James McClean. Lucy finds out why he can’t shake the “the poppy guy” label and catches him in his first match of the season.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019210000 +0000" stop="20251019213000 +0000" channel="Virgin Media One">
+    <title lang="en">Faithless</title>
+    <desc lang="en">It’s a day of mixed emotions as the headstone is finally set at Tracy’s graveside. Lina has a new boyfriend in college, Sam’s not keen. Sam realises he likes Nancy’s teacher.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019213000 +0000" stop="20251019223000 +0000" channel="Virgin Media One">
+    <title lang="en">Dinner with the Enemy</title>
+    <desc lang="en">Were the diners too quick to make snap judgements, or do they stand by their first impressions of each other? They must choose someone to leave the conversation.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019223000 +0000" stop="20251019233000 +0000" channel="Virgin Media One">
+    <title lang="en">Trauma Room One</title>
+    <desc lang="en">We're in the operating theatres of the UK's busiest neurology and neurosurgery hospital, with some of the world's best surgeons as they fight to bring those on the edge, back to life.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251018235500 +0000" channel="Virgin Media Two">
+    <title lang="en">Autopsy USA</title>
+    <desc lang="en">Celebrity autopsy results are combined with the revelations of the late stars' friends and families to offer a comprehensive overview of the events leading up to the icons' untimely deaths.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251018235500 +0000" stop="20251019005600 +0000" channel="Virgin Media Two">
+    <title lang="en">Below Deck Mediterranean</title>
+    <desc lang="en">Follow the crewmembers aboard a private luxury yacht as they provide first-class service to a new group of well-to-do clients with challenging requests and lofty expectations.</desc>
+    <length units="minutes">61</length>
+  </programme>
+  <programme start="20251019060500 +0000" stop="20251019070000 +0000" channel="Virgin Media Two">
+    <title lang="en">Who's Doing The Dishes</title>
+    <desc lang="en">Former Big Brother winner Josie Gibson puts on a dinner party at her home as she plays mystery host to four strangers. Presented by Brian McFadden</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019070000 +0000" stop="20251019080000 +0000" channel="Virgin Media Two">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Hit Quiz Series hosted by Ben Shepherd which sees four contestants do battle to win big cash prizes...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019080000 +0000" stop="20251019090100 +0000" channel="Virgin Media Two">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Hit Quiz Series hosted by Ben Shepherd which sees four contestants do battle to win big cash prizes...</desc>
+    <length units="minutes">61</length>
+  </programme>
+  <programme start="20251019090100 +0000" stop="20251019100000 +0000" channel="Virgin Media Two">
+    <title lang="en">The Chase Australia</title>
+    <desc lang="en">The Australian version of the hit TV game show.</desc>
+    <length units="minutes">59</length>
+  </programme>
+  <programme start="20251019100000 +0000" stop="20251019110100 +0000" channel="Virgin Media Two">
+    <title lang="en">Inside Paddington Station 24/7</title>
+    <desc lang="en">Taking a look at the behind-the-scenes action at one of the UK's busiest transport hubs, this series chronicles the typical and not-so-typical issues that face station staff, transport workers, e...</desc>
+    <length units="minutes">61</length>
+  </programme>
+  <programme start="20251019110100 +0000" stop="20251019130000 +0000" channel="Virgin Media Two">
+    <title lang="en">Britain's Got Talent</title>
+    <desc lang="en">Britain’s Got Talent: With Ant and Dec at the helm, the multi-award-winning talent extravaganza returns for the 18th series, bringing viewers more show-stopping performances than ever before.</desc>
+    <length units="minutes">119</length>
+  </programme>
+  <programme start="20251019130000 +0000" stop="20251019170500 +0000" channel="Virgin Media Two">
+    <title lang="en">Jacksonville Jaguars v Los Angeles Rams</title>
+    <desc lang="en">Live coverage of the NFL International Series as the Jaguars take on the Rams at Wembley Stadium, London.</desc>
+    <length units="minutes">245</length>
+  </programme>
+  <programme start="20251019170500 +0000" stop="20251019190000 +0000" channel="Virgin Media Two">
+    <title lang="en">The Voice USA</title>
+    <desc lang="en">Returning for an impressive 28th season, this primetime vocal competition continues to seek out exciting new singers based solely on their amazing voices</desc>
+    <length units="minutes">115</length>
+  </programme>
+  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="Virgin Media Two">
+    <title lang="en">The Voice USA</title>
+    <desc lang="en">Returning for an impressive 28th season, this primetime vocal competition continues to seek out exciting new singers based solely on their amazing voices</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019210000 +0000" channel="Virgin Media Two">
+    <title lang="en">Snowpiercer</title>
+    <desc lang="en">Set seven years after the world has become a frozen wasteland, this star-studded futuristic thriller explores class warfare, social injustice and the politics of survival.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019210000 +0000" stop="20251019220000 +0000" channel="Virgin Media Two">
+    <title lang="en">Snowpiercer</title>
+    <desc lang="en">Set seven years after the world has become a frozen wasteland, this star-studded futuristic thriller explores class warfare, social injustice and the politics of survival.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019220000 +0000" stop="20251019230000 +0000" channel="Virgin Media Two">
+    <title lang="en">The Graham Norton Show</title>
+    <desc lang="en">Graham Norton is getting up close and personal with various celebrities on his famous sofa.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019220000 +0000" stop="20251020000000 +0000" channel="Virgin Media Three">
+    <title lang="en">Weekend at Bernies</title>
+    <desc lang="en">(1989) Two losers try to pretend that their murdered employer is really alive, leading the hitman to attempt to track him down to finish him off. Starring:  Andrew McCarthy, Jonathan Silverman, Cather...</desc>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251019000000 +0000" stop="20251019010900 +0000" channel="Virgin Media Three">
+    <title lang="en">Dr Blake Mysteries</title>
+    <desc lang="en">Medical cases turn to murder cases in this compelling detective drama based on the hit Australian series.</desc>
+    <length units="minutes">69</length>
+  </programme>
+  <programme start="20251019060000 +0000" stop="20251019065500 +0000" channel="Virgin Media Three">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">Members of the local constabulary patrol the town of Ashfordly and the nearby village of Aidensfield in the North Riding of Yorkshire, keeping the peace whilst also dealing with local loveable rogues ...</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019065500 +0000" stop="20251019075000 +0000" channel="Virgin Media Three">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">Members of the local constabulary patrol the town of Ashfordly and the nearby village of Aidensfield in the North Riding of Yorkshire, keeping the peace whilst also dealing with local loveable rogues ...</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019075000 +0000" stop="20251019085500 +0000" channel="Virgin Media Three">
+    <title lang="en">Heartbeat</title>
+    <desc lang="en">Members of the local constabulary patrol the town of Ashfordly and the nearby village of Aidensfield in the North Riding of Yorkshire, keeping the peace whilst also dealing with local loveable rogues ...</desc>
+    <length units="minutes">65</length>
+  </programme>
+  <programme start="20251019085500 +0000" stop="20251019105500 +0000" channel="Virgin Media Three">
+    <title lang="en">Lewis</title>
+    <desc lang="en">Lewis and Hathaway are drawn into a world of virtual bullying, but very real murder, when a professor is found dead after her dating video is leaked online.</desc>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251019105500 +0000" stop="20251019112500 +0000" channel="Virgin Media Three">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Theo remains in the dark about Todd’s health worries, Cassie wavers in her commitment to Tyrone’s care, and Kevin blows his chance of spending time with Alfie.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019112500 +0000" stop="20251019115500 +0000" channel="Virgin Media Three">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Theo remains in the dark about Todd’s health worries, Cassie wavers in her commitment to Tyrone’s care, and Kevin blows his chance of spending time with Alfie.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019115500 +0000" stop="20251019122500 +0000" channel="Virgin Media Three">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Todd orders Theo to pack his bags and leave, Betsy accidentally jeopardises Becky’s safety, Abi accuses Kevin of sabotaging a job opportunity, and Cassie rumbles Fiz’s lie.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019122500 +0000" stop="20251019125500 +0000" channel="Virgin Media Three">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Todd orders Theo to pack his bags and leave, Betsy accidentally jeopardises Becky’s safety, Abi accuses Kevin of sabotaging a job opportunity, and Cassie rumbles Fiz’s lie.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019125500 +0000" stop="20251019132500 +0000" channel="Virgin Media Three">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Betsy falls foul of Becky and Costello’s power struggle, Bethany gives Hope some guidance, a fragile Asha returns home to Dev and Bernie, and Tracy schemes to get Cassie out of her hair and back...</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019132500 +0000" stop="20251019135500 +0000" channel="Virgin Media Three">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Betsy falls foul of Becky and Costello’s power struggle, Bethany gives Hope some guidance, a fragile Asha returns home to Dev and Bernie, and Tracy schemes to get Cassie out of her hair and back...</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019135500 +0000" stop="20251019155500 +0000" channel="Virgin Media Three">
+    <title lang="en">Poirot</title>
+    <desc lang="en">Lieutenant Colin Race is investigating the death of two Navy personnel when a distraught Sheila Webb runs out of 19 Wilbraham Crescent and into arms.  Poirot arrives in Dover to help Colin determine i...</desc>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019163000 +0000" channel="Virgin Media Three">
+    <title lang="en">Marcus Wareing: Tales from a Kitchen Garden</title>
+    <desc lang="en">This series follows Marcus - chef extraordinaire and successful restaurateur - as he follows his dream of living, and cooking, in the English countryside.</desc>
+    <length units="minutes">35</length>
+  </programme>
+  <programme start="20251019163000 +0000" stop="20251019170000 +0000" channel="Virgin Media Three">
+    <title lang="en">Paul O'Grady: For the Love of Dogs</title>
+    <desc lang="en">Paul O’Grady returns to Battersea Dogs and Cats Home. As ever, Paul continues to bring his unique blend of humour, entertainment and fun as he helps care for dogs of all different shapes, sizes ...</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019170000 +0000" stop="20251019180000 +0000" channel="Virgin Media Three">
+    <title lang="en">Ainsleysâ€™ National Trust Cookoff</title>
+    <desc lang="en">Ainsley is joined by Yvonne Cobb, deaf celebrity chef and founder of Yumma Food, and Dr Rupy Aujla, GP and creator of The Doctor's Kitchen.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019180000 +0000" stop="20251019190000 +0000" channel="Virgin Media Three">
+    <title lang="en">Judi Love's Culinary Cruise</title>
+    <desc lang="en">Set sail with comedian, presenter and Masterchef winner Judi Love as she cruises around the Mediterranean, visiting fabulous locations and cooking up local dishes along the way.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="Virgin Media Three">
+    <title lang="en">Titanic</title>
+    <desc lang="en">Hugh, Earl of Manton sets out on the maiden voyage of Titanic, the pride of the White Star Line, with his wife Louisa and rebellious suffragette daughter Georgiana. Also on board, in Second Class, are...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019210000 +0000" channel="Virgin Media Three">
+    <title lang="en">Finders Keepers</title>
+    <desc lang="en">The Police question Laura, and vow to get to the bottom of things. Martin thinks he's found a buyer for the collection.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019210000 +0000" stop="20251019214000 +0000" channel="Virgin Media Three">
+    <title lang="en">Mum</title>
+    <desc lang="en">Starring Olivier Award winner and BAFTA nominee Lesley Manville, Mum is a family comedy seen through the eyes of Cathy, a mother in her late fifties who finds herself at a milestone in life after the ...</desc>
+    <length units="minutes">40</length>
+  </programme>
+  <programme start="20251019214000 +0000" stop="20251019221500 +0000" channel="Virgin Media Three">
+    <title lang="en">Mum</title>
+    <desc lang="en">Starring Olivier Award winner and BAFTA nominee Lesley Manville, Mum is a family comedy seen through the eyes of Cathy, a mother in her late fifties who finds herself at a milestone in life after the ...</desc>
+    <length units="minutes">35</length>
+  </programme>
+  <programme start="20251019221500 +0000" stop="20251019233000 +0000" channel="Virgin Media Three">
+    <title lang="en">Poldark</title>
+    <desc lang="en">Multi award-winning series adapted from English author Winston Graham's historical novels.</desc>
+    <length units="minutes">75</length>
+  </programme>
+  <programme start="20251019224500 +0000" stop="20251019235000 +0000" channel="Virgin Media Four">
+    <title lang="en">Blue Murder</title>
+    <desc lang="en">Manchester homicide cop Janine Lewis struggles to balance her professional life as the newly promoted detective chief inspector with her personal life as a single mother.</desc>
+    <length units="minutes">65</length>
+  </programme>
+  <programme start="20251018235000 +0000" stop="20251019001800 +0000" channel="Virgin Media Four">
+    <title lang="en">The Mike Tomlin Show</title>
+    <desc lang="en">Exclusive weekly sit-down with Pittsburgh Steelers head coach Mike Tomlin. Get insider insights, game previews, and candid commentary straight from the coach.</desc>
+    <length units="minutes">28</length>
+  </programme>
+  <programme start="20251019061500 +0000" stop="20251019070500 +0000" channel="Virgin Media Four">
+    <title lang="en">Best of u20's Six Nations 2025: Scotland v Ireland</title>
+    <desc lang="en">Neil Doak takes his Ireland side to Edinburgh to take on Scotland in Round Two of the U20 6 Nations Championship.</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019070500 +0000" stop="20251019080000 +0000" channel="Virgin Media Four">
+    <title lang="en">Sport Stories: Dermot Gallagher</title>
+    <desc lang="en">In the latest episode of Sport Stories, Tommy Martin catches up with former Premier League referee Dermot Gallagher.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019080000 +0000" stop="20251019085500 +0000" channel="Virgin Media Four">
+    <title lang="en">Sport Stories: Damien Delaney</title>
+    <desc lang="en">After breaking into the Premier League as a 19-year-old, it took Damien Delaney 11 years to make it back to the top. In this sit-down interview, the former Crystal Palace defender opens up on his jour...</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019085500 +0000" stop="20251019103000 +0000" channel="Virgin Media Four">
+    <title lang="en">The Voice UK</title>
+    <desc lang="en">With Emma Willis at the helm, will.i.am and Sir Tom Jones return to The Voice as coaches, along with LeAnn Rimes, Tom Fletcher and Danny Jones.</desc>
+    <length units="minutes">95</length>
+  </programme>
+  <programme start="20251019103000 +0000" stop="20251019110000 +0000" channel="Virgin Media Four">
+    <title lang="en">Golf's Greatest Holes</title>
+    <desc lang="en">Ryder Cup captain Paul McGinley and TV's Chris Hollins takes viewers on a dream journey across Ireland, playing the courses they have always wanted to play.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019110000 +0000" stop="20251019130500 +0000" channel="Virgin Media Four">
+    <title lang="en">Marple</title>
+    <desc lang="en">When Tommy and Tuppence Beresford visit Tommy's elderly aunt at Sunny Ridge Nursing Home, Tuppence is told by another resident, Mrs. Lancaster, that the corpse of a child is hidden behind a firep...</desc>
+    <length units="minutes">125</length>
+  </programme>
+  <programme start="20251019130500 +0000" stop="20251019140500 +0000" channel="Virgin Media Four">
+    <title lang="en">Sport Stories: Ian McKinley</title>
+    <desc lang="en">One of Leinster's brightest young prospects, Ian McKinley's life was rocked when he lost sight in his eye with a horrific rugby injury. After moving to Italy to start again, he makes an insp...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019140500 +0000" stop="20251019160000 +0000" channel="Virgin Media Four">
+    <title lang="en">The Voice UK</title>
+    <desc lang="en">Four superstar coaches search for an incredible singing talent chosen purely on the quality of their voice.</desc>
+    <length units="minutes">115</length>
+  </programme>
+  <programme start="20251019160000 +0000" stop="20251019170000 +0000" channel="Virgin Media Four">
+    <title lang="en">Who's Doing The Dishes</title>
+    <desc lang="en">Dane Bowers plays mystery celebrity host to four strangers, who must decipher the clues and guess the DJ and pop star's correct identity to win the prize money and avoid having to wash up.</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019170000 +0000" stop="20251019180000 +0000" channel="Virgin Media Four">
+    <title lang="en">Help me Buy a Home</title>
+    <desc lang="en">Fronted by Buyers Agent Liz O'Kane, How To Buy a Home unpacks the unfiltered realities Irish people face in the search for a home. Following real life experiences, this series takes a raw and hon...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019180000 +0000" stop="20251019190000 +0000" channel="Virgin Media Four">
+    <title lang="en">Storage Hoarders</title>
+    <desc lang="en">Storage Hoarders is the hit series that taps into the ever-growing phenomenon of storage hoarding, and shines a light on couples whose relationships are taking the strain because they have too many po...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="Virgin Media Four">
+    <title lang="en">The Restaurant</title>
+    <desc lang="en">Tonight’s head chef on The Restaurant is the youngest ever. 21 year old star of Young Offenders and the Graham Norton drama holding, Demi Isaac Oviawe has used her heritage and her roots to crea...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019205500 +0000" channel="Virgin Media Four">
+    <title lang="en">The Real Housewives of Dubai</title>
+    <desc lang="en">The drama is heating up as the dazzling women of Dubai navigate love, business empires and ever-evolving friendships, all while seeing who can shine brightest in the City of Gold.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019205500 +0000" stop="20251019215000 +0000" channel="Virgin Media Four">
+    <title lang="en">The Real Housewives of Dubai</title>
+    <desc lang="en">The drama is heating up as the dazzling women of Dubai navigate love, business empires and ever-evolving friendships, all while seeing who can shine brightest in the City of Gold.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019215000 +0000" stop="20251019225000 +0000" channel="Virgin Media Four">
+    <title lang="en">Little Boy Blue</title>
+    <desc lang="en">When eleven-year- old schoolboy Rhys Jones is brutally shot dead walking home from football practice, Detective Superintendent Dave Kelly is charged with bringing his teenage killer to justice. His id...</desc>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251019225000 +0000" stop="20251019234900 +0000" channel="Virgin Media Four">
+    <title lang="en">Million Pound Movers</title>
+    <desc lang="en">Million Pound Movers goes behind closed doors to meet the wealthy clients moving pricey and priceless objects, expensive art and furniture. Luxury removals are no easy task.</desc>
+    <length units="minutes">59</length>
+  </programme>
+  <programme start="20251019224000 +0000" stop="20251019233000 +0000" channel="Virgin Media More">
+    <title lang="en">Sport Stories: Damien Delaney</title>
+    <desc lang="en">After breaking into the Premier League as a 19-year-old, it took Damien Delaney 11 years to make it back to the top. In this sit-down interview, the former Crystal Palace defender opens up on his jour...</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251018233000 +0000" stop="20251019002200 +0000" channel="Virgin Media More">
+    <title lang="en">UCL Defining Moment</title>
+    <desc lang="en">Celebrating 65-years of European Cup &amp; UEFA Champions League football. Using a combination of UEFA’s vast back-catalogue of archive footage and interviews with coaches and players this serie...</desc>
+    <length units="minutes">52</length>
+  </programme>
+  <programme start="20251019115000 +0000" stop="20251019124000 +0000" channel="Virgin Media More">
+    <title lang="en">Best of u20's Six Nations 2025: Scotland v Ireland</title>
+    <desc lang="en">Neil Doak takes his Ireland side to Edinburgh to take on Scotland in Round Two of the U20 6 Nations Championship.</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019124000 +0000" stop="20251019133000 +0000" channel="Virgin Media More">
+    <title lang="en">Italy v Ireland</title>
+    <desc lang="en">Ireland had six points to spare over Italy last year. The Italians will be looking for revenge in Round 2 of the Six Nations.</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019133000 +0000" stop="20251019142500 +0000" channel="Virgin Media More">
+    <title lang="en">CL Finals Weekend Liverpool v Roma 1984</title>
+    <desc lang="en">Some the most classic and most memorable matches from Europe's premier club competition.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019142500 +0000" stop="20251019152000 +0000" channel="Virgin Media More">
+    <title lang="en">Classic Six Nations: England v Ireland 2006</title>
+    <desc lang="en">With a Triple Crown on the line Ireland went to Twickenham to take on England in an epic encounter.</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019152000 +0000" stop="20251019171500 +0000" channel="Virgin Media More">
+    <title lang="en">UEFA Champions League</title>
+    <desc lang="en">Copenhagen host Leverkusen in a high-stakes opener as both sides target a strong start in the league phase.</desc>
+    <length units="minutes">115</length>
+  </programme>
+  <programme start="20251019171500 +0000" stop="20251019174500 +0000" channel="Virgin Media More">
+    <title lang="en">Messi: Real Madrid v Barcelona 2011</title>
+    <desc lang="en">Some the most classic and most memorable matches from Europe's premier club competition.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019174500 +0000" stop="20251019184000 +0000" channel="Virgin Media More">
+    <title lang="en">UCL Defining Moment</title>
+    <desc lang="en">Celebrating 65-years of European Cup &amp; UEFA Champions League football. Using a combination of UEFA’s vast back-catalogue of archive footage and interviews with coaches and players this serie...</desc>
+    <length units="minutes">55</length>
+  </programme>
+  <programme start="20251019184000 +0000" stop="20251019193000 +0000" channel="Virgin Media More">
+    <title lang="en">Brian Kerr - A Life In Football</title>
+    <desc lang="en">Legendary former Irish international football manager Brian Kerr discusses his life and career in an in-depth conversation with Virgin Media Sport’s Tommy Martin. In this episode Brian takes us ...</desc>
+    <length units="minutes">50</length>
+  </programme>
+  <programme start="20251019193000 +0000" stop="20251019200000 +0000" channel="Virgin Media More">
+    <title lang="en">Golf's Greatest Holes</title>
+    <desc lang="en">Ryder Cup captain Paul McGinley and TV's Chris Hollins takes viewers on a dream journey across Ireland, playing the courses they have always wanted to play.</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019213500 +0000" channel="Virgin Media More">
+    <title lang="en">Grace</title>
+    <desc lang="en">Psychiatrist Hannah Belling is murdered in her own apartment. Burglars are suspected, but Grace soon discovers more suspects with motives.</desc>
+    <length units="minutes">95</length>
+  </programme>
+  <programme start="20251019213500 +0000" stop="20251019220500 +0000" channel="Virgin Media More">
+    <title lang="en">Spreadsheet</title>
+    <desc lang="en">Meet Lauren. Her life’s a bit of a mess. She’s a busy lawyer, freshly divorced and a mother of two slightly insane children. And she needs to get laid. She hasn’t got the time, patie...</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019220500 +0000" stop="20251019223500 +0000" channel="Virgin Media More">
+    <title lang="en">Spreadsheet</title>
+    <desc lang="en">Meet Lauren. Her life’s a bit of a mess. She’s a busy lawyer, freshly divorced and a mother of two slightly insane children. And she needs to get laid. She hasn’t got the time, patie...</desc>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251019223500 +0000" stop="20251019232500 +0000" channel="Virgin Media More">
+    <title lang="en">Crash Scene Investigates</title>
+    <desc lang="en">Grainne Kealy and her boyfriend were driving home from work one night when they skidded on some ice.  Grainne had her feet on the dashboard.  The airbag detonated causing her knees to impact with her ...</desc>
     <length units="minutes">50</length>
   </programme>
 </tv>
