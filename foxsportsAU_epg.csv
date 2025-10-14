@@ -1,96 +1,27 @@
 channelName,channelAbbreviation,startTime_UTC,endTime_UTC,duration (minutes),programmeTitle,title,genreTitle,synopsis,live,hiDef
-FOX League,LEAGUE,2025-10-12T13:00:00+00:00,2025-10-12T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-12T13:00:00+00:00,2025-10-12T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-12T13:00:00+00:00,2025-10-12T14:00:00+00:00,60,Test,2nd Test Day 3,Cricket,,False,True
-FOX Cricket,CRICKET,2025-10-12T14:00:00+00:00,2025-10-12T17:00:00+00:00,180,T20,NZL v AUS Game 1,Cricket,"Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.",False,True
-FOX Sports 503,FS503,2025-10-12T15:00:00+00:00,2025-10-12T16:00:00+00:00,60,PGA of Australia,WA PGA Final Round,Golf,,False,True
-FOX Sports 503,FS503,2025-10-12T16:00:00+00:00,2025-10-12T18:00:00+00:00,120,USPGA Tour,Baycurrent Classic Final Round,Golf,,False,True
-FOX Sports More,FSM,2025-10-12T16:00:00+00:00,2025-10-12T18:00:00+00:00,120,F1,SIngapore Race,Racing,,False,True
-FOX Footy,FOOTY,2025-10-12T17:00:00+00:00,2025-10-12T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-12T17:00:00+00:00,2025-10-12T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-12T17:00:00+00:00,2025-10-12T20:00:00+00:00,180,T20,NZL v AUS Game 2,Cricket,"Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.",False,True
-FOX Sports More,FSM,2025-10-12T18:00:00+00:00,2025-10-12T19:00:00+00:00,60,MOTOGP 2025 RACES,Indonesia Race,Sport,,False,True
-FOX Sports 503,FS503,2025-10-12T18:00:00+00:00,2025-10-12T18:30:00+00:00,30,Getting A Round In,Julian Wilson,Golf,Series featuring celebrities who love the game of golf.,False,True
-FOX Sports 503,FS503,2025-10-12T18:30:00+00:00,2025-10-12T19:00:00+00:00,30,How Good Is Golf,How Good Is Golf,Golf,"How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.",False,True
-FOX Sports 503,FS503,2025-10-12T19:00:00+00:00,2025-10-12T22:00:00+00:00,180,Korn Ferry Tour,Korn Ferry Tour,Golf,,True,True
-FOX Sports More,FSM,2025-10-12T19:00:00+00:00,2025-10-12T20:30:00+00:00,90,SAILGP 2024/25,Cadiz Day 1,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-12T20:00:00+00:00,2025-10-12T21:00:00+00:00,60,Test,2nd Test Day 3,Cricket,,False,True
-FOX Sports More,FSM,2025-10-12T20:30:00+00:00,2025-10-12T22:00:00+00:00,90,SAILGP 2024/25,Cadiz Day 2,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-12T21:00:00+00:00,2025-10-12T21:20:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX League,LEAGUE,2025-10-12T21:00:00+00:00,2025-10-13T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-12T21:00:00+00:00,2025-10-13T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-12T21:20:00+00:00,2025-10-12T21:40:00+00:00,20,Test Mini IND v WI,2nd Test Day 3,Sport,,False,True
-FOX Cricket,CRICKET,2025-10-12T21:40:00+00:00,2025-10-12T22:00:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-12T22:00:00+00:00,2025-10-12T23:00:00+00:00,60,Test,2nd Test Day 3,Cricket,,False,True
-FOX Sports More,FSM,2025-10-12T22:00:00+00:00,2025-10-13T00:00:00+00:00,120,USPGA Tour,Baycurrent Classic Final Round,Golf,,False,True
-FOX Sports 503,FS503,2025-10-12T22:00:00+00:00,2025-10-13T00:00:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
-FOX Cricket,CRICKET,2025-10-12T23:00:00+00:00,2025-10-12T23:20:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-12T23:20:00+00:00,2025-10-12T23:40:00+00:00,20,Test Mini IND v WI,2nd Test Day 3,Sport,,False,True
-FOX Cricket,CRICKET,2025-10-12T23:40:00+00:00,2025-10-13T00:00:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Sports More,FSM,2025-10-13T00:00:00+00:00,2025-10-13T01:30:00+00:00,90,Netball Test,Australia v South Africa Game 3,Court Sports,,False,True
-FOX Cricket,CRICKET,2025-10-13T00:00:00+00:00,2025-10-13T01:00:00+00:00,60,Test,2nd Test Day 3,Cricket,,False,True
-FOX Sports 503,FS503,2025-10-13T00:00:00+00:00,2025-10-13T02:00:00+00:00,120,PGA TOUR CHAMPIONS 2025 GOLF,PGA TOUR CHAMPIONS 2025 GOLF,Golf,,False,True
-FOX Footy,FOOTY,2025-10-13T01:00:00+00:00,2025-10-13T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-13T01:00:00+00:00,2025-10-13T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-13T01:00:00+00:00,2025-10-13T01:20:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-13T01:20:00+00:00,2025-10-13T01:40:00+00:00,20,Test Mini IND v WI,2nd Test Day 3,Sport,,False,True
-FOX Sports More,FSM,2025-10-13T01:30:00+00:00,2025-10-13T03:00:00+00:00,90,PGA TOUR CHAMPIONS 2025 GOLF,PGA TOUR CHAMPIONS 2025 GOLF,Golf,,False,True
-FOX Cricket,CRICKET,2025-10-13T01:40:00+00:00,2025-10-13T02:00:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-13T02:00:00+00:00,2025-10-13T03:00:00+00:00,60,Test,2nd Test Day 3,Cricket,,False,True
-FOX Sports 503,FS503,2025-10-13T02:00:00+00:00,2025-10-13T02:20:00+00:00,20,USPGA Mini,Baycurrent Classic,Golf,,False,True
-FOX Sports 503,FS503,2025-10-13T02:20:00+00:00,2025-10-13T03:20:00+00:00,60,PGA of Australia,WA PGA Final Round,Golf,,False,True
-FOX Cricket,CRICKET,2025-10-13T03:00:00+00:00,2025-10-13T03:30:00+00:00,30,Classic Mini,2020 AUS v IND ODI G3,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Sports More,FSM,2025-10-13T03:00:00+00:00,2025-10-13T05:00:00+00:00,120,Supercars Bathurst 1000,Supercars Bathurst 1000,Racing,,False,True
-FOX Sports 503,FS503,2025-10-13T03:20:00+00:00,2025-10-13T05:20:00+00:00,120,USPGA Tour,Baycurrent Classic Final Round,Golf,,False,True
-FOX Cricket,CRICKET,2025-10-13T03:30:00+00:00,2025-10-13T03:50:00+00:00,20,Test Mini IND v WI,2nd Test Day 3,Sport,,False,True
-FOX Cricket,CRICKET,2025-10-13T03:50:00+00:00,2025-10-13T06:05:00+00:00,135,Test,IND v WI 2nd Test Day 4 S1,Cricket,,True,True
-FOX League,LEAGUE,2025-10-13T05:00:00+00:00,2025-10-13T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-13T05:00:00+00:00,2025-10-13T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Sports More,FSM,2025-10-13T05:00:00+00:00,2025-10-13T06:00:00+00:00,60,TRACKSIDE 2025 V8SC,TRACKSIDE 2025 V8SC,Racing,"Jess Yates, with Supercars legends Mark Skaife and Garth Tander, review all the action. With all the latest news and expert opinion.",False,True
-FOX Sports 503,FS503,2025-10-13T05:20:00+00:00,2025-10-13T07:20:00+00:00,120,USLPGA EVENTS 2025,Shanghai Final Round,Golf,,False,True
-FOX Sports More,FSM,2025-10-13T06:00:00+00:00,2025-10-13T08:00:00+00:00,120,World Grand Prix Darts,World Grand Prix Darts,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-13T06:05:00+00:00,2025-10-13T06:35:00+00:00,30,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-13T06:35:00+00:00,2025-10-13T08:35:00+00:00,120,Test,IND v WI 2nd Test Day 4 S2,Cricket,,True,True
-FOX Sports 503,FS503,2025-10-13T07:20:00+00:00,2025-10-13T07:40:00+00:00,20,USPGA Mini,Baycurrent Classic,Golf,,False,True
-FOX Sports 503,FS503,2025-10-13T07:40:00+00:00,2025-10-13T08:40:00+00:00,60,PGA of Australia,WA PGA Final Round,Golf,,False,True
-FOX Sports More,FSM,2025-10-13T08:00:00+00:00,2025-10-13T10:00:00+00:00,120,Supercars Bathurst 1000,Supercars Bathurst 1000,Racing,,False,True
-FOX Cricket,CRICKET,2025-10-13T08:35:00+00:00,2025-10-13T09:00:00+00:00,25,Tea Break,IND v WI,Sport,"First and Second session is in the books, the teams are taking a tea break and will be back after this for the third and final session of the day.",True,True
-FOX Sports 503,FS503,2025-10-13T08:40:00+00:00,2025-10-13T09:35:00+00:00,55,USPGA Tour Highlights,Baycurrent Classic,Golf,,False,True
-FOX Footy,FOOTY,2025-10-13T09:00:00+00:00,2025-10-13T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-13T09:00:00+00:00,2025-10-13T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-13T09:00:00+00:00,2025-10-13T11:40:00+00:00,160,Test,IND v WI 2nd Test Day 4 S3,Cricket,,True,True
-FOX Sports 503,FS503,2025-10-13T09:35:00+00:00,2025-10-13T11:35:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
-FOX Sports More,FSM,2025-10-13T10:00:00+00:00,2025-10-13T10:50:00+00:00,50,WSL HIGHLIGHTS,Bells Beach,Surfing,The WSL Tour lands in Australia as surfers head to the picturesque shores of Bells Beach.,False,True
-FOX Sports More,FSM,2025-10-13T10:50:00+00:00,2025-10-13T11:40:00+00:00,50,WSL HIGHLIGHTS,Gold Coast,Surfing,"After Jack Robinson & Isabella Nichols reigned supreme at Bells Beach, all eyes turn to Burleigh Heads as the Australian leg continues.",False,True
-FOX Sports 503,FS503,2025-10-13T11:35:00+00:00,2025-10-13T12:05:00+00:00,30,Getting A Round In,Julian Wilson,Golf,Series featuring celebrities who love the game of golf.,False,True
-FOX Sports More,FSM,2025-10-13T11:40:00+00:00,2025-10-13T12:30:00+00:00,50,WSL HIGHLIGHTS,Margaret River,Surfing,The final stop on the Aussie leg gets underway as surfers hit Margaret River in a battle for survival.,False,True
-FOX Cricket,CRICKET,2025-10-13T11:40:00+00:00,2025-10-13T12:40:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Sports 503,FS503,2025-10-13T12:05:00+00:00,2025-10-13T13:00:00+00:00,55,USPGA Tour Highlights,Baycurrent Classic,Golf,,False,True
-FOX Sports More,FSM,2025-10-13T12:30:00+00:00,2025-10-13T13:20:00+00:00,50,WSL HIGHLIGHTS,Trestles,Surfing,The WSL Tour descends upon the famed break of Lower Trestles with the opening heats set to begin featuring legendary wildcard Kelly Slater.,False,True
-FOX Cricket,CRICKET,2025-10-13T12:40:00+00:00,2025-10-13T13:00:00+00:00,20,Classic Mini,1991/92 AUS v IND ODI FNL 2,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-13T13:00:00+00:00,2025-10-13T14:00:00+00:00,60,Test,2nd Test Day 4,Cricket,,False,True
-FOX Sports 503,FS503,2025-10-13T13:00:00+00:00,2025-10-13T15:00:00+00:00,120,USPGA Tour,USPGA Tour,Golf,,False,True
-FOX League,LEAGUE,2025-10-13T13:00:00+00:00,2025-10-13T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-13T13:00:00+00:00,2025-10-13T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-13T13:00:00+00:00,2025-10-13T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Sports 503,FS503,2025-10-13T13:00:00+00:00,2025-10-13T15:00:00+00:00,120,USPGA Tour,USPGA Tour,Golf,,False,True
+FOX Cricket,CRICKET,2025-10-13T13:00:00+00:00,2025-10-13T14:00:00+00:00,60,Test,2nd Test Day 4,Cricket,,False,True
 FOX Sports More,FSM,2025-10-13T13:20:00+00:00,2025-10-13T14:10:00+00:00,50,WSL HIGHLIGHTS,Rio Pro,Surfing,The WSL Tour heads to Rio for stop nine as surfers look to make a late push with finals looming.,False,True
 FOX Cricket,CRICKET,2025-10-13T14:00:00+00:00,2025-10-13T17:00:00+00:00,180,T20,NZL v AUS Game 3,Cricket,"Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.",False,True
 FOX Sports More,FSM,2025-10-13T14:10:00+00:00,2025-10-13T15:00:00+00:00,50,WSL HIGHLIGHTS,J-Bay,Surfing,The WSL heads to South Africa for the tenth event of the year.,False,True
-FOX Sports More,FSM,2025-10-13T15:00:00+00:00,2025-10-13T17:00:00+00:00,120,World Grand Prix Darts,World Grand Prix Darts,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-13T15:00:00+00:00,2025-10-13T17:00:00+00:00,120,USPGA Tour,USPGA Tour,Golf,,False,True
+FOX Sports More,FSM,2025-10-13T15:00:00+00:00,2025-10-13T17:00:00+00:00,120,World Grand Prix Darts,World Grand Prix Darts,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-13T17:00:00+00:00,2025-10-13T19:00:00+00:00,120,USPGA Tour,USPGA Tour,Golf,,False,True
-FOX Footy,FOOTY,2025-10-13T17:00:00+00:00,2025-10-13T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-13T17:00:00+00:00,2025-10-13T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-13T17:00:00+00:00,2025-10-13T20:00:00+00:00,180,T20 AUS v SA,Game 3,Cricket,Mitchell Marsh&#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.,False,True
+FOX Footy,FOOTY,2025-10-13T17:00:00+00:00,2025-10-13T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports More,FSM,2025-10-13T17:00:00+00:00,2025-10-13T18:00:00+00:00,60,NASCAR Xfinity Series,Las Vegas,Racing,Just two points separates Jesse Love and Justin Allgaier at the top of the standings entering race five of the 2025 Xfinity Series season.,False,True
+FOX Cricket,CRICKET,2025-10-13T17:00:00+00:00,2025-10-13T20:00:00+00:00,180,T20 AUS v SA,Game 3,Cricket,Mitchell Marsh&#8217;s Australia faces a series-decider clash in Cairns after a Brevis-inspired South Africa leveled the series.,False,True
 FOX Sports More,FSM,2025-10-13T18:00:00+00:00,2025-10-13T19:00:00+00:00,60,NASCAR Highlights,Playoffs Las Vegas,Racing,,False,True
 FOX Sports More,FSM,2025-10-13T19:00:00+00:00,2025-10-13T21:00:00+00:00,120,Supercars Bathurst 1000,Supercars Bathurst 1000,Racing,,False,True
 FOX Sports 503,FS503,2025-10-13T19:00:00+00:00,2025-10-13T21:00:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-13T20:00:00+00:00,2025-10-13T21:00:00+00:00,60,Test,2nd Test Day 4,Cricket,,False,True
-FOX Sports More,FSM,2025-10-13T21:00:00+00:00,2025-10-13T22:30:00+00:00,90,SAILGP 2024/25,Cadiz Day 1,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-13T21:00:00+00:00,2025-10-13T21:20:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
 FOX Sports 503,FS503,2025-10-13T21:00:00+00:00,2025-10-13T21:20:00+00:00,20,USPGA Mini,Baycurrent Classic,Golf,,False,True
-FOX League,LEAGUE,2025-10-13T21:00:00+00:00,2025-10-14T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-13T21:00:00+00:00,2025-10-14T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-13T21:00:00+00:00,2025-10-14T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Sports More,FSM,2025-10-13T21:00:00+00:00,2025-10-13T22:30:00+00:00,90,SAILGP 2024/25,Cadiz Day 1,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-13T21:20:00+00:00,2025-10-13T23:20:00+00:00,120,USLPGA EVENTS 2025,Shanghai Final Round,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-13T21:20:00+00:00,2025-10-13T21:40:00+00:00,20,Test Mini IND v WI,2nd Test Day 4,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-13T21:40:00+00:00,2025-10-13T22:00:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
@@ -103,8 +34,8 @@ FOX Sports 503,FS503,2025-10-13T23:40:00+00:00,2025-10-14T00:40:00+00:00,60,PGA 
 FOX Cricket,CRICKET,2025-10-13T23:40:00+00:00,2025-10-14T00:00:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-14T00:00:00+00:00,2025-10-14T01:00:00+00:00,60,Test,2nd Test Day 4,Cricket,,False,True
 FOX Sports 503,FS503,2025-10-14T00:40:00+00:00,2025-10-14T02:40:00+00:00,120,USPGA Tour,Baycurrent Classic Final Round,Golf,,False,True
-FOX Footy,FOOTY,2025-10-14T01:00:00+00:00,2025-10-14T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-14T01:00:00+00:00,2025-10-14T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-14T01:00:00+00:00,2025-10-14T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-14T01:00:00+00:00,2025-10-14T01:20:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-14T01:20:00+00:00,2025-10-14T01:40:00+00:00,20,Test Mini IND v WI,2nd Test Day 4,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-14T01:40:00+00:00,2025-10-14T02:00:00+00:00,20,Classic Mini,Classic Mini,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
@@ -115,8 +46,8 @@ FOX Cricket,CRICKET,2025-10-14T03:30:00+00:00,2025-10-14T03:50:00+00:00,20,Test 
 FOX Cricket,CRICKET,2025-10-14T03:50:00+00:00,2025-10-14T06:05:00+00:00,135,Test,IND v WI 2nd Test Day 5 S1,Cricket,,True,True
 FOX Sports 503,FS503,2025-10-14T04:40:00+00:00,2025-10-14T05:00:00+00:00,20,USPGA Mini,Baycurrent Classic,Golf,,False,True
 FOX Sports 503,FS503,2025-10-14T05:00:00+00:00,2025-10-14T06:00:00+00:00,60,PGA of Australia,WA PGA Final Round,Golf,,False,True
-FOX League,LEAGUE,2025-10-14T05:00:00+00:00,2025-10-14T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-14T05:00:00+00:00,2025-10-14T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-14T05:00:00+00:00,2025-10-14T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports More,FSM,2025-10-14T05:00:00+00:00,2025-10-14T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-14T06:00:00+00:00,2025-10-14T06:30:00+00:00,30,European PGA Tour Highlights,Spanish Open,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-14T06:05:00+00:00,2025-10-14T06:35:00+00:00,30,Sport Special,Sport Special,Undefined,,False,True
@@ -125,11 +56,11 @@ FOX Cricket,CRICKET,2025-10-14T06:35:00+00:00,2025-10-14T08:35:00+00:00,120,Test
 FOX Sports 503,FS503,2025-10-14T07:30:00+00:00,2025-10-14T08:30:00+00:00,60,USPGA Tour Highlights,Baycurrent Classic,Golf,,False,True
 FOX Sports 503,FS503,2025-10-14T08:30:00+00:00,2025-10-14T09:00:00+00:00,30,How Good Is Golf,How Good Is Golf,Golf,"How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.",False,True
 FOX Cricket,CRICKET,2025-10-14T08:35:00+00:00,2025-10-14T09:00:00+00:00,25,Tea Break,IND v WI,Sport,"First and Second session is in the books, the teams are taking a tea break and will be back after this for the third and final session of the day.",True,True
-FOX Sports 503,FS503,2025-10-14T09:00:00+00:00,2025-10-14T09:30:00+00:00,30,European PGA Tour Highlights,Spanish Open,Golf,,False,True
-FOX Footy,FOOTY,2025-10-14T09:00:00+00:00,2025-10-14T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-14T09:00:00+00:00,2025-10-14T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Sports More,FSM,2025-10-14T09:00:00+00:00,2025-10-14T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-14T09:00:00+00:00,2025-10-14T11:40:00+00:00,160,Test,IND v WI 2nd Test Day 5 S3,Cricket,,True,True
+FOX Sports 503,FS503,2025-10-14T09:00:00+00:00,2025-10-14T09:30:00+00:00,30,European PGA Tour Highlights,Spanish Open,Golf,,False,True
+FOX Sports More,FSM,2025-10-14T09:00:00+00:00,2025-10-14T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-14T09:00:00+00:00,2025-10-14T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-14T09:00:00+00:00,2025-10-14T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-14T09:30:00+00:00,2025-10-14T10:00:00+00:00,30,Getting A Round In,Clint Kimmins,Golf,Series featuring celebrities who love the game of golf.,False,True
 FOX Sports 503,FS503,2025-10-14T10:00:00+00:00,2025-10-14T12:00:00+00:00,120,USLPGA EVENTS 2025,Shanghai Final Round,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-14T11:40:00+00:00,2025-10-14T12:40:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
@@ -137,25 +68,25 @@ FOX Sports 503,FS503,2025-10-14T12:00:00+00:00,2025-10-14T12:30:00+00:00,30,Gett
 FOX Sports 503,FS503,2025-10-14T12:30:00+00:00,2025-10-14T13:00:00+00:00,30,European PGA Tour Highlights,Spanish Open,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-14T12:40:00+00:00,2025-10-14T13:00:00+00:00,20,Classic Mini,1991/92 AUS v IND ODI FNL 2,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-14T13:00:00+00:00,2025-10-14T14:00:00+00:00,60,Test,2nd Test Day 5,Cricket,,False,True
-FOX Sports 503,FS503,2025-10-14T13:00:00+00:00,2025-10-14T15:00:00+00:00,120,Euro PGA,Euro PGA,Golf,,False,True
 FOX League,LEAGUE,2025-10-14T13:00:00+00:00,2025-10-14T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Sports 503,FS503,2025-10-14T13:00:00+00:00,2025-10-14T15:00:00+00:00,120,Euro PGA,Euro PGA,Golf,,False,True
 FOX Footy,FOOTY,2025-10-14T13:00:00+00:00,2025-10-14T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-14T14:00:00+00:00,2025-10-14T15:00:00+00:00,60,Women's ODI IND v AUS,Game 1,Sport,Alyssa Healy returns for Australia against Harmanpreet Kaur's India. This series is a crucial warm-up for both teams' World Cup campaigns.,False,True
 FOX Cricket,CRICKET,2025-10-14T15:00:00+00:00,2025-10-14T16:00:00+00:00,60,Women's ODI IND v AUS,Game 2,Sport,"Australia dominated the first outing, but an injury scare may have left the middle order vulnerable to India's attack heading into Game 2.",False,True
 FOX Sports 503,FS503,2025-10-14T15:00:00+00:00,2025-10-14T17:00:00+00:00,120,Euro PGA,Euro PGA,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-14T16:00:00+00:00,2025-10-14T17:00:00+00:00,60,Women's ODI IND v AUS,Game 3,Sport,"With the series locked at 1-1, Australia and India will get their final look at each other before the ODI World Cup kicks off.",False,True
+FOX Cricket,CRICKET,2025-10-14T17:00:00+00:00,2025-10-14T17:30:00+00:00,30,Asia Cup,Final,Sport,"The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.",False,True
 FOX Sports 503,FS503,2025-10-14T17:00:00+00:00,2025-10-14T19:00:00+00:00,120,Euro PGA,Euro PGA,Golf,,False,True
 FOX Footy,FOOTY,2025-10-14T17:00:00+00:00,2025-10-14T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-14T17:00:00+00:00,2025-10-14T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-14T17:00:00+00:00,2025-10-14T17:30:00+00:00,30,Asia Cup,Final,Sport,"The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.",False,True
 FOX Cricket,CRICKET,2025-10-14T17:30:00+00:00,2025-10-14T18:30:00+00:00,60,Test,2nd Test Day 1,Cricket,,False,True
 FOX Cricket,CRICKET,2025-10-14T18:30:00+00:00,2025-10-14T19:30:00+00:00,60,Test,2nd Test Day 2,Cricket,,False,True
 FOX Sports 503,FS503,2025-10-14T19:00:00+00:00,2025-10-14T21:00:00+00:00,120,USPGA Tour,Baycurrent Classic Final Round,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-14T19:30:00+00:00,2025-10-14T20:30:00+00:00,60,Test,2nd Test Day 3,Cricket,,False,True
 FOX Cricket,CRICKET,2025-10-14T20:30:00+00:00,2025-10-14T21:30:00+00:00,60,Test,2nd Test Day 4,Cricket,,False,True
-FOX Sports 503,FS503,2025-10-14T21:00:00+00:00,2025-10-14T21:30:00+00:00,30,Getting A Round In,Clint Kimmins,Golf,Series featuring celebrities who love the game of golf.,False,True
 FOX League,LEAGUE,2025-10-14T21:00:00+00:00,2025-10-15T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-14T21:00:00+00:00,2025-10-15T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Sports 503,FS503,2025-10-14T21:00:00+00:00,2025-10-14T21:30:00+00:00,30,Getting A Round In,Clint Kimmins,Golf,Series featuring celebrities who love the game of golf.,False,True
 FOX Sports 503,FS503,2025-10-14T21:30:00+00:00,2025-10-14T22:00:00+00:00,30,How Good Is Golf,How Good Is Golf,Golf,"How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.",False,True
 FOX Cricket,CRICKET,2025-10-14T21:30:00+00:00,2025-10-14T22:30:00+00:00,60,Test,2nd Test Day 5,Cricket,,False,True
 FOX Sports 503,FS503,2025-10-14T22:00:00+00:00,2025-10-15T00:00:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
@@ -172,14 +103,14 @@ FOX Cricket,CRICKET,2025-10-15T02:05:00+00:00,2025-10-15T02:35:00+00:00,30,Sport
 FOX Sports 503,FS503,2025-10-15T02:30:00+00:00,2025-10-15T03:30:00+00:00,60,PGA of Australia,WA PGA Final Round,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-15T02:35:00+00:00,2025-10-15T07:30:00+00:00,295,Sheffield Shield,SA v QLD Day 1,Sport,,True,True
 FOX Sports 503,FS503,2025-10-15T03:30:00+00:00,2025-10-15T05:30:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
-FOX League,LEAGUE,2025-10-15T05:00:00+00:00,2025-10-15T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-15T05:00:00+00:00,2025-10-15T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-15T05:00:00+00:00,2025-10-15T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-15T05:30:00+00:00,2025-10-15T06:30:00+00:00,60,Korn Ferry Tour,Korn Ferry Tour,Golf,,False,True
 FOX Sports 503,FS503,2025-10-15T06:30:00+00:00,2025-10-15T07:30:00+00:00,60,Ladies European Tour,Ladies European Tour,Golf,,False,True
 FOX Sports 503,FS503,2025-10-15T07:30:00+00:00,2025-10-15T08:30:00+00:00,60,PGA Tour Champions,SAS,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-15T07:30:00+00:00,2025-10-15T08:30:00+00:00,60,Test,2nd Test Day 5,Cricket,,False,True
-FOX Sports 503,FS503,2025-10-15T08:30:00+00:00,2025-10-15T09:30:00+00:00,60,USPGA Tour Highlights,Baycurrent Classic,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-15T08:30:00+00:00,2025-10-15T09:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
+FOX Sports 503,FS503,2025-10-15T08:30:00+00:00,2025-10-15T09:30:00+00:00,60,USPGA Tour Highlights,Baycurrent Classic,Golf,,False,True
 FOX Footy,FOOTY,2025-10-15T09:00:00+00:00,2025-10-15T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-15T09:00:00+00:00,2025-10-15T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-15T09:30:00+00:00,2025-10-15T10:00:00+00:00,30,European PGA Tour Highlights,Spanish Open,Golf,,False,True
@@ -196,8 +127,8 @@ FOX Cricket,CRICKET,2025-10-15T11:30:00+00:00,2025-10-15T12:30:00+00:00,60,Test,
 FOX Sports 503,FS503,2025-10-15T12:00:00+00:00,2025-10-15T13:00:00+00:00,60,PGA of Australia,WA PGA Final Round,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-15T12:30:00+00:00,2025-10-15T13:30:00+00:00,60,Asia Cup,Final,Sport,"The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.",False,True
 FOX Sports 503,FS503,2025-10-15T13:00:00+00:00,2025-10-15T15:00:00+00:00,120,USLPGA EVENTS 2025,USLPGA EVENTS 2025,Golf,,False,True
-FOX League,LEAGUE,2025-10-15T13:00:00+00:00,2025-10-15T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-15T13:00:00+00:00,2025-10-15T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-15T13:00:00+00:00,2025-10-15T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-15T13:30:00+00:00,2025-10-15T16:30:00+00:00,180,T20,NZL v AUS Game 1,Cricket,"Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.",False,True
 FOX Sports 503,FS503,2025-10-15T15:00:00+00:00,2025-10-15T17:00:00+00:00,120,USLPGA EVENTS 2025,USLPGA EVENTS 2025,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-15T16:30:00+00:00,2025-10-15T19:30:00+00:00,180,T20,NZL v AUS Game 2,Cricket,"Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.",False,True
@@ -210,8 +141,8 @@ FOX Sports 503,FS503,2025-10-15T20:00:00+00:00,2025-10-15T20:30:00+00:00,30,Gett
 FOX Sports 503,FS503,2025-10-15T20:30:00+00:00,2025-10-15T21:00:00+00:00,30,How Good Is Golf,How Good Is Golf,Golf,"How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.",False,True
 FOX Cricket,CRICKET,2025-10-15T20:30:00+00:00,2025-10-15T20:50:00+00:00,20,Test Mini IND v WI,2nd Test Day 1,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-15T20:50:00+00:00,2025-10-15T21:10:00+00:00,20,Test Mini IND v WI,2nd Test Day 2,Sport,,False,True
-FOX Sports 503,FS503,2025-10-15T21:00:00+00:00,2025-10-15T23:00:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
 FOX League,LEAGUE,2025-10-15T21:00:00+00:00,2025-10-16T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Sports 503,FS503,2025-10-15T21:00:00+00:00,2025-10-15T23:00:00+00:00,120,Euro PGA,Spanish Open Final Round,Golf,,False,True
 FOX Footy,FOOTY,2025-10-15T21:00:00+00:00,2025-10-16T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-15T21:10:00+00:00,2025-10-15T21:30:00+00:00,20,Test Mini IND v WI,2nd Test Day 3,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-15T21:30:00+00:00,2025-10-15T21:50:00+00:00,20,Test Mini IND v WI,2nd Test Day 4,Sport,,False,True
@@ -222,15 +153,15 @@ FOX Sports 503,FS503,2025-10-15T23:00:00+00:00,2025-10-16T00:00:00+00:00,60,PGA 
 FOX Cricket,CRICKET,2025-10-15T23:30:00+00:00,2025-10-15T23:55:00+00:00,25,T20 Mini NZL v AUS,Game 1,Sport,"Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.",False,True
 FOX Cricket,CRICKET,2025-10-15T23:55:00+00:00,2025-10-16T02:05:00+00:00,130,Sheffield Shield,SA v QLD Day 2,Sport,,True,True
 FOX Sports 503,FS503,2025-10-16T00:00:00+00:00,2025-10-16T02:00:00+00:00,120,USPGA Tour,Baycurrent Classic Final Round,Golf,,False,True
-FOX Footy,FOOTY,2025-10-16T01:00:00+00:00,2025-10-16T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-16T01:00:00+00:00,2025-10-16T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-16T01:00:00+00:00,2025-10-16T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-16T02:00:00+00:00,2025-10-16T02:30:00+00:00,30,European Challenge Tour Highlights,Hainan Open,Golf,The Challenge Series is the European Challenge Tour's dedicated magazine show which takes golf fans behind the scenes of Europe's top developmental tour and gives you access all areas to the future stars of world golf.,False,True
 FOX Cricket,CRICKET,2025-10-16T02:05:00+00:00,2025-10-16T02:35:00+00:00,30,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-16T02:30:00+00:00,2025-10-16T03:00:00+00:00,30,PGA TOUR CHAMPIONS LEARNING CENTER 2025,Episode 23,Golf,Watch PGA Tour Champions Learning Center for exclusive senior golf instruction tips.,False,True
 FOX Cricket,CRICKET,2025-10-16T02:35:00+00:00,2025-10-16T07:30:00+00:00,295,Sheffield Shield,SA v QLD Day 2,Sport,,True,True
 FOX Sports 503,FS503,2025-10-16T03:00:00+00:00,2025-10-16T07:00:00+00:00,240,USLPGA EVENTS 2025,Ladies Championship Round 1,Golf,,True,True
-FOX League,LEAGUE,2025-10-16T05:00:00+00:00,2025-10-16T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-16T05:00:00+00:00,2025-10-16T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-16T05:00:00+00:00,2025-10-16T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Sports 503,FS503,2025-10-16T07:00:00+00:00,2025-10-16T11:30:00+00:00,270,Euro PGA,India Championship Round 1,Golf,,True,True
 FOX Cricket,CRICKET,2025-10-16T07:30:00+00:00,2025-10-16T08:30:00+00:00,60,Test,2nd Test Day 1,Cricket,,False,True
 FOX Cricket,CRICKET,2025-10-16T08:30:00+00:00,2025-10-16T09:30:00+00:00,60,Test,2nd Test Day 2,Cricket,,False,True
@@ -241,22 +172,22 @@ FOX Cricket,CRICKET,2025-10-16T10:30:00+00:00,2025-10-16T11:30:00+00:00,60,Test,
 FOX Cricket,CRICKET,2025-10-16T11:30:00+00:00,2025-10-16T12:30:00+00:00,60,Test,2nd Test Day 5,Cricket,,False,True
 FOX Sports 503,FS503,2025-10-16T11:30:00+00:00,2025-10-16T13:00:00+00:00,90,USLPGA EVENTS 2025,Ladies Championship Round 1,Golf,,False,True
 FOX Cricket,CRICKET,2025-10-16T12:30:00+00:00,2025-10-16T13:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX League,LEAGUE,2025-10-16T13:00:00+00:00,2025-10-16T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-16T13:00:00+00:00,2025-10-16T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-16T13:00:00+00:00,2025-10-16T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-16T13:30:00+00:00,2025-10-16T16:30:00+00:00,180,T20,NZL v AUS Game 3,Cricket,"Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.",False,True
 FOX Cricket,CRICKET,2025-10-16T16:30:00+00:00,2025-10-16T19:30:00+00:00,180,T20 AUS v SA,Game 1,Cricket,"Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.",False,True
-FOX Footy,FOOTY,2025-10-16T17:00:00+00:00,2025-10-16T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-16T17:00:00+00:00,2025-10-16T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-16T17:00:00+00:00,2025-10-16T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-16T19:30:00+00:00,2025-10-16T20:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-16T20:30:00+00:00,2025-10-16T21:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX League,LEAGUE,2025-10-16T21:00:00+00:00,2025-10-17T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-16T21:00:00+00:00,2025-10-17T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-16T21:00:00+00:00,2025-10-17T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-16T21:30:00+00:00,2025-10-16T22:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-16T22:30:00+00:00,2025-10-16T23:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-16T23:30:00+00:00,2025-10-16T23:55:00+00:00,25,T20 Mini NZL v AUS,Game 2,Sport,"Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.",False,True
 FOX Cricket,CRICKET,2025-10-16T23:55:00+00:00,2025-10-17T02:05:00+00:00,130,Sheffield Shield,SA v QLD Day 3,Sport,,True,True
-FOX Footy,FOOTY,2025-10-17T01:00:00+00:00,2025-10-17T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-17T01:00:00+00:00,2025-10-17T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-17T01:00:00+00:00,2025-10-17T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-17T02:05:00+00:00,2025-10-17T02:35:00+00:00,30,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-17T02:35:00+00:00,2025-10-17T07:30:00+00:00,295,Sheffield Shield,SA v QLD Day 3,Sport,,True,True
 FOX League,LEAGUE,2025-10-17T05:00:00+00:00,2025-10-17T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
@@ -333,3 +264,21 @@ FOX Cricket,CRICKET,2025-10-19T11:15:00+00:00,2025-10-19T12:15:00+00:00,60,ODI A
 FOX Cricket,CRICKET,2025-10-19T12:15:00+00:00,2025-10-19T12:35:00+00:00,20,T20,Game 1,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-19T12:35:00+00:00,2025-10-19T12:55:00+00:00,20,ODI,Game 1,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-19T12:55:00+00:00,2025-10-19T13:55:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
+FOX League,LEAGUE,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
