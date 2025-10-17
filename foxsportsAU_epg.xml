@@ -1,433 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv date="20251016225014" source-info-url="https://tvguide.foxsports.com.au/" source-info-name="FOX Sports Australia">
-  <channel id="FOOTY">
-    <display-name>FOX Footy</display-name>
-  </channel>
-  <programme start="20251015130000 +0000" stop="20251015170000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
+<tv date="20251017223247" source-info-url="https://tvguide.foxsports.com.au/" source-info-name="FOX Sports Australia">
   <channel id="LEAGUE">
     <display-name>FOX League</display-name>
   </channel>
-  <programme start="20251015130000 +0000" stop="20251015170000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="FS503">
-    <display-name>FOX Sports 503</display-name>
-  </channel>
-  <programme start="20251015130000 +0000" stop="20251015150000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <channel id="CRICKET">
-    <display-name>FOX Cricket</display-name>
-  </channel>
-  <programme start="20251015133000 +0000" stop="20251015163000 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 1</sub-title>
-    <desc lang="en">Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015150000 +0000" stop="20251015170000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015163000 +0000" stop="20251015193000 +0000" channel="CRICKET">
-    <title lang="en">T20</title>
-    <sub-title lang="en">NZL v AUS Game 2</sub-title>
-    <desc lang="en">Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015170000 +0000" stop="20251015190000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015170000 +0000" stop="20251015210000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015170000 +0000" stop="20251015210000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015190000 +0000" stop="20251015200000 +0000" channel="FS503">
-    <title lang="en">PGA of Australia</title>
-    <sub-title lang="en">WA PGA Final Round</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015193000 +0000" stop="20251015203000 +0000" channel="CRICKET">
-    <title lang="en">ODI Thrillers</title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015200000 +0000" stop="20251015203000 +0000" channel="FS503">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">Clint Kimmins</sub-title>
-    <desc lang="en">Series featuring celebrities who love the game of golf.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015203000 +0000" stop="20251015210000 +0000" channel="FS503">
-    <title lang="en">How Good Is Golf</title>
-    <desc lang="en">How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015203000 +0000" stop="20251015205000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">2nd Test Day 1</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015205000 +0000" stop="20251015211000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">2nd Test Day 2</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015210000 +0000" stop="20251015230000 +0000" channel="FS503">
-    <title lang="en">Euro PGA</title>
-    <sub-title lang="en">Spanish Open Final Round</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015210000 +0000" stop="20251016010000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015210000 +0000" stop="20251016010000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015211000 +0000" stop="20251015213000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">2nd Test Day 3</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015213000 +0000" stop="20251015215000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">2nd Test Day 4</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015215000 +0000" stop="20251015221000 +0000" channel="CRICKET">
-    <title lang="en">Test Mini IND v WI</title>
-    <sub-title lang="en">2nd Test Day 5</sub-title>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015221000 +0000" stop="20251015223000 +0000" channel="CRICKET">
-    <title lang="en">Classic Mini</title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODIs and Test Matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015223000 +0000" stop="20251015233000 +0000" channel="CRICKET">
-    <title lang="en">ODI Thrillers</title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015230000 +0000" stop="20251016000000 +0000" channel="FS503">
-    <title lang="en">PGA Tour Champions</title>
-    <sub-title lang="en">SAS</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015233000 +0000" stop="20251015235500 +0000" channel="CRICKET">
-    <title lang="en">T20 Mini NZL v AUS</title>
-    <sub-title lang="en">Game 1</sub-title>
-    <desc lang="en">Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.</desc>
-    <category lang="en">Sport</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251015235500 +0000" stop="20251016020500 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield</title>
-    <sub-title lang="en">SA v QLD Day 2</sub-title>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016000000 +0000" stop="20251016020000 +0000" channel="FS503">
-    <title lang="en">USPGA Tour</title>
-    <sub-title lang="en">Baycurrent Classic Final Round</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016010000 +0000" stop="20251016050000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016010000 +0000" stop="20251016050000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016020000 +0000" stop="20251016023000 +0000" channel="FS503">
-    <title lang="en">European Challenge Tour Highlights</title>
-    <sub-title lang="en">Hainan Open</sub-title>
-    <desc lang="en">The Challenge Series is the European Challenge Tour's dedicated magazine show which takes golf fans behind the scenes of Europe's top developmental tour and gives you access all areas to the future stars of world golf.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016020500 +0000" stop="20251016023500 +0000" channel="CRICKET">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016023000 +0000" stop="20251016030000 +0000" channel="FS503">
-    <title lang="en">PGA TOUR CHAMPIONS LEARNING CENTER 2025</title>
-    <sub-title lang="en">Episode 23</sub-title>
-    <desc lang="en">Watch PGA Tour Champions Learning Center for exclusive senior golf instruction tips.</desc>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016023500 +0000" stop="20251016073000 +0000" channel="CRICKET">
-    <title lang="en">Sheffield Shield</title>
-    <sub-title lang="en">SA v QLD Day 2</sub-title>
-    <category lang="en">Sport</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016030000 +0000" stop="20251016070000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <sub-title lang="en">Ladies Championship Round 1</sub-title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016050000 +0000" stop="20251016090000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016050000 +0000" stop="20251016090000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016070000 +0000" stop="20251016113000 +0000" channel="FS503">
-    <title lang="en">Euro PGA</title>
-    <sub-title lang="en">India Championship Round 1</sub-title>
-    <category lang="en">Golf</category>
-    <live/>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016073000 +0000" stop="20251016083000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 1</sub-title>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016083000 +0000" stop="20251016093000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 2</sub-title>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016090000 +0000" stop="20251016130000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016090000 +0000" stop="20251016130000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016093000 +0000" stop="20251016103000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 3</sub-title>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016103000 +0000" stop="20251016113000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 4</sub-title>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016113000 +0000" stop="20251016123000 +0000" channel="CRICKET">
-    <title lang="en">Test</title>
-    <sub-title lang="en">2nd Test Day 5</sub-title>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016113000 +0000" stop="20251016130000 +0000" channel="FS503">
-    <title lang="en">USLPGA EVENTS 2025</title>
-    <sub-title lang="en">Ladies Championship Round 1</sub-title>
-    <category lang="en">Golf</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016123000 +0000" stop="20251016133000 +0000" channel="CRICKET">
-    <title lang="en">ODI Thrillers</title>
-    <desc lang="en">We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
-    <category lang="en">Cricket</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251016130000 +0000" stop="20251016170000 +0000" channel="FOOTY">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
   <programme start="20251016130000 +0000" stop="20251016170000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
@@ -436,6 +11,20 @@
       <quality>HD</quality>
     </video>
   </programme>
+  <channel id="FOOTY">
+    <display-name>FOX Footy</display-name>
+  </channel>
+  <programme start="20251016130000 +0000" stop="20251016170000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <channel id="CRICKET">
+    <display-name>FOX Cricket</display-name>
+  </channel>
   <programme start="20251016133000 +0000" stop="20251016163000 +0000" channel="CRICKET">
     <title lang="en">T20</title>
     <sub-title lang="en">NZL v AUS Game 3</sub-title>
@@ -456,7 +45,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251016170000 +0000" stop="20251016210000 +0000" channel="LEAGUE">
+  <programme start="20251016170000 +0000" stop="20251016210000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -464,7 +53,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251016170000 +0000" stop="20251016210000 +0000" channel="FOOTY">
+  <programme start="20251016170000 +0000" stop="20251016210000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -490,7 +79,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251016210000 +0000" stop="20251017010000 +0000" channel="FOOTY">
+  <programme start="20251016210000 +0000" stop="20251017010000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -498,7 +87,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251016210000 +0000" stop="20251017010000 +0000" channel="LEAGUE">
+  <programme start="20251016210000 +0000" stop="20251017010000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -544,7 +133,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017010000 +0000" stop="20251017050000 +0000" channel="LEAGUE">
+  <programme start="20251017010000 +0000" stop="20251017050000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -552,7 +141,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017010000 +0000" stop="20251017050000 +0000" channel="FOOTY">
+  <programme start="20251017010000 +0000" stop="20251017050000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -578,7 +167,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017050000 +0000" stop="20251017090000 +0000" channel="FOOTY">
+  <programme start="20251017050000 +0000" stop="20251017090000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -586,7 +175,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017050000 +0000" stop="20251017090000 +0000" channel="LEAGUE">
+  <programme start="20251017050000 +0000" stop="20251017090000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -612,7 +201,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017090000 +0000" stop="20251017130000 +0000" channel="LEAGUE">
+  <programme start="20251017090000 +0000" stop="20251017130000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -620,7 +209,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017090000 +0000" stop="20251017130000 +0000" channel="FOOTY">
+  <programme start="20251017090000 +0000" stop="20251017130000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -664,7 +253,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017130000 +0000" stop="20251017170000 +0000" channel="FOOTY">
+  <programme start="20251017130000 +0000" stop="20251017170000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -672,7 +261,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017130000 +0000" stop="20251017170000 +0000" channel="LEAGUE">
+  <programme start="20251017130000 +0000" stop="20251017170000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -700,7 +289,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017170000 +0000" stop="20251017210000 +0000" channel="LEAGUE">
+  <programme start="20251017170000 +0000" stop="20251017210000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -708,7 +297,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017170000 +0000" stop="20251017210000 +0000" channel="FOOTY">
+  <programme start="20251017170000 +0000" stop="20251017210000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -734,7 +323,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017210000 +0000" stop="20251018010000 +0000" channel="FOOTY">
+  <programme start="20251017210000 +0000" stop="20251018010000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -742,7 +331,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251017210000 +0000" stop="20251018010000 +0000" channel="LEAGUE">
+  <programme start="20251017210000 +0000" stop="20251018010000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -788,7 +377,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018010000 +0000" stop="20251018050000 +0000" channel="LEAGUE">
+  <programme start="20251018010000 +0000" stop="20251018050000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -796,7 +385,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018010000 +0000" stop="20251018050000 +0000" channel="FOOTY">
+  <programme start="20251018010000 +0000" stop="20251018050000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -822,7 +411,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018050000 +0000" stop="20251018090000 +0000" channel="FOOTY">
+  <programme start="20251018050000 +0000" stop="20251018090000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -830,7 +419,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018050000 +0000" stop="20251018090000 +0000" channel="LEAGUE">
+  <programme start="20251018050000 +0000" stop="20251018090000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -858,7 +447,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018090000 +0000" stop="20251018130000 +0000" channel="LEAGUE">
+  <programme start="20251018090000 +0000" stop="20251018130000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -866,7 +455,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018090000 +0000" stop="20251018130000 +0000" channel="FOOTY">
+  <programme start="20251018090000 +0000" stop="20251018130000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -929,7 +518,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018130000 +0000" stop="20251018170000 +0000" channel="FOOTY">
+  <programme start="20251018130000 +0000" stop="20251018170000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -937,7 +526,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018130000 +0000" stop="20251018170000 +0000" channel="LEAGUE">
+  <programme start="20251018130000 +0000" stop="20251018170000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -981,7 +570,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018170000 +0000" stop="20251018210000 +0000" channel="LEAGUE">
+  <programme start="20251018170000 +0000" stop="20251018210000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -989,7 +578,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018170000 +0000" stop="20251018210000 +0000" channel="FOOTY">
+  <programme start="20251018170000 +0000" stop="20251018210000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1034,7 +623,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018210000 +0000" stop="20251019010000 +0000" channel="FOOTY">
+  <programme start="20251018210000 +0000" stop="20251019010000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1042,7 +631,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251018210000 +0000" stop="20251019010000 +0000" channel="LEAGUE">
+  <programme start="20251018210000 +0000" stop="20251019010000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1086,7 +675,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019010000 +0000" stop="20251019050000 +0000" channel="LEAGUE">
+  <programme start="20251019010000 +0000" stop="20251019050000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1094,7 +683,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019010000 +0000" stop="20251019050000 +0000" channel="FOOTY">
+  <programme start="20251019010000 +0000" stop="20251019050000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1131,7 +720,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019050000 +0000" stop="20251019090000 +0000" channel="FOOTY">
+  <programme start="20251019050000 +0000" stop="20251019090000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1139,7 +728,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019050000 +0000" stop="20251019090000 +0000" channel="LEAGUE">
+  <programme start="20251019050000 +0000" stop="20251019090000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1167,7 +756,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019090000 +0000" stop="20251019130000 +0000" channel="LEAGUE">
+  <programme start="20251019090000 +0000" stop="20251019130000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1175,7 +764,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019090000 +0000" stop="20251019130000 +0000" channel="FOOTY">
+  <programme start="20251019090000 +0000" stop="20251019130000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1230,7 +819,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019130000 +0000" stop="20251019170000 +0000" channel="CRICKET">
+  <programme start="20251019130000 +0000" stop="20251019170000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1246,23 +835,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019130000 +0000" stop="20251019170000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251019170000 +0000" stop="20251019210000 +0000" channel="LEAGUE">
-    <title lang="en">Sport Special</title>
-    <category lang="en">Undefined</category>
-    <video>
-      <present>yes</present>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20251019170000 +0000" stop="20251019210000 +0000" channel="FOOTY">
+  <programme start="20251019130000 +0000" stop="20251019170000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1278,7 +851,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019210000 +0000" stop="20251020010000 +0000" channel="CRICKET">
+  <programme start="20251019170000 +0000" stop="20251019210000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1286,7 +859,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251019210000 +0000" stop="20251020010000 +0000" channel="FOOTY">
+  <programme start="20251019170000 +0000" stop="20251019210000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1302,7 +875,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020010000 +0000" stop="20251020050000 +0000" channel="LEAGUE">
+  <programme start="20251019210000 +0000" stop="20251020010000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1310,7 +883,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020010000 +0000" stop="20251020050000 +0000" channel="FOOTY">
+  <programme start="20251019210000 +0000" stop="20251020010000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1326,7 +899,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020050000 +0000" stop="20251020090000 +0000" channel="CRICKET">
+  <programme start="20251020010000 +0000" stop="20251020050000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1334,7 +907,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020050000 +0000" stop="20251020090000 +0000" channel="FOOTY">
+  <programme start="20251020010000 +0000" stop="20251020050000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1350,7 +923,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020090000 +0000" stop="20251020130000 +0000" channel="LEAGUE">
+  <programme start="20251020050000 +0000" stop="20251020090000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1358,7 +931,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020090000 +0000" stop="20251020130000 +0000" channel="FOOTY">
+  <programme start="20251020050000 +0000" stop="20251020090000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1374,7 +947,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020130000 +0000" stop="20251020170000 +0000" channel="CRICKET">
+  <programme start="20251020090000 +0000" stop="20251020130000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1382,7 +955,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020130000 +0000" stop="20251020170000 +0000" channel="FOOTY">
+  <programme start="20251020090000 +0000" stop="20251020130000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1398,7 +971,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020170000 +0000" stop="20251020210000 +0000" channel="LEAGUE">
+  <programme start="20251020130000 +0000" stop="20251020170000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1406,7 +979,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020170000 +0000" stop="20251020210000 +0000" channel="FOOTY">
+  <programme start="20251020130000 +0000" stop="20251020170000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1422,7 +995,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020210000 +0000" stop="20251021010000 +0000" channel="CRICKET">
+  <programme start="20251020170000 +0000" stop="20251020210000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1430,7 +1003,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251020210000 +0000" stop="20251021010000 +0000" channel="FOOTY">
+  <programme start="20251020170000 +0000" stop="20251020210000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1446,7 +1019,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021010000 +0000" stop="20251021050000 +0000" channel="LEAGUE">
+  <programme start="20251020210000 +0000" stop="20251021010000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1454,7 +1027,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021010000 +0000" stop="20251021050000 +0000" channel="FOOTY">
+  <programme start="20251020210000 +0000" stop="20251021010000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1470,7 +1043,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021050000 +0000" stop="20251021090000 +0000" channel="CRICKET">
+  <programme start="20251021010000 +0000" stop="20251021050000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1478,7 +1051,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021050000 +0000" stop="20251021090000 +0000" channel="FOOTY">
+  <programme start="20251021010000 +0000" stop="20251021050000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1494,7 +1067,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021090000 +0000" stop="20251021130000 +0000" channel="LEAGUE">
+  <programme start="20251021050000 +0000" stop="20251021090000 +0000" channel="FOOTY">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1502,7 +1075,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021090000 +0000" stop="20251021130000 +0000" channel="FOOTY">
+  <programme start="20251021050000 +0000" stop="20251021090000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1518,7 +1091,15 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021130000 +0000" stop="20251021170000 +0000" channel="CRICKET">
+  <programme start="20251021090000 +0000" stop="20251021130000 +0000" channel="FOOTY">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251021090000 +0000" stop="20251021130000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1534,7 +1115,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021170000 +0000" stop="20251021210000 +0000" channel="LEAGUE">
+  <programme start="20251021130000 +0000" stop="20251021170000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1550,7 +1131,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251021210000 +0000" stop="20251022010000 +0000" channel="CRICKET">
+  <programme start="20251021170000 +0000" stop="20251021210000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1566,7 +1147,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251022010000 +0000" stop="20251022050000 +0000" channel="LEAGUE">
+  <programme start="20251021210000 +0000" stop="20251022010000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1582,7 +1163,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251022050000 +0000" stop="20251022090000 +0000" channel="CRICKET">
+  <programme start="20251022010000 +0000" stop="20251022050000 +0000" channel="LEAGUE">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1598,7 +1179,7 @@
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20251022090000 +0000" stop="20251022130000 +0000" channel="LEAGUE">
+  <programme start="20251022050000 +0000" stop="20251022090000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
@@ -1607,6 +1188,153 @@
     </video>
   </programme>
   <programme start="20251022090000 +0000" stop="20251022130000 +0000" channel="CRICKET">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022090000 +0000" stop="20251022130000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022130000 +0000" stop="20251022170000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022130000 +0000" stop="20251022170000 +0000" channel="CRICKET">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022170000 +0000" stop="20251022210000 +0000" channel="CRICKET">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022170000 +0000" stop="20251022210000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022210000 +0000" stop="20251023010000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251022210000 +0000" stop="20251023010000 +0000" channel="CRICKET">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023010000 +0000" stop="20251023030000 +0000" channel="CRICKET">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023010000 +0000" stop="20251023050000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023030000 +0000" stop="20251023033000 +0000" channel="CRICKET">
+    <title lang="en">Pre Game</title>
+    <sub-title lang="en">AUS v IND</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023033000 +0000" stop="20251023070000 +0000" channel="CRICKET">
+    <title lang="en">ODI AUS v IND</title>
+    <sub-title lang="en">Game 2 IN1</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023050000 +0000" stop="20251023090000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023070000 +0000" stop="20251023073000 +0000" channel="CRICKET">
+    <title lang="en">The Big Break</title>
+    <sub-title lang="en">AUS v IND</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023073000 +0000" stop="20251023110000 +0000" channel="CRICKET">
+    <title lang="en">ODI AUS v IND</title>
+    <sub-title lang="en">Game 2 IN2</sub-title>
+    <category lang="en">Cricket</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023090000 +0000" stop="20251023130000 +0000" channel="LEAGUE">
+    <title lang="en">Sport Special</title>
+    <category lang="en">Undefined</category>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023110000 +0000" stop="20251023111500 +0000" channel="CRICKET">
+    <title lang="en">Post Game</title>
+    <sub-title lang="en">AUS v IND</sub-title>
+    <desc lang="en">Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.</desc>
+    <category lang="en">Sport</category>
+    <live/>
+    <video>
+      <present>yes</present>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20251023111500 +0000" stop="20251023130000 +0000" channel="CRICKET">
     <title lang="en">Sport Special</title>
     <category lang="en">Undefined</category>
     <video>
