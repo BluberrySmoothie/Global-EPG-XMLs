@@ -1,32 +1,4 @@
 channelName,channelAbbreviation,startTime_UTC,endTime_UTC,duration (minutes),programmeTitle,title,genreTitle,synopsis,live,hiDef
-FOX League,LEAGUE,2025-10-16T13:00:00+00:00,2025-10-16T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-16T13:00:00+00:00,2025-10-16T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-16T13:30:00+00:00,2025-10-16T16:30:00+00:00,180,T20,NZL v AUS Game 3,Cricket,"Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.",False,True
-FOX Cricket,CRICKET,2025-10-16T16:30:00+00:00,2025-10-16T19:30:00+00:00,180,T20 AUS v SA,Game 1,Cricket,"Australia's impressive lineup gets even better with the return of Travis Head and Josh Hazlewood, while South Africa aims for an upset in Darwin.",False,True
-FOX Footy,FOOTY,2025-10-16T17:00:00+00:00,2025-10-16T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-16T17:00:00+00:00,2025-10-16T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-16T19:30:00+00:00,2025-10-16T20:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-16T20:30:00+00:00,2025-10-16T21:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX League,LEAGUE,2025-10-16T21:00:00+00:00,2025-10-17T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-16T21:00:00+00:00,2025-10-17T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-16T21:30:00+00:00,2025-10-16T22:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-16T22:30:00+00:00,2025-10-16T23:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-16T23:30:00+00:00,2025-10-16T23:55:00+00:00,25,T20 Mini NZL v AUS,Game 2,Sport,"Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.",False,True
-FOX Cricket,CRICKET,2025-10-16T23:55:00+00:00,2025-10-17T02:05:00+00:00,130,Sheffield Shield,SA v QLD Day 3,Sport,,True,True
-FOX Footy,FOOTY,2025-10-17T01:00:00+00:00,2025-10-17T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-17T01:00:00+00:00,2025-10-17T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-17T02:05:00+00:00,2025-10-17T02:35:00+00:00,30,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-17T02:35:00+00:00,2025-10-17T07:30:00+00:00,295,Sheffield Shield,SA v QLD Day 3,Sport,,True,True
-FOX League,LEAGUE,2025-10-17T05:00:00+00:00,2025-10-17T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-17T05:00:00+00:00,2025-10-17T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-17T07:30:00+00:00,2025-10-17T08:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-17T08:30:00+00:00,2025-10-17T09:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Footy,FOOTY,2025-10-17T09:00:00+00:00,2025-10-17T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-17T09:00:00+00:00,2025-10-17T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-17T09:30:00+00:00,2025-10-17T10:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-17T10:30:00+00:00,2025-10-17T11:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-17T11:30:00+00:00,2025-10-17T12:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-17T12:30:00+00:00,2025-10-17T13:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX League,LEAGUE,2025-10-17T13:00:00+00:00,2025-10-17T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-17T13:00:00+00:00,2025-10-17T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-17T13:30:00+00:00,2025-10-17T16:30:00+00:00,180,T20 AUS v SA,Game 2,Cricket,"Game 2: With Tim David's fantastic performance securing a 1-0 series lead, Australia now aims to extend its winning streak to 10 consecutive T20 victories.",False,True
@@ -45,108 +17,108 @@ FOX Footy,FOOTY,2025-10-18T01:00:00+00:00,2025-10-18T05:00:00+00:00,240,Sport Sp
 FOX League,LEAGUE,2025-10-18T01:00:00+00:00,2025-10-18T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T02:05:00+00:00,2025-10-18T02:35:00+00:00,30,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T02:35:00+00:00,2025-10-18T06:00:00+00:00,205,Sheffield Shield,SA v QLD Final Day,Sport,,True,True
-FOX League,LEAGUE,2025-10-18T05:00:00+00:00,2025-10-18T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-18T05:00:00+00:00,2025-10-18T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-18T05:00:00+00:00,2025-10-18T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T06:00:00+00:00,2025-10-18T06:15:00+00:00,15,Pre Game,NZ v ENG,Sport,,True,True
 FOX Cricket,CRICKET,2025-10-18T06:15:00+00:00,2025-10-18T10:00:00+00:00,225,T20,NZ v ENG Game 1,Cricket,,True,True
-FOX Footy,FOOTY,2025-10-18T09:00:00+00:00,2025-10-18T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-18T09:00:00+00:00,2025-10-18T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-18T09:00:00+00:00,2025-10-18T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T10:00:00+00:00,2025-10-18T11:00:00+00:00,60,NEW ZEALAND V AUSTRALIA 2004/2005 ONE DAY INTERNATIONALS,The First T20I: NZL v AUS,Sport,"In 2005, a new format called Twenty20 revolutionized cricket. Superstars from NZ and Australia faced off in the first-ever international match.",False,True
 FOX Cricket,CRICKET,2025-10-18T11:00:00+00:00,2025-10-18T12:00:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
 FOX Cricket,CRICKET,2025-10-18T12:00:00+00:00,2025-10-18T12:20:00+00:00,20,Test Mini IND v WI,2nd Test Day 5,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-18T12:20:00+00:00,2025-10-18T12:40:00+00:00,20,T20,Game 1,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-18T12:40:00+00:00,2025-10-18T13:00:00+00:00,20,Test Mini IND v WI,2nd Test Day 5,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-18T13:00:00+00:00,2025-10-18T14:00:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
-FOX League,LEAGUE,2025-10-18T13:00:00+00:00,2025-10-18T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-18T13:00:00+00:00,2025-10-18T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-18T13:00:00+00:00,2025-10-18T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T14:00:00+00:00,2025-10-18T15:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T15:00:00+00:00,2025-10-18T16:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T16:00:00+00:00,2025-10-18T17:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T17:00:00+00:00,2025-10-18T18:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Footy,FOOTY,2025-10-18T17:00:00+00:00,2025-10-18T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-18T17:00:00+00:00,2025-10-18T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-18T17:00:00+00:00,2025-10-18T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T18:00:00+00:00,2025-10-18T19:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T19:00:00+00:00,2025-10-18T20:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T20:00:00+00:00,2025-10-18T20:30:00+00:00,30,Asia Cup,Final,Sport,"The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.",False,True
 FOX Cricket,CRICKET,2025-10-18T20:30:00+00:00,2025-10-18T21:30:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
-FOX League,LEAGUE,2025-10-18T21:00:00+00:00,2025-10-19T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-18T21:00:00+00:00,2025-10-19T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-18T21:00:00+00:00,2025-10-19T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-18T21:30:00+00:00,2025-10-18T22:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T22:30:00+00:00,2025-10-18T23:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-18T23:30:00+00:00,2025-10-19T00:30:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
 FOX Cricket,CRICKET,2025-10-19T00:30:00+00:00,2025-10-19T01:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Footy,FOOTY,2025-10-19T01:00:00+00:00,2025-10-19T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-19T01:00:00+00:00,2025-10-19T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-19T01:00:00+00:00,2025-10-19T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T01:30:00+00:00,2025-10-19T02:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
 FOX Cricket,CRICKET,2025-10-19T02:30:00+00:00,2025-10-19T03:30:00+00:00,60,Pre Game,AUS v IND,Cricket,,True,True
 FOX Cricket,CRICKET,2025-10-19T03:30:00+00:00,2025-10-19T07:00:00+00:00,210,ODI AUS v IND,Game 1 IN1,Cricket,,True,True
-FOX League,LEAGUE,2025-10-19T05:00:00+00:00,2025-10-19T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-19T05:00:00+00:00,2025-10-19T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-19T05:00:00+00:00,2025-10-19T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T07:00:00+00:00,2025-10-19T07:30:00+00:00,30,The Big Break,AUS v IND,Cricket,,True,True
 FOX Cricket,CRICKET,2025-10-19T07:30:00+00:00,2025-10-19T11:00:00+00:00,210,ODI AUS v IND,Game 1 IN2,Cricket,,True,True
-FOX Footy,FOOTY,2025-10-19T09:00:00+00:00,2025-10-19T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-19T09:00:00+00:00,2025-10-19T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Footy,FOOTY,2025-10-19T09:00:00+00:00,2025-10-19T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T11:00:00+00:00,2025-10-19T11:15:00+00:00,15,Post Game,AUS v IND,Sport,Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.,True,True
 FOX Cricket,CRICKET,2025-10-19T11:15:00+00:00,2025-10-19T12:15:00+00:00,60,ODI AUS v IND,Game 1,Cricket,,False,True
 FOX Cricket,CRICKET,2025-10-19T12:15:00+00:00,2025-10-19T12:35:00+00:00,20,T20,Game 1,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-19T12:35:00+00:00,2025-10-19T12:55:00+00:00,20,ODI,Game 1,Sport,,False,True
 FOX Cricket,CRICKET,2025-10-19T12:55:00+00:00,2025-10-19T13:55:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
-FOX League,LEAGUE,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-19T17:00:00+00:00,2025-10-19T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-19T21:00:00+00:00,2025-10-20T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-20T01:00:00+00:00,2025-10-20T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T05:00:00+00:00,2025-10-20T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-20T09:00:00+00:00,2025-10-20T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-20T13:00:00+00:00,2025-10-20T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-20T13:00:00+00:00,2025-10-20T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-20T13:00:00+00:00,2025-10-20T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T13:00:00+00:00,2025-10-20T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T17:00:00+00:00,2025-10-20T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-20T17:00:00+00:00,2025-10-20T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-20T17:00:00+00:00,2025-10-20T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-20T17:00:00+00:00,2025-10-20T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-20T21:00:00+00:00,2025-10-21T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-20T21:00:00+00:00,2025-10-21T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-20T21:00:00+00:00,2025-10-21T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-20T21:00:00+00:00,2025-10-21T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-21T01:00:00+00:00,2025-10-21T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-21T01:00:00+00:00,2025-10-21T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-21T01:00:00+00:00,2025-10-21T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T01:00:00+00:00,2025-10-21T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T05:00:00+00:00,2025-10-21T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-21T05:00:00+00:00,2025-10-21T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-21T05:00:00+00:00,2025-10-21T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-21T05:00:00+00:00,2025-10-21T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-21T09:00:00+00:00,2025-10-21T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-21T09:00:00+00:00,2025-10-21T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-21T09:00:00+00:00,2025-10-21T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T09:00:00+00:00,2025-10-21T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T13:00:00+00:00,2025-10-21T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-21T13:00:00+00:00,2025-10-21T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-21T17:00:00+00:00,2025-10-21T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-21T13:00:00+00:00,2025-10-21T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-21T17:00:00+00:00,2025-10-21T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T21:00:00+00:00,2025-10-22T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-21T17:00:00+00:00,2025-10-21T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-21T21:00:00+00:00,2025-10-22T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-22T01:00:00+00:00,2025-10-22T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-21T21:00:00+00:00,2025-10-22T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-22T01:00:00+00:00,2025-10-22T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-22T05:00:00+00:00,2025-10-22T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-22T01:00:00+00:00,2025-10-22T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-22T05:00:00+00:00,2025-10-22T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-22T09:00:00+00:00,2025-10-22T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-22T05:00:00+00:00,2025-10-22T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-22T09:00:00+00:00,2025-10-22T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-22T13:00:00+00:00,2025-10-22T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-22T09:00:00+00:00,2025-10-22T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-22T13:00:00+00:00,2025-10-22T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-22T17:00:00+00:00,2025-10-22T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-22T13:00:00+00:00,2025-10-22T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-22T17:00:00+00:00,2025-10-22T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-22T21:00:00+00:00,2025-10-23T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-22T17:00:00+00:00,2025-10-22T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-22T21:00:00+00:00,2025-10-23T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-23T01:00:00+00:00,2025-10-23T03:00:00+00:00,120,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-22T21:00:00+00:00,2025-10-23T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-23T01:00:00+00:00,2025-10-23T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-23T01:00:00+00:00,2025-10-23T03:00:00+00:00,120,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-23T03:00:00+00:00,2025-10-23T03:30:00+00:00,30,Pre Game,AUS v IND,Cricket,,True,True
 FOX Cricket,CRICKET,2025-10-23T03:30:00+00:00,2025-10-23T07:00:00+00:00,210,ODI AUS v IND,Game 2 IN1,Cricket,,True,True
 FOX League,LEAGUE,2025-10-23T05:00:00+00:00,2025-10-23T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
@@ -155,3 +127,21 @@ FOX Cricket,CRICKET,2025-10-23T07:30:00+00:00,2025-10-23T11:00:00+00:00,210,ODI 
 FOX League,LEAGUE,2025-10-23T09:00:00+00:00,2025-10-23T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-23T11:00:00+00:00,2025-10-23T11:15:00+00:00,15,Post Game,AUS v IND,Sport,Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.,True,True
 FOX Cricket,CRICKET,2025-10-23T11:15:00+00:00,2025-10-23T13:00:00+00:00,105,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-23T13:00:00+00:00,2025-10-23T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-23T13:00:00+00:00,2025-10-23T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-23T17:00:00+00:00,2025-10-23T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-23T17:00:00+00:00,2025-10-23T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-23T21:00:00+00:00,2025-10-24T00:55:00+00:00,235,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-23T21:00:00+00:00,2025-10-24T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-24T00:55:00+00:00,2025-10-24T01:40:00+00:00,45,Moto3,Grand Prix of Malaysia Practice 1,Racing,,True,True
+FOX League,LEAGUE,2025-10-24T01:00:00+00:00,2025-10-24T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-24T01:40:00+00:00,2025-10-24T02:35:00+00:00,55,Moto2,Grand Prix of Malaysia Practice 1,Racing,,True,True
+FOX Cricket,CRICKET,2025-10-24T02:35:00+00:00,2025-10-24T03:47:00+00:00,72,MotoGP,Malaysia Practice 1,Racing,,True,True
+FOX Cricket,CRICKET,2025-10-24T03:47:00+00:00,2025-10-24T05:10:00+00:00,83,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-24T05:00:00+00:00,2025-10-24T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-24T05:10:00+00:00,2025-10-24T05:55:00+00:00,45,Moto3,Grand Prix of Malaysia Practice 2,Racing,,True,True
+FOX Cricket,CRICKET,2025-10-24T05:55:00+00:00,2025-10-24T06:50:00+00:00,55,Moto2,Grand Prix of Malaysia Practice 2,Racing,,True,True
+FOX Cricket,CRICKET,2025-10-24T06:50:00+00:00,2025-10-24T08:12:00+00:00,82,MotoGP,Malaysia Practice 2,Racing,,True,True
+FOX Cricket,CRICKET,2025-10-24T08:12:00+00:00,2025-10-24T09:00:00+00:00,48,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-24T09:00:00+00:00,2025-10-24T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-24T09:00:00+00:00,2025-10-24T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True

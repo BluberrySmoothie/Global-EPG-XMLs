@@ -1,205 +1,4 @@
 channel,date_local,time_local,datetime_utc,datetime_utc_end,title_original,title_en
-max_sport_4_hd,2025-10-17,01:25,2025-10-16 22:25:00,2025-10-16 22:35:00,Спортни новини,Sports news
-max_sport_4_hd,2025-10-17,01:35,2025-10-16 22:35:00,2025-10-16 23:00:00,Автомобилизъм: GT World Challenge Europe - състезание за издръжливост,Motoring: GT World Challenge Europe - an endurance race
-max_sport_4_hd,2025-10-17,02:00,2025-10-16 23:00:00,2025-10-16 23:10:00,Спортни новини,Sports news
-max_sport_4_hd,2025-10-17,02:10,2025-10-16 23:10:00,2025-10-17 00:10:00,Колоездачна обиколка на Германия,Cycling tour of Germany
-max_sport_4_hd,2025-10-17,03:10,2025-10-17 00:10:00,2025-10-17 02:30:00,Автомобилизъм: GT World Challenge Europe - спринт,Motorsport: GT World Challenge Europe - Sprint
-max_sport_4_hd,2025-10-17,05:30,2025-10-17 02:30:00,2025-10-17 02:55:00,Спартан трифекта световен шампионат,Spartan Trifecta World Championship
-max_sport_4_hd,2025-10-17,05:55,2025-10-17 02:55:00,2025-10-17 03:00:00,FEI Конен спорт,FEI Equestrian
-max_sport_4_hd,2025-10-17,06:00,2025-10-17 03:00:00,2025-10-17 06:55:00,Автомобилизъм: GT World Challenge Europe - състезание за издръжливост,Motoring: GT World Challenge Europe - an endurance race
-max_sport_4_hd,2025-10-17,09:55,2025-10-17 06:55:00,2025-10-17 07:50:00,One Water Race - екстремна надпревара,One Water Race - an extreme race
-max_sport_4_hd,2025-10-17,10:50,2025-10-17 07:50:00,2025-10-17 11:35:00,"Световно първенство по борба /класически стил, финали/","World Wrestling Championship /classic style, finals/"
-max_sport_4_hd,2025-10-17,14:35,2025-10-17 11:35:00,2025-10-17 11:45:00,Спортни новини,Sports news
-max_sport_4_hd,2025-10-17,14:45,2025-10-17 11:45:00,2025-10-17 12:10:00,Спортсмакс,Sportsmax
-max_sport_4_hd,2025-10-17,15:10,2025-10-17 12:10:00,2025-10-17 12:55:00,През коридорите на времето с Морган Фрийман 4,Through the Corridors of Time with Morgan Freeman 4
-max_sport_4_hd,2025-10-17,15:55,2025-10-17 12:55:00,2025-10-17 13:55:00,FIA Extreme H Световна купа,FIA Extreme H World Cup
-max_sport_4_hd,2025-10-17,16:55,2025-10-17 13:55:00,2025-10-17 14:10:00,Телепазарен прозорец,Telemarketing window
-max_sport_4_hd,2025-10-17,17:10,2025-10-17 14:10:00,2025-10-17 15:10:00,Последният печели,The last one wins
-max_sport_4_hd,2025-10-17,18:10,2025-10-17 15:10:00,2025-10-17 15:55:00,През коридорите на времето с Морган Фрийман 4,Through the Corridors of Time with Morgan Freeman 4
-max_sport_4_hd,2025-10-17,18:55,2025-10-17 15:55:00,2025-10-17 16:10:00,Зала на славата: Евладия Славчева,Hall of Fame: Evladia Slavcheva
-max_sport_4_hd,2025-10-17,19:10,2025-10-17 16:10:00,2025-10-17 16:35:00,FEI Конен спорт,FEI Equestrian
-max_sport_4_hd,2025-10-17,19:35,2025-10-17 16:35:00,2025-10-17 17:05:00,Extreme E: Пустинно Екс-при - последната обиколка,Extreme E: Desert Ex-pri - the last lap
-max_sport_4_hd,2025-10-17,20:05,2025-10-17 17:05:00,2025-10-17 17:35:00,Monster Jam - автомобилно шоу,Monster Jam - Car Show
-max_sport_4_hd,2025-10-17,20:35,2025-10-17 17:35:00,2025-10-17 18:00:00,Време за губене,Time to waste
-max_sport_4_hd,2025-10-17,21:00,2025-10-17 18:00:00,2025-10-17 18:50:00,Забравени от Бога 2,Forgotten by God 2
-max_sport_4_hd,2025-10-17,21:50,2025-10-17 18:50:00,2025-10-17 19:00:00,Спортни новини,Sports news
-max_sport_4_hd,2025-10-17,22:00,2025-10-17 19:00:00,2025-10-17 19:50:00,Забравени от Бога 2,Forgotten by God 2
-max_sport_4_hd,2025-10-17,22:50,2025-10-17 19:50:00,2025-10-17 20:50:00,FIA Extreme H Световна купа,FIA Extreme H World Cup
-max_sport_4_hd,2025-10-17,23:50,2025-10-17 20:50:00,2025-10-17 21:50:00,"Световно първенство по борба /класически стил, финали/","World Wrestling Championship /classic style, finals/"
-bnt_3,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 22:00:00,УЕФА Шампионска лига / УЕФА Лига Европа / Лига на конференциите /п/,UEFA Champions League / UEFA Europa League / Conference League /n/
-bnt_3,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-17 05:00:00,УЕФА Шампионска лига / УЕФА Лига Европа / Лига на конференциите /п./,UEFA Champions League / UEFA Europa League / Conference League /p./
-bnt_3,2025-10-17,08:00,2025-10-17 05:00:00,2025-10-17 07:00:00,УЕФА Шампионска лига: Юнион Сен Жилоа - Нюкасъл,UEFA Champions League: Union Saint-Gillois - Newcastle
-bnt_3,2025-10-17,10:00,2025-10-17 07:00:00,2025-10-17 09:00:00,УЕФА Шампионска лига: Арсенал - Олимпиакос,UEFA Champions League: Arsenal - Olympiakos
-bnt_3,2025-10-17,12:00,2025-10-17 09:00:00,2025-10-17 11:00:00,УЕФА Шампионска лига: Виляреал - Ювентус,UEFA Champions League: Villarreal - Juventus
-bnt_3,2025-10-17,14:00,2025-10-17 11:00:00,2025-10-17 13:00:00,УЕФА Шампионска лига: Карабах - Копенхаген,UEFA Champions League: Qarabag - Copenhagen
-bnt_3,2025-10-17,16:00,2025-10-17 13:00:00,2025-10-17 15:00:00,УЕФА Шампионска лига: Монако - Манчестър Сити,UEFA Champions League: Monaco - Manchester City
-bnt_3,2025-10-17,18:00,2025-10-17 15:00:00,2025-10-17 17:00:00,УЕФА Шампионска лига: Барселона - ПСЖ,UEFA Champions League: Barcelona - PSG
-bnt_3,2025-10-17,20:00,2025-10-17 17:00:00,2025-10-17 18:00:00,УЕФА Шампионска лига - обзори,UEFA Champions League - reviews
-bnt_3,2025-10-17,21:00,2025-10-17 18:00:00,2025-10-17 19:00:00,УЕФА Шампионска лига - магазинно предаване,UEFA Champions League - shop show
-bnt_3,2025-10-17,22:00,2025-10-17 19:00:00,2025-10-17 20:00:00,Бойни вечери,Battle nights
-ring,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 22:45:00,Еротичен Телепазар,Erotic Telemarket
-ring,2025-10-17,01:45,2025-10-16 22:45:00,2025-10-17 00:45:00,Турция - Грузия,Türkiye - Georgia
-ring,2025-10-17,03:45,2025-10-17 00:45:00,2025-10-17 06:00:00,Еротичен Телепазар,Erotic Telemarket
-ring,2025-10-17,09:00,2025-10-17 06:00:00,2025-10-17 08:00:00,Черна гора - Лихтенщайн,Montenegro - Liechtenstein
-ring,2025-10-17,11:00,2025-10-17 08:00:00,2025-10-17 10:00:00,Фарьорски острови - Чехия,Faroe Islands - Czech Republic
-ring,2025-10-17,13:00,2025-10-17 10:00:00,2025-10-17 11:55:00,Хърватия - Гибралтар,Croatia - Gibraltar
-ring,2025-10-17,14:55,2025-10-17 11:55:00,2025-10-17 12:00:00,Новини,News
-ring,2025-10-17,15:00,2025-10-17 12:00:00,2025-10-17 14:00:00,Хъдърсфийлд Таун - Болтън Уондърърс,Huddersfield Town - Bolton Wanderers
-ring,2025-10-17,17:00,2025-10-17 14:00:00,2025-10-17 16:00:00,Шотландия - Беларус,Scotland - Belarus
-ring,2025-10-17,19:00,2025-10-17 16:00:00,2025-10-17 16:30:00,Студио Бундеслига,Studio Bundesliga
-ring,2025-10-17,19:30,2025-10-17 16:30:00,2025-10-17 18:30:00,Фортуна Дюселдорф - Айнтрахт Брауншвайг,Fortuna Dusseldorf - Eintracht Braunschweig
-ring,2025-10-17,21:30,2025-10-17 18:30:00,2025-10-17 20:25:00,Унион Берлин - Борусия Мьонхенгладбах,Union Berlin - Borussia Monchengladbach
-ring,2025-10-17,23:25,2025-10-17 20:25:00,2025-10-17 20:45:00,Студио Бундеслига,Studio Bundesliga
-ring,2025-10-17,23:45,2025-10-17 20:45:00,2025-10-17 21:45:00,Словения - Швейцария,Slovenia - Switzerland
-nova_sport,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 21:00:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-nova_sport,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 22:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
-nova_sport,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 22:00:00,"Снукър: Мастърс на Саудитска Арабия, финал, повторение",Snooker: Saudi Arabia Masters Final Replay
-nova_sport,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 23:30:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-nova_sport,2025-10-17,02:30,2025-10-16 23:30:00,2025-10-16 23:30:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-nova_sport,2025-10-17,02:30,2025-10-16 23:30:00,2025-10-17 01:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
-nova_sport,2025-10-17,04:00,2025-10-17 01:00:00,2025-10-17 01:00:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-nova_sport,2025-10-17,04:00,2025-10-17 01:00:00,2025-10-17 02:55:00,"Снукър: Турнир на Си-ан, финал, повторение","Snooker: Xi'an tournament, final, replay"
-nova_sport,2025-10-17,05:55,2025-10-17 02:55:00,2025-10-17 03:30:00,"Триатлон: PTO Тур в Уолонгонг, директно","Triathlon: PTO Tour to Walongong, direct"
-nova_sport,2025-10-17,06:30,2025-10-17 03:30:00,2025-10-17 04:30:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-nova_sport,2025-10-17,07:30,2025-10-17 04:30:00,2025-10-17 06:30:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-nova_sport,2025-10-17,09:30,2025-10-17 06:30:00,2025-10-17 07:30:00,"Колоездене: Обиколка на Ломбардия, мъже, повторение",Cycling: Tour of Lombardy men repeat
-nova_sport,2025-10-17,10:30,2025-10-17 07:30:00,2025-10-17 08:30:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-nova_sport,2025-10-17,11:30,2025-10-17 08:30:00,2025-10-17 10:30:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-nova_sport,2025-10-17,13:30,2025-10-17 10:30:00,2025-10-17 11:00:00,"Маунтинбайк: Световна купа в Монт Сент Ан, спускане, мъже, повторение",Mountain Bike: Mont Saint Anne World Cup Downhill Men's Repeat
-nova_sport,2025-10-17,14:00,2025-10-17 11:00:00,2025-10-17 11:50:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-nova_sport,2025-10-17,14:50,2025-10-17 11:50:00,2025-10-17 14:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, директно","Cycling: Tour of Holland, third stage, men, direct"
-nova_sport,2025-10-17,17:00,2025-10-17 14:00:00,2025-10-17 14:45:00,"Маунтинбайк: Световна купа в Монт Сент Ан, олимпийско крос кънтри, жени, повторение",Mountain Bike: Mont Saint Anne World Cup Olympic Cross Country Women's Repeat
-nova_sport,2025-10-17,17:45,2025-10-17 14:45:00,2025-10-17 15:30:00,"Маунтинбайк: Световна купа в Монт Сент Ан, олимпийско крос кънтри, мъже, повторение",Mountain Bike: Mont Saint Anne World Cup Olympic Cross Country Men's Repeat
-nova_sport,2025-10-17,18:30,2025-10-17 15:30:00,2025-10-17 17:00:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-nova_sport,2025-10-17,20:00,2025-10-17 17:00:00,2025-10-17 17:30:00,"Трейл: Голдън Трейл световни серии, Трентино, повторение","Trail: Golden Trail World Series, Trentino, replay"
-nova_sport,2025-10-17,20:30,2025-10-17 17:30:00,2025-10-17 18:00:00,"Трейл: Голдън Трейл световни серии, Трентино, повторение","Trail: Golden Trail World Series, Trentino, replay"
-nova_sport,2025-10-17,21:00,2025-10-17 18:00:00,2025-10-17 19:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
-nova_sport,2025-10-17,22:00,2025-10-17 19:00:00,2025-10-17 20:00:00,"Снукър: Мастърс на Саудитска Арабия, финал, повторение",Snooker: Saudi Arabia Masters Final Replay
-eurosport_1,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 21:00:00,"Снукър: Инглиш оупън, финал, повторение","Snooker: English Open, final, replay"
-eurosport_1,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 22:00:00,"Снукър: Мастърс на Саудитска Арабия, финал, повторение",Snooker: Saudi Arabia Masters Final Replay
-eurosport_1,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 22:00:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-eurosport_1,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 23:30:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
-eurosport_1,2025-10-17,02:30,2025-10-16 23:30:00,2025-10-16 23:30:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-eurosport_1,2025-10-17,02:30,2025-10-16 23:30:00,2025-10-17 01:00:00,"Снукър: Инглиш оупън, финал, повторение","Snooker: English Open, final, replay"
-eurosport_1,2025-10-17,04:00,2025-10-17 01:00:00,2025-10-17 01:00:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-eurosport_1,2025-10-17,04:00,2025-10-17 01:00:00,2025-10-17 02:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
-eurosport_1,2025-10-17,05:00,2025-10-17 02:00:00,2025-10-17 04:30:00,"Маунтинбайк: Световна купа в Монт Сент Ан, спускане, мъже, повторение",Mountain Bike: Mont Saint Anne World Cup Downhill Men's Repeat
-eurosport_1,2025-10-17,07:30,2025-10-17 04:30:00,2025-10-17 05:30:00,"Маунтинбайк: Световна купа в Монт Сент Ан, спускане, мъже, повторение",Mountain Bike: Mont Saint Anne World Cup Downhill Men's Repeat
-eurosport_1,2025-10-17,08:30,2025-10-17 05:30:00,2025-10-17 06:30:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-eurosport_1,2025-10-17,09:30,2025-10-17 06:30:00,2025-10-17 07:30:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-eurosport_1,2025-10-17,10:30,2025-10-17 07:30:00,2025-10-17 08:30:00,"Трейл: Световни серии, Качкар, обзор","Trail: World Series, Kachkar, roundup"
-eurosport_1,2025-10-17,11:30,2025-10-17 08:30:00,2025-10-17 09:30:00,"Маунтинбайк: Световна купа в Монт Сент Ан, олимпийско крос кънтри, мъже, повторение",Mountain Bike: Mont Saint Anne World Cup Olympic Cross Country Men's Repeat
-eurosport_1,2025-10-17,12:30,2025-10-17 09:30:00,2025-10-17 10:30:00,"Колоездене: Обиколка на Холандия, втори етап, мъже, повторение","Cycling: Tour of Holland, second stage, men, repeat"
-eurosport_1,2025-10-17,13:30,2025-10-17 10:30:00,2025-10-17 12:00:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-eurosport_1,2025-10-17,15:00,2025-10-17 12:00:00,2025-10-17 12:30:00,"Мотокрос: Световен шампионат, Мотокрос на нациите, първо състезание, повторение","Motocross: World Championship, Motocross of Nations, first race, replay"
-eurosport_1,2025-10-17,15:30,2025-10-17 12:30:00,2025-10-17 13:15:00,"Мотокрос: Световен шампионат, Мотокрос на нациите, второ състезание, повторение","Motocross: World Championship, Motocross of Nations, second race, replay"
-eurosport_1,2025-10-17,16:15,2025-10-17 13:15:00,2025-10-17 14:00:00,"Мотокрос: Световен шампионат, Мотокрос на нациите, трето състезание, повторение","Motocross: World Championship, Motocross of Nations, third race, replay"
-eurosport_1,2025-10-17,17:00,2025-10-17 14:00:00,2025-10-17 15:30:00,"Снукър: Шанхай Мастърс, финал, повторение",Snooker: Shanghai Masters Final Replay
-eurosport_1,2025-10-17,18:30,2025-10-17 15:30:00,2025-10-17 16:00:00,Маунтинбайк: Решителност и слава,Mountainbike: Determination and Glory
-eurosport_1,2025-10-17,19:00,2025-10-17 16:00:00,2025-10-17 17:30:00,"Фигурно пързаляне: Гран При във Франция, кратка програма, жени, директно","Figure Skating: French Grand Prix, Short Program, Women, Direct"
-eurosport_1,2025-10-17,20:30,2025-10-17 17:30:00,2025-10-17 17:50:00,"Силата на спорта, магазинно предаване","The power of sports, store show"
-eurosport_1,2025-10-17,20:50,2025-10-17 17:50:00,2025-10-17 18:55:00,"Фигурно пързаляне: Гран При във Франция, кратка програма, спортни двойки, директно","Figure skating: Grand Prix in France, short program, sports pairs, direct"
-eurosport_1,2025-10-17,21:55,2025-10-17 18:55:00,2025-10-17 20:00:00,"Фигурно пързаляне: Гран При във Франция, кратка програма, жени, повторение","Figure Skating: French Grand Prix, Short Program, Women, Repeat"
-eurosport_1,2025-10-17,23:00,2025-10-17 20:00:00,2025-10-17 21:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
-eurosport_2,2025-10-17,03:30,2025-10-17 00:30:00,2025-10-17 04:30:00,Локомотив Пловдив - Ботев Враца,Locomotive Plovdiv - Botev Vratsa
-eurosport_2,2025-10-17,07:30,2025-10-17 04:30:00,2025-10-17 06:30:00,Португалия U21 - България U21,Portugal U21 - Bulgaria U21
-eurosport_2,2025-10-17,09:30,2025-10-17 06:30:00,2025-10-17 08:30:00,България U21 - Чехия U21,Bulgaria U21 - Czech Republic U21
-eurosport_2,2025-10-17,11:30,2025-10-17 08:30:00,2025-10-17 10:30:00,Локомотив Горна Оряховица - Фратария,Locomotive Gorna Oryahovitsa - Frataria
-eurosport_2,2025-10-17,13:30,2025-10-17 10:30:00,2025-10-17 12:30:00,България - Турция,Bulgaria - Turkey
-eurosport_2,2025-10-17,15:30,2025-10-17 12:30:00,2025-10-17 14:30:00,Испания - България,Spain - Bulgaria
-eurosport_2,2025-10-17,17:30,2025-10-17 14:30:00,2025-10-17 15:30:00,efbet Лига: Обзор на кръга,efbet League: Round Overview
-eurosport_2,2025-10-17,18:30,2025-10-17 15:30:00,2025-10-17 16:30:00,efbet Лига: Преди кръга,efbet League: Before the round
-eurosport_2,2025-10-17,19:30,2025-10-17 16:30:00,2025-10-17 17:00:00,Студио efbet Лига футбол,Studio efbet League football
-eurosport_2,2025-10-17,20:00,2025-10-17 17:00:00,2025-10-17 18:55:00,Локомотив Пловдив - Ботев Враца,Locomotive Plovdiv - Botev Vratsa
-eurosport_2,2025-10-17,21:55,2025-10-17 18:55:00,2025-10-17 19:30:00,Студио efbet Лига футбол,Studio efbet League football
-eurosport_2,2025-10-17,22:30,2025-10-17 19:30:00,2025-10-17 20:30:00,Домът на футбола,The home of football
-eurosport_2,2025-10-17,23:30,2025-10-17 20:30:00,2025-10-17 21:30:00,ONE Петъчни битки 128,ONE Friday Fights 128
-diema_sport,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 22:30:00,Лига 1: Преди кръга,League 1: Before the round
-diema_sport,2025-10-17,01:30,2025-10-16 22:30:00,2025-10-16 23:00:00,Шоуто на Лига 1,The League One show
-diema_sport,2025-10-17,02:00,2025-10-16 23:00:00,2025-10-16 23:00:00,NBA Екшън,NBA Action
-diema_sport,2025-10-17,02:00,2025-10-16 23:00:00,2025-10-17 04:30:00,Румъния - Австрия,Romania - Austria
-diema_sport,2025-10-17,07:30,2025-10-17 04:30:00,2025-10-17 06:30:00,Северна Ирландия - Германия,Northern Ireland - Germany
-diema_sport,2025-10-17,09:30,2025-10-17 06:30:00,2025-10-17 08:30:00,Северна Македония - Казахстан,North Macedonia - Kazakhstan
-diema_sport,2025-10-17,11:30,2025-10-17 08:30:00,2025-10-17 10:30:00,Уелс - Белгия,Wales - Belgium
-diema_sport,2025-10-17,13:30,2025-10-17 10:30:00,2025-10-17 11:30:00,NBA Екшън,NBA Action
-diema_sport,2025-10-17,14:30,2025-10-17 11:30:00,2025-10-17 13:30:00,Нидерландия - Финландия,Netherlands - Finland
-diema_sport,2025-10-17,16:30,2025-10-17 13:30:00,2025-10-17 15:30:00,Литва - Полша,Lithuania - Poland
-diema_sport,2025-10-17,18:30,2025-10-17 15:30:00,2025-10-17 16:00:00,Шоуто на Лига 1,The League One show
-diema_sport,2025-10-17,19:00,2025-10-17 16:00:00,2025-10-17 16:30:00,Студио Бундеслига,Studio Bundesliga
-diema_sport,2025-10-17,19:30,2025-10-17 16:30:00,2025-10-17 18:30:00,Хановер - Шалке 04,Hannover - Schalke 04
-diema_sport,2025-10-17,21:30,2025-10-17 18:30:00,2025-10-17 19:00:00,Преди кръга във Висшата лига V1,Before the Premier League round V1
-diema_sport,2025-10-17,22:00,2025-10-17 19:00:00,2025-10-17 20:00:00,Мидълзбро - Ипсуич Таун,Middlesbrough - Ipswich Town
-diema_sport_2,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 22:30:00,Nascar Cup Series: Обзор на състезанието в Лас Вегас Обзор на състезанието в Лас Вегас,Nascar Cup Series: Las Vegas Race Overview Las Vegas Race Overview
-diema_sport_2,2025-10-17,01:30,2025-10-16 22:30:00,2025-10-16 23:00:00,Trans World Sport,Trans World Sport
-diema_sport_2,2025-10-17,02:00,2025-10-16 23:00:00,2025-10-16 23:00:00,Голф: Spanish Open Обзор на турнира,Golf: Spanish Open Tournament overview
-diema_sport_2,2025-10-17,02:00,2025-10-16 23:00:00,2025-10-16 23:35:00,"ПРЯКО, Moto GP: Втора тренировка за Голямата награда на Австралия Втора тренировка за Голямата награда на Австралия",LIVE Moto GP: Second practice for the Australian Grand Prix Second practice for the Australian Grand Prix
-diema_sport_2,2025-10-17,02:35,2025-10-16 23:35:00,2025-10-16 23:50:00,"ПРЯКО, Moto GP: Първа тренировка за Голямата награда на Австралия Първа тренировка за Голямата награда на Австралия",LIVE Moto GP: Australian Grand Prix first practice Australian Grand Prix first practice
-diema_sport_2,2025-10-17,02:50,2025-10-16 23:50:00,2025-10-17 00:40:00,"ПРЯКО, Moto GP: Квалификация за Голямата награда на Австралия Квалификация за Голямата награда на Австралия",LIVE Moto GP: Australian Grand Prix Qualifying Australian Grand Prix Qualifying
-diema_sport_2,2025-10-17,03:40,2025-10-17 00:40:00,2025-10-17 00:45:00,Nascar Cup Series: Обзор на състезанието в Лас Вегас Обзор на състезанието в Лас Вегас,Nascar Cup Series: Las Vegas Race Overview Las Vegas Race Overview
-diema_sport_2,2025-10-17,03:45,2025-10-17 00:45:00,2025-10-17 01:40:00,Скорост на Макс Токшоу,Max Talkshow Speed
-diema_sport_2,2025-10-17,04:40,2025-10-17 01:40:00,2025-10-17 03:50:00,"ПРЯКО, Moto 3, Moto 2: Квалификация за Голямата награда на Австралия Квалификация за Голямата награда на Австралия",LIVE Moto 3 Moto 2: Australian Grand Prix Qualifying Australian Grand Prix Qualifying
-diema_sport_2,2025-10-17,06:50,2025-10-17 03:50:00,2025-10-17 05:30:00,"ПРЯКО, Moto GP: Тренировка за Голямата награда на Австралия Тренировка за Голямата награда на Австралия",LIVE Moto GP: Practice for the Australian Grand Prix Practice for the Australian Grand Prix
-diema_sport_2,2025-10-17,08:30,2025-10-17 05:30:00,2025-10-17 06:00:00,Европейски рали шампионат: Обзор на кръга Обзор на кръга,European Rally Championship: Round Overview Round Overview
-diema_sport_2,2025-10-17,09:00,2025-10-17 06:00:00,2025-10-17 08:00:00,ATP 250: Стокхолм,ATP 250: Stockholm
-diema_sport_2,2025-10-17,11:00,2025-10-17 08:00:00,2025-10-17 10:00:00,ATP 250: Стокхолм,ATP 250: Stockholm
-diema_sport_2,2025-10-17,13:00,2025-10-17 10:00:00,2025-10-17 12:00:00,"ПРЯКО, ATP 250: Стокхолм Първи четвъртфинал","LIVE, ATP 250: Stockholm First Quarterfinal"
-diema_sport_2,2025-10-17,15:00,2025-10-17 12:00:00,2025-10-17 14:00:00,"ПРЯКО, ATP 250: Стокхолм Втори четвъртфинал","LIVE, ATP 250: Stockholm Second quarter-final"
-diema_sport_2,2025-10-17,17:00,2025-10-17 14:00:00,2025-10-17 14:30:00,Trans World Sport,Trans World Sport
-diema_sport_2,2025-10-17,17:30,2025-10-17 14:30:00,2025-10-17 16:30:00,Евролига: Макаби Тел Авив - Олимпиакос Макаби Тел Авив - Олимпиакос,Euroleague: Maccabi Tel Aviv - Olympiacos Maccabi Tel Aviv - Olympiacos
-diema_sport_2,2025-10-17,19:30,2025-10-17 16:30:00,2025-10-17 18:30:00,"ПРЯКО, ATP 250: Стокхолм Трети четвъртфинал","LIVE, ATP 250: Stockholm Third quarter-final"
-diema_sport_2,2025-10-17,21:30,2025-10-17 18:30:00,2025-10-17 20:30:00,"ПРЯКО, ATP 250: Стокхолм Четвърти четвъртфинал","LIVE, ATP 250: Stockholm Fourth quarter-final"
-diema_sport_2,2025-10-17,23:30,2025-10-17 20:30:00,2025-10-17 21:30:00,Евролига: Цървена Звезда - Реал Мадрид Цървена Звезда - Реал Мадрид,Euroleague: Red Star - Real Madrid Red Star - Real Madrid
-max_sport_1_hd,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 22:30:00,Sesame Национална баскетболна лига: Миньор - Академик Миньор - Академик,Sesame National Basketball League: Miner - Academic Miner - Academic
-max_sport_1_hd,2025-10-17,01:30,2025-10-16 22:30:00,2025-10-16 23:30:00,Евролига: Анадолу Ефес - Панатинайкос Анадолу Ефес - Панатинайкос,Euroleague: Anadolu Efes - Panathinaikos Anadolu Efes - Panathinaikos
-max_sport_1_hd,2025-10-17,02:30,2025-10-16 23:30:00,2025-10-17 00:00:00,Удар със стик,Strike with a stick
-max_sport_1_hd,2025-10-17,03:00,2025-10-17 00:00:00,2025-10-17 00:30:00,"ПРЯКО, NHL: Далас Старс - Ванкувър Кенъкс Далас Старс - Ванкувър Кенъкс","LIVE, NHL: Dallas Stars - Vancouver Canucks Dallas Stars - Vancouver Canucks"
-max_sport_1_hd,2025-10-17,03:30,2025-10-17 00:30:00,2025-10-17 01:00:00,NFL: Обзор 6 кръг Обзор 6 кръг,NFL: Round 6 Overview Round 6 Overview
-max_sport_1_hd,2025-10-17,04:00,2025-10-17 01:00:00,2025-10-17 04:00:00,"ПРЯКО, NHL: Юта Мамът - Сан Хосе Шаркс Юта Мамът - Сан Хосе Шаркс","LIVE, NHL: Utah Mammoth - San Jose Sharks Utah Mammoth - San Jose Sharks"
-max_sport_1_hd,2025-10-17,07:00,2025-10-17 04:00:00,2025-10-17 06:00:00,Евролига: Макаби Тел Авив - Олимпиакос Макаби Тел Авив - Олимпиакос,Euroleague: Maccabi Tel Aviv - Olympiacos Maccabi Tel Aviv - Olympiacos
-max_sport_1_hd,2025-10-17,09:00,2025-10-17 06:00:00,2025-10-17 08:00:00,"ПРЯКО, ATP 250: Алмати, Казахстан","LIVE, ATP 250: Almaty, Kazakhstan"
-max_sport_1_hd,2025-10-17,11:00,2025-10-17 08:00:00,2025-10-17 10:00:00,"ПРЯКО, ATP 250: Алмати, Казахстан","LIVE, ATP 250: Almaty, Kazakhstan"
-max_sport_1_hd,2025-10-17,13:00,2025-10-17 10:00:00,2025-10-17 12:00:00,"ПРЯКО, ATP 250: Алмати, Казахстан","LIVE, ATP 250: Almaty, Kazakhstan"
-max_sport_1_hd,2025-10-17,15:00,2025-10-17 12:00:00,2025-10-17 14:00:00,NHL: Детройт Ред Уингс - Флорида Пантърс Детройт Ред Уингс - Флорида Пантърс,NHL: Detroit Red Wings - Florida Panthers Detroit Red Wings - Florida Panthers
-max_sport_1_hd,2025-10-17,17:00,2025-10-17 14:00:00,2025-10-17 14:30:00,Trans World Sport,Trans World Sport
-max_sport_1_hd,2025-10-17,17:30,2025-10-17 14:30:00,2025-10-17 15:30:00,Удар със стик,Strike with a stick
-max_sport_1_hd,2025-10-17,18:30,2025-10-17 15:30:00,2025-10-17 16:00:00,NFL: Обзор 6 кръг Обзор 6 кръг,NFL: Round 6 Overview Round 6 Overview
-max_sport_1_hd,2025-10-17,19:00,2025-10-17 16:00:00,2025-10-17 17:00:00,Скорост на Макс Токшоу,Max Talkshow Speed
-max_sport_1_hd,2025-10-17,20:00,2025-10-17 17:00:00,2025-10-17 18:45:00,"ПРЯКО, Евролига: Цървена Звезда - Реал Мадрид Цървена Звезда - Реал Мадрид","LIVE, Euroleague: Red Star - Real Madrid Red Star - Real Madrid"
-max_sport_1_hd,2025-10-17,21:45,2025-10-17 18:45:00,2025-10-17 20:30:00,"ПРЯКО, Евролига: Баскония - Партизан Баскония - Партизан","LIVE, Euroleague: Baskonia - Partizan Baskonia - Partizan"
-max_sport_1_hd,2025-10-17,23:30,2025-10-17 20:30:00,2025-10-17 21:30:00,NHL: Далас Старс - Ванкувър Кенъкс Далас Старс - Ванкувър Кенъкс,NHL: Dallas Stars - Vancouver Canucks Dallas Stars - Vancouver Canucks
-max_sport_2_hd,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-16 22:00:00,"ATP 250: Алмати, Казахстан","ATP 250: Almaty, Kazakhstan"
-max_sport_2_hd,2025-10-17,01:00,2025-10-16 22:00:00,2025-10-17 00:00:00,ATP 250: Брюксел Четвърти четвъртфинал,ATP 250: Brussels Fourth quarter-final
-max_sport_2_hd,2025-10-17,03:00,2025-10-17 00:00:00,2025-10-17 00:00:00,"ATP 250: Алмати, Казахстан","ATP 250: Almaty, Kazakhstan"
-max_sport_2_hd,2025-10-17,03:00,2025-10-17 00:00:00,2025-10-17 02:00:00,"ATP 250: Алмати, Казахстан","ATP 250: Almaty, Kazakhstan"
-max_sport_2_hd,2025-10-17,05:00,2025-10-17 02:00:00,2025-10-17 02:00:00,Trans World Sport,Trans World Sport
-max_sport_2_hd,2025-10-17,05:00,2025-10-17 02:00:00,2025-10-17 03:30:00,"ATP 250: Алмати, Казахстан","ATP 250: Almaty, Kazakhstan"
-max_sport_2_hd,2025-10-17,06:30,2025-10-17 03:30:00,2025-10-17 05:30:00,ATP 250: Брюксел,ATP 250: Brussels
-max_sport_2_hd,2025-10-17,08:30,2025-10-17 05:30:00,2025-10-17 07:30:00,ATP 250: Брюксел,ATP 250: Brussels
-max_sport_2_hd,2025-10-17,10:30,2025-10-17 07:30:00,2025-10-17 09:30:00,ATP 250: Брюксел,ATP 250: Brussels
-max_sport_2_hd,2025-10-17,12:30,2025-10-17 09:30:00,2025-10-17 11:30:00,ATP 250: Брюксел,ATP 250: Brussels
-max_sport_2_hd,2025-10-17,14:30,2025-10-17 11:30:00,2025-10-17 13:30:00,"ПРЯКО, ATP 250: Брюксел Първи четвъртфинал","LIVE, ATP 250: Brussels First quarter-final"
-max_sport_2_hd,2025-10-17,16:30,2025-10-17 13:30:00,2025-10-17 15:30:00,"ПРЯКО, ATP 250: Брюксел Втори четвъртфинал","LIVE, ATP 250: Brussels Second quarter-final"
-max_sport_2_hd,2025-10-17,18:30,2025-10-17 15:30:00,2025-10-17 16:30:00,Калчо мания Токшоу,Calcio mania Talkshow
-max_sport_2_hd,2025-10-17,19:30,2025-10-17 16:30:00,2025-10-17 17:00:00,УЕФА Шампионска лига Магазинно предаване,UEFA Champions League Shop show
-max_sport_2_hd,2025-10-17,20:00,2025-10-17 17:00:00,2025-10-17 17:30:00,Серия А: Преди кръга,Serie A: Before the round
-max_sport_2_hd,2025-10-17,20:30,2025-10-17 17:30:00,2025-10-17 19:30:00,"ПРЯКО, Евролига: Анадолу Ефес - Панатинайкос Анадолу Ефес - Панатинайкос","LIVE, Euroleague: Anadolu Efes - Panathinaikos Anadolu Efes - Panathinaikos"
-max_sport_2_hd,2025-10-17,22:30,2025-10-17 19:30:00,2025-10-17 20:00:00,УЕФА Шампионска лига Магазинно предаване,UEFA Champions League Shop show
-max_sport_2_hd,2025-10-17,23:00,2025-10-17 20:00:00,2025-10-17 21:00:00,ATP 250: Брюксел Трети четвъртфинал,ATP 250: Brussels Third quarter-final
-max_sport_3_hd,2025-10-17,00:00,2025-10-16 21:00:00,2025-10-16 21:15:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
-max_sport_3_hd,2025-10-17,00:15,2025-10-16 21:15:00,2025-10-16 21:30:00,Ла Лига 2: Кордоба - Културал Леонеса,La Liga 2: Córdoba - Cultural Leonesa
-max_sport_3_hd,2025-10-17,00:30,2025-10-16 21:30:00,2025-10-16 23:00:00,Ла Лига: Реал Мадрид - Виляреал,La Liga: Real Madrid - Villarreal
-max_sport_3_hd,2025-10-17,02:00,2025-10-16 23:00:00,2025-10-16 23:30:00,Ла Лига: Овиедо - Еспаньол,La Liga: Oviedo - Espanyol
-max_sport_3_hd,2025-10-17,02:30,2025-10-16 23:30:00,2025-10-17 01:00:00,Ла Лига: Жирона - Валенсия,La Liga: Girona - Valencia
-max_sport_3_hd,2025-10-17,04:00,2025-10-17 01:00:00,2025-10-17 05:30:00,Голф: DP World India Championship,Голф: DP World India Championship
-max_sport_3_hd,2025-10-17,08:30,2025-10-17 05:30:00,2025-10-17 06:30:00,LaLiga дневник Токшоу,LaLiga Diary Talk Show
-max_sport_3_hd,2025-10-17,09:30,2025-10-17 06:30:00,2025-10-17 11:30:00,"ПРЯКО, Голф: DP World India Championship","LIVE, Golf: DP World India Championship"
-max_sport_3_hd,2025-10-17,14:30,2025-10-17 11:30:00,2025-10-17 13:15:00,Мейджър Лийг Сокър: Остин ФК - Лос Анджелис ФК Остин ФК - Лос Анджелис ФК,Major League Soccer: Austin FC - Los Angeles FC Austin FC - Los Angeles FC
-max_sport_3_hd,2025-10-17,16:15,2025-10-17 13:15:00,2025-10-17 15:00:00,Ла Лига: Севиля - Барселона,La Liga: Sevilla - Barcelona
-max_sport_3_hd,2025-10-17,18:00,2025-10-17 15:00:00,2025-10-17 17:00:00,Ла Лига: Реал Мадрид - Виляреал,La Liga: Real Madrid - Villarreal
-max_sport_3_hd,2025-10-17,20:00,2025-10-17 17:00:00,2025-10-17 18:00:00,"ПРЯКО, Пред Стадиона - спортно шоу Пред Стадиона - спортно шоу","LIVE, In front of the Stadium - sports show In front of the Stadium - sports show"
-max_sport_3_hd,2025-10-17,21:00,2025-10-17 18:00:00,2025-10-17 18:30:00,Trans World Sport,Trans World Sport
-max_sport_3_hd,2025-10-17,21:30,2025-10-17 18:30:00,2025-10-17 19:00:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
-max_sport_3_hd,2025-10-17,22:00,2025-10-17 19:00:00,2025-10-17 20:00:00,"ПРЯКО, Ла Лига: Овиедо - Еспаньол","LIVE, La Liga: Oviedo - Espanyol"
 max_sport_4_hd,2025-10-18,00:20,2025-10-17 21:20:00,2025-10-17 22:25:00,FIA Extreme H Световна купа,FIA Extreme H World Cup
 max_sport_4_hd,2025-10-18,01:25,2025-10-17 22:25:00,2025-10-17 22:35:00,Спортни новини,Sports news
 max_sport_4_hd,2025-10-18,01:35,2025-10-17 22:35:00,2025-10-17 23:20:00,Автомобилизъм: GT World Challenge Europe - състезание за издръжливост,Motoring: GT World Challenge Europe - an endurance race
@@ -233,8 +32,7 @@ max_sport_4_hd,2025-10-18,21:50,2025-10-18 18:50:00,2025-10-18 19:00:00,Спор
 max_sport_4_hd,2025-10-18,22:00,2025-10-18 19:00:00,2025-10-18 20:00:00,Имението Хауърдс Енд,Howards End Estate
 bnt_3,2025-10-18,00:00,2025-10-17 21:00:00,2025-10-17 22:00:00,Бойни вечери,Battle nights
 bnt_3,2025-10-18,01:00,2025-10-17 22:00:00,2025-10-17 23:00:00,УЕФА Шампионска лига / УЕФА Лига Европа / Лига на конференциите /п./,UEFA Champions League / UEFA Europa League / Conference League /p./
-bnt_3,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-18 03:00:00,УЕФА Шампионска лига / УЕФА Лига Европа / Лига на конференциите /п./,UEFA Champions League / UEFA Europa League / Conference League /p./
-bnt_3,2025-10-18,06:00,2025-10-18 03:00:00,2025-10-18 05:00:00,Великите спортни постижения през последния век - документална поредица,The great sporting achievements of the last century - a documentary series
+bnt_3,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-18 05:00:00,УЕФА Шампионска лига / УЕФА Лига Европа / Лига на конференциите /п./,UEFA Champions League / UEFA Europa League / Conference League /p./
 bnt_3,2025-10-18,08:00,2025-10-18 05:00:00,2025-10-18 07:00:00,УЕФА Лига Европа: Селта - ПАОК,UEFA Europa League: Celta v PAOK
 bnt_3,2025-10-18,10:00,2025-10-18 07:00:00,2025-10-18 09:00:00,УЕФА Лига Европа: Нотингам - Мидтиланд,UEFA Europa League: Nottingham - Midtjylland
 bnt_3,2025-10-18,12:00,2025-10-18 09:00:00,2025-10-18 11:00:00,УЕФА Лига Европа: Лудогорец - Бетис,UEFA Europa League: Ludogorets - Betis
@@ -266,8 +64,7 @@ nova_sport,2025-10-18,01:00,2025-10-17 22:00:00,2025-10-17 23:30:00,"Снукъ�
 nova_sport,2025-10-18,02:30,2025-10-17 23:30:00,2025-10-17 23:30:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
 nova_sport,2025-10-18,02:30,2025-10-17 23:30:00,2025-10-18 01:00:00,"Колоездене: Обиколка на Холандия, четвърти етап, мъже, повторение","Cycling: Tour of Holland, stage four, men, replay"
 nova_sport,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 01:00:00,"Снукър: Турнир на Си-ан, финал, повторение","Snooker: Xi'an tournament, final, replay"
-nova_sport,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 02:55:00,"Лека атлетика: Маратон на Чикаго, повторение","Athletics: Chicago Marathon, repeat"
-nova_sport,2025-10-18,05:55,2025-10-18 02:55:00,2025-10-18 08:25:00,"Триатлон: PTO Тур в Уолонгонг, директно","Triathlon: PTO Tour to Walongong, direct"
+nova_sport,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 08:25:00,"Лека атлетика: Маратон на Чикаго, повторение","Athletics: Chicago Marathon, repeat"
 nova_sport,2025-10-18,11:25,2025-10-18 08:25:00,2025-10-18 10:00:00,"Снукър: Турнир на Си-ан, финал, повторение","Snooker: Xi'an tournament, final, replay"
 nova_sport,2025-10-18,13:00,2025-10-18 10:00:00,2025-10-18 11:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
 nova_sport,2025-10-18,14:00,2025-10-18 11:00:00,2025-10-18 11:50:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
@@ -285,8 +82,7 @@ eurosport_1,2025-10-18,02:30,2025-10-17 23:30:00,2025-10-18 01:00:00,"Снукъ
 eurosport_1,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 01:00:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
 eurosport_1,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 02:00:00,"Колоездене: Обиколка на Холандия, четвърти етап, мъже, повторение","Cycling: Tour of Holland, stage four, men, replay"
 eurosport_1,2025-10-18,05:00,2025-10-18 02:00:00,2025-10-18 02:30:00,"Маунтинбайк: Световна купа в Монт Сент Ан, спускане, мъже, повторение",Mountain Bike: Mont Saint Anne World Cup Downhill Men's Repeat
-eurosport_1,2025-10-18,05:30,2025-10-18 02:30:00,2025-10-18 03:00:00,"Снукър: Турнир на Си-ан, финал, повторение","Snooker: Xi'an tournament, final, replay"
-eurosport_1,2025-10-18,06:00,2025-10-18 03:00:00,2025-10-18 04:30:00,"Снукър: Инглиш оупън, финал, повторение","Snooker: English Open, final, replay"
+eurosport_1,2025-10-18,05:30,2025-10-18 02:30:00,2025-10-18 04:30:00,"Снукър: Турнир на Си-ан, финал, повторение","Snooker: Xi'an tournament, final, replay"
 eurosport_1,2025-10-18,07:30,2025-10-18 04:30:00,2025-10-18 05:30:00,"Колоездене: Париж тур, мъже, повторение","Cycling: Paris Tour, men, repeat"
 eurosport_1,2025-10-18,08:30,2025-10-18 05:30:00,2025-10-18 06:30:00,"Колоездене: Обиколка на Холандия, трети етап, мъже, повторение","Cycling: Tour of the Netherlands, third stage, men, repeat"
 eurosport_1,2025-10-18,09:30,2025-10-18 06:30:00,2025-10-18 08:30:00,"Снукър: Инглиш оупън, финал, повторение","Snooker: English Open, final, replay"
@@ -343,8 +139,7 @@ diema_sport_2,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-17 23:50:00,Trans Wor
 diema_sport_2,2025-10-18,02:50,2025-10-17 23:50:00,2025-10-17 23:50:00,"ПРЯКО, Moto GP: Квалификация за Голямата награда на Австралия Квалификация за Голямата награда на Австралия",LIVE Moto GP: Australian Grand Prix Qualifying Australian Grand Prix Qualifying
 diema_sport_2,2025-10-18,02:50,2025-10-17 23:50:00,2025-10-18 00:40:00,"ПРЯКО, Moto 3: Състезание за Голямата награда на Австралия Състезание за Голямата награда на Австралия",LIVE Moto 3: Australian Grand Prix Australian Grand Prix
 diema_sport_2,2025-10-18,03:40,2025-10-18 00:40:00,2025-10-18 01:15:00,Nascar Cup Series: Обзор на състезанието в Лас Вегас Обзор на състезанието в Лас Вегас,Nascar Cup Series: Las Vegas Race Overview Las Vegas Race Overview
-diema_sport_2,2025-10-18,04:15,2025-10-18 01:15:00,2025-10-18 01:40:00,"ПРЯКО, Moto 2: Състезание за Голямата награда на Австралия Състезание за Голямата награда на Австралия",LIVE Moto 2: Australian Grand Prix Australian Grand Prix
-diema_sport_2,2025-10-18,04:40,2025-10-18 01:40:00,2025-10-18 03:30:00,"ПРЯКО, Moto 3, Moto 2: Квалификация за Голямата награда на Австралия Квалификация за Голямата награда на Австралия",LIVE Moto 3 Moto 2: Australian Grand Prix Qualifying Australian Grand Prix Qualifying
+diema_sport_2,2025-10-18,04:15,2025-10-18 01:15:00,2025-10-18 03:30:00,"ПРЯКО, Moto 2: Състезание за Голямата награда на Австралия Състезание за Голямата награда на Австралия",LIVE Moto 2: Australian Grand Prix Australian Grand Prix
 diema_sport_2,2025-10-18,06:30,2025-10-18 03:30:00,2025-10-18 04:00:00,Голф: Spanish Open Обзор на турнира,Golf: Spanish Open Tournament overview
 diema_sport_2,2025-10-18,07:00,2025-10-18 04:00:00,2025-10-18 05:00:00,"ПРЯКО, Moto GP: Спринт за Голямата награда на Австралия Спринт за Голямата награда на Австралия",LIVE Moto GP: Australian Grand Prix Sprint Australian Grand Prix Sprint
 diema_sport_2,2025-10-18,08:00,2025-10-18 05:00:00,2025-10-18 06:00:00,Зона волей Токшоу,Zone Volley Talkshow
@@ -361,8 +156,7 @@ diema_sport_2,2025-10-18,23:00,2025-10-18 20:00:00,2025-10-18 21:00:00,"ATP 250:
 max_sport_1_hd,2025-10-18,01:30,2025-10-17 22:30:00,2025-10-17 22:30:00,Евролига: Анадолу Ефес - Панатинайкос Анадолу Ефес - Панатинайкос,Euroleague: Anadolu Efes - Panathinaikos Anadolu Efes - Panathinaikos
 max_sport_1_hd,2025-10-18,01:30,2025-10-17 22:30:00,2025-10-17 23:00:00,Trans World Sport,Trans World Sport
 max_sport_1_hd,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-18 00:30:00,"ПРЯКО, UFC Fight Night: де Ридер срещу Алън Рейнир де Ридер срещу Брендън Алън","LIVE, UFC Fight Night: de Ridder vs. Allen Rainier de Ridder vs. Brendan Allen"
-max_sport_1_hd,2025-10-18,03:30,2025-10-18 00:30:00,2025-10-18 01:00:00,NFL: Обзор 6 кръг Обзор 6 кръг,NFL: Round 6 Overview Round 6 Overview
-max_sport_1_hd,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 02:00:00,"ПРЯКО, NHL: Юта Мамът - Сан Хосе Шаркс Юта Мамът - Сан Хосе Шаркс","LIVE, NHL: Utah Mammoth - San Jose Sharks Utah Mammoth - San Jose Sharks"
+max_sport_1_hd,2025-10-18,03:30,2025-10-18 00:30:00,2025-10-18 02:00:00,NFL: Обзор 6 кръг Обзор 6 кръг,NFL: Round 6 Overview Round 6 Overview
 max_sport_1_hd,2025-10-18,05:00,2025-10-18 02:00:00,2025-10-18 04:00:00,Волейбол - Суперкупа'25: Берое - Левски Първи полуфинал,Volleyball - Supercup 25: Beroe - Levski First semi-final
 max_sport_1_hd,2025-10-18,07:00,2025-10-18 04:00:00,2025-10-18 06:00:00,Еврокупа: Бешикташ - Кемниц Бешикташ - Кемниц,Eurocup: Besiktas - Kemnitz Besiktas - Kemnitz
 max_sport_1_hd,2025-10-18,09:00,2025-10-18 06:00:00,2025-10-18 08:30:00,Sesame Национална баскетболна лига: Миньор - Академик Миньор - Академик,Sesame National Basketball League: Miner - Academic Miner - Academic
@@ -382,8 +176,7 @@ max_sport_2_hd,2025-10-18,00:00,2025-10-17 21:00:00,2025-10-17 22:00:00,ATP 250:
 max_sport_2_hd,2025-10-18,01:00,2025-10-17 22:00:00,2025-10-17 23:00:00,ATP 250: Брюксел Четвърти четвъртфинал,ATP 250: Brussels Fourth quarter-final
 max_sport_2_hd,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-18 00:00:00,ATP 250: Брюксел Втори полуфинал,ATP 250: Brussels Second Semi-Final
 max_sport_2_hd,2025-10-18,03:00,2025-10-18 00:00:00,2025-10-18 01:00:00,"ATP 250: Алмати, Казахстан","ATP 250: Almaty, Kazakhstan"
-max_sport_2_hd,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 02:00:00,Серия А: Торино - Наполи,Serie A: Torino - Napoli
-max_sport_2_hd,2025-10-18,05:00,2025-10-18 02:00:00,2025-10-18 04:00:00,"ATP 250: Алмати, Казахстан","ATP 250: Almaty, Kazakhstan"
+max_sport_2_hd,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 04:00:00,Серия А: Торино - Наполи,Serie A: Torino - Napoli
 max_sport_2_hd,2025-10-18,07:00,2025-10-18 04:00:00,2025-10-18 04:30:00,Серия А: Преди кръга,Serie A: Before the round
 max_sport_2_hd,2025-10-18,07:30,2025-10-18 04:30:00,2025-10-18 06:30:00,ATP 250: Брюксел Първи четвъртфинал,ATP 250: Brussels First quarter-final
 max_sport_2_hd,2025-10-18,09:30,2025-10-18 06:30:00,2025-10-18 08:30:00,ATP 250: Брюксел Втори четвъртфинал,ATP 250: Brussels Second quarter-final
@@ -403,7 +196,6 @@ max_sport_3_hd,2025-10-18,00:15,2025-10-17 21:15:00,2025-10-17 21:15:00,Ла Л�
 max_sport_3_hd,2025-10-18,00:15,2025-10-17 21:15:00,2025-10-17 23:00:00,Ла Лига: Севиля - Майорка,La Liga: Sevilla - Mallorca
 max_sport_3_hd,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-17 23:00:00,Ла Лига: Овиедо - Еспаньол,La Liga: Oviedo - Espanyol
 max_sport_3_hd,2025-10-18,02:00,2025-10-17 23:00:00,2025-10-18 01:00:00,Ла Лига: Барселона - Жирона,La Liga: Barcelona - Girona
-max_sport_3_hd,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 01:00:00,Голф: DP World India Championship,Голф: DP World India Championship
 max_sport_3_hd,2025-10-18,04:00,2025-10-18 01:00:00,2025-10-18 05:00:00,Голф: DP World India Championship,Голф: DP World India Championship
 max_sport_3_hd,2025-10-18,08:00,2025-10-18 05:00:00,2025-10-18 05:30:00,Trans World Sport,Trans World Sport
 max_sport_3_hd,2025-10-18,08:30,2025-10-18 05:30:00,2025-10-18 06:30:00,Пред Стадиона - спортно шоу Пред Стадиона - спортно шоу,In front of the Stadium - sports show In front of the Stadium - sports show
@@ -666,7 +458,7 @@ bnt_3,2025-10-20,10:00,2025-10-20 07:00:00,2025-10-20 09:00:00,УЕФА Шамп
 bnt_3,2025-10-20,12:00,2025-10-20 09:00:00,2025-10-20 11:00:00,"Нидерландия, Ередивизии: ПСВ Айндховен - Гоу Ахед Ийгълс, 9.кр","Netherlands, Eredivisie: PSV Eindhoven - Go Ahed Iigls, 9.kr"
 bnt_3,2025-10-20,14:00,2025-10-20 11:00:00,2025-10-20 13:00:00,"Нидерландия, Ередивизии: Аякс - АЗ Алкмаар, 9.кр","Netherlands, Eredivisie: Ajax - AZ Alkmaar, 9.kr"
 bnt_3,2025-10-20,16:00,2025-10-20 13:00:00,2025-10-20 15:00:00,"Нидерландия, Ередивизии: Хераклес - Фейенорд,9.кр","Netherlands, Eredivisie: Heracles - Feyenoord, 9.kr"
-bnt_3,2025-10-20,18:00,2025-10-20 15:00:00,2025-10-20 17:00:00,"Шотландия, Висша лига: Дънди - Селтик, 8.кр","Scotland, Premier League: Dundee - Celtic, 8.cr"
+bnt_3,2025-10-20,18:00,2025-10-20 15:00:00,2025-10-20 17:00:00,"Шотландия, Висша лига: Дънди - Селтик, 8.кр","Scotland, Premier League: Dundee - Celtic, 8.kr"
 bnt_3,2025-10-20,20:00,2025-10-20 17:00:00,2025-10-20 17:30:00,"Шотландия, Висша лига - обзор 8.кр","Scotland, Premier League - overview 8.cr"
 bnt_3,2025-10-20,20:30,2025-10-20 17:30:00,2025-10-20 18:30:00,УЕФА Лига Европа / Лига на конференциите - магазинно предаване,UEFA Europa League / Conference League - shop broadcast
 bnt_3,2025-10-20,21:30,2025-10-20 18:30:00,2025-10-20 19:00:00,УЕФА Шампионска лига - магазинно предаване,UEFA Champions League - shop show
@@ -1047,7 +839,10 @@ max_sport_4_hd,2025-10-22,21:00,2025-10-22 18:00:00,2025-10-22 18:50:00,Забр
 max_sport_4_hd,2025-10-22,21:50,2025-10-22 18:50:00,2025-10-22 19:00:00,Спортни новини,Sports news
 max_sport_4_hd,2025-10-22,22:00,2025-10-22 19:00:00,2025-10-22 19:50:00,Забравени от Бога 3,Forgotten by God 3
 max_sport_4_hd,2025-10-22,22:50,2025-10-22 19:50:00,2025-10-22 20:50:00,Тенис: Среща от финалите на световния тенис тур за юноши,Tennis: Match of the finals of the World Junior Tennis Tour
-bnt_3,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-22 03:00:00,"Португалия, Примейра лига /п./","Portugal, Primeira Liga /p./"
+bnt_3,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 22:00:00,УЕФА Шампионска лига: Челси - Аякс,UEFA Champions League: Chelsea - Ajax
+bnt_3,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,"Португалия, Примейра лига /п./","Portugal, Primeira Liga /p./"
+bnt_3,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-22 01:00:00,УЕФА Шампионска лига: Атлетик Билбао - Карабах,UEFA Champions League: Athletic Bilbao - Qarabag
+bnt_3,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 03:00:00,УЕФА Шампионска лига: Реал Мадрид - Ювентус,UEFA Champions League: Real Madrid - Juventus
 bnt_3,2025-10-22,06:00,2025-10-22 03:00:00,2025-10-22 05:00:00,Великите спортни постижения през последния век - документална поредица,The great sporting achievements of the last century - a documentary series
 bnt_3,2025-10-22,08:00,2025-10-22 05:00:00,2025-10-22 07:00:00,УЕФА Лига Европа / Лига на конференциите - обзори,UEFA Europa League / Conference League - overviews
 bnt_3,2025-10-22,10:00,2025-10-22 07:00:00,2025-10-22 09:00:00,УЕФА Лига Европа: Селта - ПАОК,UEFA Europa League: Celta v PAOK
@@ -1075,11 +870,15 @@ ring,2025-10-22,19:00,2025-10-22 16:00:00,2025-10-22 17:55:00,Ал Ахли - А
 ring,2025-10-22,20:55,2025-10-22 17:55:00,2025-10-22 18:15:00,Новини,News
 ring,2025-10-22,21:15,2025-10-22 18:15:00,2025-10-22 20:15:00,Мухарак - Ал Уасъл,Muharraq - Al Wasl
 ring,2025-10-22,23:15,2025-10-22 20:15:00,2025-10-22 21:15:00,Ал Хилал - Ал Сад,Al Hilal - Al Sadd
-nova_sport,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
+nova_sport,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 22:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
+nova_sport,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, директно","Track Cycling: World Championships in Santiago de Chile, live"
 nova_sport,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-21 23:30:00,"Колоездене: Тур дьо Франс, етап 21, мъже, повторение",Cycling: Tour de France stage 21 men's replay
-nova_sport,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-22 01:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
-nova_sport,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 02:00:00,"Колоездене: Тур дьо Франс, етап 21, мъже, повторение",Cycling: Tour de France stage 21 men's replay
-nova_sport,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 03:00:00,"Колоездене: Тур дьо Франс, девети етап, жени, повторение",Cycling: Tour de France stage nine women replay
+nova_sport,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-21 23:40:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+nova_sport,2025-10-22,02:40,2025-10-21 23:40:00,2025-10-22 01:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+nova_sport,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 01:00:00,"Колоездене: Тур дьо Франс, етап 21, мъже, повторение",Cycling: Tour de France stage 21 men's replay
+nova_sport,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 02:00:00,"Колоездене: Световно първенство в Кигали, жени, часовник, повторение",Cycling: Kigali World Championships Women's Clock Repeat
+nova_sport,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 02:00:00,"Колоездене: Тур дьо Франс, девети етап, жени, повторение",Cycling: Tour de France stage nine women replay
+nova_sport,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 03:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
 nova_sport,2025-10-22,06:00,2025-10-22 03:00:00,2025-10-22 05:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
 nova_sport,2025-10-22,08:00,2025-10-22 05:00:00,2025-10-22 06:30:00,"Ски алпийски дисциплини: Световен шампионат в Заалбах Хинтерглем, спускане, мъже, повторение",Alpine Skiing: Saalbach Hinterglemm World Championships Downhill Men's Repeat
 nova_sport,2025-10-22,09:30,2025-10-22 06:30:00,2025-10-22 08:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
@@ -1091,9 +890,13 @@ nova_sport,2025-10-22,15:00,2025-10-22 12:00:00,2025-10-22 16:00:00,"Снукъ�
 nova_sport,2025-10-22,19:00,2025-10-22 16:00:00,2025-10-22 17:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
 nova_sport,2025-10-22,20:00,2025-10-22 17:00:00,2025-10-22 18:00:00,"Конен спорт: Световна купа в Осло, прескачане на препятствия, обзор",Equestrian: Oslo World Cup Show Jumping Overview
 nova_sport,2025-10-22,21:00,2025-10-22 18:00:00,2025-10-22 19:00:00,"Снукър: Северна Ирландия оупън, втори кръг, директно","Snooker: Northern Ireland Open, second round, direct"
+eurosport_1,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 22:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
+eurosport_1,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 22:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
 eurosport_1,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:30:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
-eurosport_1,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-22 00:15:00,"Колоездене: Тур дьо Франс, етап 21, мъже, повторение",Cycling: Tour de France stage 21 men's replay
+eurosport_1,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-21 23:30:00,"Колоездене: Тур дьо Франс, етап 21, мъже, повторение",Cycling: Tour de France stage 21 men's replay
+eurosport_1,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-22 00:15:00,"Колоездене: Световно първенство в Кигали, жени, часовник, повторение",Cycling: Kigali World Championships Women's Clock Repeat
 eurosport_1,2025-10-22,03:15,2025-10-22 00:15:00,2025-10-22 01:00:00,"Колоездене: Тур дьо Франс, девети етап, жени, повторение",Cycling: Tour de France stage nine women replay
+eurosport_1,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 01:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
 eurosport_1,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 03:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
 eurosport_1,2025-10-22,06:00,2025-10-22 03:00:00,2025-10-22 04:00:00,"Колоездене: Тур дьо Франс, етап 21, мъже, повторение",Cycling: Tour de France stage 21 men's replay
 eurosport_1,2025-10-22,07:00,2025-10-22 04:00:00,2025-10-22 05:00:00,"Колоездене: Тур дьо Франс, девети етап, жени, повторение",Cycling: Tour de France stage nine women replay
@@ -1142,12 +945,12 @@ diema_sport,2025-10-22,17:00,2025-10-22 14:00:00,2025-10-22 16:30:00,Оклах�
 diema_sport,2025-10-22,19:30,2025-10-22 16:30:00,2025-10-22 17:00:00,Истории от Висшата лига,Stories from the Premier League
 diema_sport,2025-10-22,20:00,2025-10-22 17:00:00,2025-10-22 19:00:00,Тотнъм Хотспър - Астън Вила,Tottenham Hotspur - Aston Villa
 diema_sport,2025-10-22,22:00,2025-10-22 19:00:00,2025-10-22 20:00:00,Шефилд Уензди - Мидълзбро,Sheffield Wednesday - Middlesbrough
-diema_sport_2,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 21:30:00,ATP 500: Виена,ATP 500: Vienna
-diema_sport_2,2025-10-22,00:30,2025-10-21 21:30:00,2025-10-21 23:00:00,ATP 500: Базел,ATP 500: Basel
-diema_sport_2,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-21 23:30:00,ATP 500: Базел,ATP 500: Basel
-diema_sport_2,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-22 01:00:00,ATP 500: Базел,ATP 500: Basel
-diema_sport_2,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 01:30:00,ATP 500: Базел,ATP 500: Basel
-diema_sport_2,2025-10-22,04:30,2025-10-22 01:30:00,2025-10-22 03:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 22:00:00,ATP 500: Виена,ATP 500: Vienna
+diema_sport_2,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-22 00:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 01:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 02:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 03:00:00,ATP 500: Базел,ATP 500: Basel
 diema_sport_2,2025-10-22,06:00,2025-10-22 03:00:00,2025-10-22 03:30:00,Trans World Sport,Trans World Sport
 diema_sport_2,2025-10-22,06:30,2025-10-22 03:30:00,2025-10-22 05:30:00,ATP 500: Виена,ATP 500: Vienna
 diema_sport_2,2025-10-22,08:30,2025-10-22 05:30:00,2025-10-22 07:30:00,ATP 500: Виена,ATP 500: Vienna
@@ -1159,11 +962,14 @@ diema_sport_2,2025-10-22,18:30,2025-10-22 15:30:00,2025-10-22 17:30:00,"ПРЯК
 diema_sport_2,2025-10-22,20:30,2025-10-22 17:30:00,2025-10-22 18:15:00,Trans World Sport,Trans World Sport
 diema_sport_2,2025-10-22,21:15,2025-10-22 18:15:00,2025-10-22 20:15:00,"ПРЯКО, ATP 500: Виена","LIVE, ATP 500: Vienna"
 diema_sport_2,2025-10-22,23:15,2025-10-22 20:15:00,2025-10-22 21:15:00,Евролига: Макаби Тел Авив - Реал Мадрид Макаби Тел Авив - Реал Мадрид,Euroleague: Maccabi Tel Aviv - Real Madrid Maccabi Tel Aviv - Real Madrid
-max_sport_1_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 21:30:00,NHL: Ню Йорк Рейнджърс - Минесота Уайлд Ню Йорк Рейнджърс - Минесота Уайлд,NHL: New York Rangers - Minnesota Wild New York Rangers - Minnesota Wild
-max_sport_1_hd,2025-10-22,00:30,2025-10-21 21:30:00,2025-10-21 23:00:00,Nascar Cup Series: Състезание в Алабама Състезание в Алабама,Nascar Cup Series: Race in Alabama Race in Alabama
-max_sport_1_hd,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-22 01:30:00,"ПРЯКО, NHL: Отава Сенатърс - Едмънтън Ойлърс Отава Сенатърс - Едмънтън Ойлърс","LIVE, NHL: Ottawa Senators - Edmonton Oilers Ottawa Senators - Edmonton Oilers"
-max_sport_1_hd,2025-10-22,04:30,2025-10-22 01:30:00,2025-10-22 02:00:00,Moto GP: Обзор на състезанието за Голямата награда на Австралия Обзор на състезанието за Голямата награда на Австралия,Moto GP: Australian Grand Prix Race Overview Australian Grand Prix Race Overview
-max_sport_1_hd,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 05:00:00,NFL:,NFL:
+max_sport_1_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 22:00:00,NHL: Ню Йорк Рейнджърс - Минесота Уайлд Ню Йорк Рейнджърс - Минесота Уайлд,NHL: New York Rangers - Minnesota Wild New York Rangers - Minnesota Wild
+max_sport_1_hd,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,Световен рали шампионат: Състезание в Централна Европа SS2 Golf und Therme 2,World Rally Championship: SS2 Golf und Therme 2 Central European Race
+max_sport_1_hd,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-21 23:00:00,"ПРЯКО, NHL: Отава Сенатърс - Едмънтън Ойлърс Отава Сенатърс - Едмънтън Ойлърс","LIVE, NHL: Ottawa Senators - Edmonton Oilers Ottawa Senators - Edmonton Oilers"
+max_sport_1_hd,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-22 00:00:00,Световен рали шампионат: Състезание в Централна Европа SS10 Keply 1,World Rally Championship: Race in Central Europe SS10 Keply 1
+max_sport_1_hd,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 01:00:00,Световен рали шампионат: Състезание в Централна Европа SS12 Keply 2,World Rally Championship: Race in Central Europe SS12 Keply 2
+max_sport_1_hd,2025-10-22,04:00,2025-10-22 01:00:00,2025-10-22 02:00:00,Световен рали шампионат: Състезание в Централна Европа SS16 Muhltal 1,World Rally Championship: Race in Central Europe SS16 Muhltal 1
+max_sport_1_hd,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 02:00:00,NFL:,NFL:
+max_sport_1_hd,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 05:00:00,Световен рали шампионат: Състезание в Централна Европа SS18 Muhltal 2 WOLF PS,World Rally Championship: Race in Central Europe SS18 Muhltal 2 WOLF PS
 max_sport_1_hd,2025-10-22,08:00,2025-10-22 05:00:00,2025-10-22 09:00:00,Голф: DP World India Championship,Голф: DP World India Championship
 max_sport_1_hd,2025-10-22,12:00,2025-10-22 09:00:00,2025-10-22 11:00:00,NHL: Отава Сенатърс - Едмънтън Ойлърс Отава Сенатърс - Едмънтън Ойлърс,NHL: Ottawa Senators - Edmonton Oilers Ottawa Senators - Edmonton Oilers
 max_sport_1_hd,2025-10-22,14:00,2025-10-22 11:00:00,2025-10-22 13:30:00,Sesame Национална баскетболна лига: Рилски Спортист - Черно море Рилски Спортист - Черно море,Sesame National Basketball League: Rila Athlete - Black Sea Rila Athlete - Black Sea
@@ -1175,14 +981,14 @@ max_sport_1_hd,2025-10-22,19:30,2025-10-22 16:30:00,2025-10-22 17:00:00,"ПРЯ�
 max_sport_1_hd,2025-10-22,20:00,2025-10-22 17:00:00,2025-10-22 18:50:00,"ПРЯКО, Еврокупа: Кемниц - Лондон Лайънс Кемниц - Лондон Лайънс","LIVE, Eurocup: Chemnitz - London Lions Chemnitz - London Lions"
 max_sport_1_hd,2025-10-22,21:50,2025-10-22 18:50:00,2025-10-22 19:00:00,"ПРЯКО, Студио Баскетбол","LIVE, Studio Basketball"
 max_sport_1_hd,2025-10-22,22:00,2025-10-22 19:00:00,2025-10-22 20:00:00,UFC Fight Night: де Ридер срещу Алън Рейнир де Ридер срещу Брендън Алън,UFC Fight Night: de Ridder vs. Allen Rainier de Ridder vs. Brendan Allen
-max_sport_2_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 21:20:00,Trans World Sport,Trans World Sport
-max_sport_2_hd,2025-10-22,00:20,2025-10-21 21:20:00,2025-10-21 21:25:00,"ПРЯКО, УЕФА Шампионска лига: Обзор на кръга Обзор на кръга",LIVE UEFA Champions League: Round of 16 Round of 16
-max_sport_2_hd,2025-10-22,00:25,2025-10-21 21:25:00,2025-10-21 22:00:00,"ПРЯКО, УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга","LIVE, UEFA Europa League and Conference League: Round Round Round Round Round Round Up"
-max_sport_2_hd,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 22:30:00,УЕФА Шампионска лига: Байер Леверкузен - Пари Сен Жермен Трети кръг,UEFA Champions League: Bayer Leverkusen - Paris Saint-Germain Third round
-max_sport_2_hd,2025-10-22,01:30,2025-10-21 22:30:00,2025-10-22 00:00:00,ATP 500: Базел,ATP 500: Basel
-max_sport_2_hd,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 00:30:00,Саудитска Професионална Лига: Ал Насър - Ал Фатех Ал Насър - Ал Фатех,Saudi Professional League: Al Nasser - Al Fateh Al Nasser - Al Fateh
-max_sport_2_hd,2025-10-22,03:30,2025-10-22 00:30:00,2025-10-22 02:00:00,Серия А: Рома - Интер,Serie A: Roma - Inter
-max_sport_2_hd,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 03:00:00,Калчо мания Токшоу,Calcio mania Talkshow
+max_sport_2_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 21:20:00,УЕФА Шампионска лига Обзор на кръга,UEFA Champions League Round Overview
+max_sport_2_hd,2025-10-22,00:20,2025-10-21 21:20:00,2025-10-21 22:00:00,"ПРЯКО, УЕФА Шампионска лига: Обзор на кръга Обзор на кръга",LIVE UEFA Champions League: Round of 16 Round of 16
+max_sport_2_hd,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 22:00:00,УЕФА Шампионска лига: Байер Леверкузен - Пари Сен Жермен Трети кръг,UEFA Champions League: Bayer Leverkusen - Paris Saint-Germain Third round
+max_sport_2_hd,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-22 00:00:00,УЕФА Шампионска лига: Кайрат - Пафос Трети кръг,UEFA Champions League: Kairat - Paphos Third round
+max_sport_2_hd,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 00:00:00,Саудитска Професионална Лига: Ал Насър - Ал Фатех Ал Насър - Ал Фатех,Saudi Professional League: Al Nasser - Al Fateh Al Nasser - Al Fateh
+max_sport_2_hd,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 02:00:00,УЕФА Младежка Шампионска лига: Арсенал - Атлетик Билбао Арсенал - Атлетик Билбао,UEFA Youth Champions League: Arsenal - Athletic Bilbao Arsenal - Athletic Bilbao
+max_sport_2_hd,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 02:00:00,Калчо мания Токшоу,Calcio mania Talkshow
+max_sport_2_hd,2025-10-22,05:00,2025-10-22 02:00:00,2025-10-22 03:00:00,УЕФА Шампионска лига Обзор на кръга,UEFA Champions League Round Overview
 max_sport_2_hd,2025-10-22,06:00,2025-10-22 03:00:00,2025-10-22 05:00:00,Серия А: Милан - Фиорентина,Serie A: Milan - Fiorentina
 max_sport_2_hd,2025-10-22,08:00,2025-10-22 05:00:00,2025-10-22 07:00:00,Серия А: Комо - Ювентус,Serie A: Como - Juventus
 max_sport_2_hd,2025-10-22,10:00,2025-10-22 07:00:00,2025-10-22 08:00:00,Калчо мания Токшоу,Calcio mania Talkshow
@@ -1193,14 +999,13 @@ max_sport_2_hd,2025-10-22,17:00,2025-10-22 14:00:00,2025-10-22 16:00:00,"ПРЯ�
 max_sport_2_hd,2025-10-22,19:00,2025-10-22 16:00:00,2025-10-22 18:00:00,"ПРЯКО, ATP 500: Базел","LIVE, ATP 500: Basel"
 max_sport_2_hd,2025-10-22,21:00,2025-10-22 18:00:00,2025-10-22 20:00:00,"ПРЯКО, ATP 500: Базел","LIVE, ATP 500: Basel"
 max_sport_2_hd,2025-10-22,23:00,2025-10-22 20:00:00,2025-10-22 21:00:00,Серия А: Обзор 7 кръг Обзор 7 кръг,Series A: Round 7 Overview Round 7 Overview
-max_sport_3_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 21:00:00,Мейджър Лийг Сокър:,Major League Soccer:
-max_sport_3_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 22:00:00,УЕФА Шампионска лига Обзор на кръга,UEFA Champions League Round Overview
-max_sport_3_hd,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,"ПРЯКО, Копа Судамерикана: Универсидад Чили - Ланус Полуфинал",LIVE Copa Sudamericana: Universidad Chile - Lanus Semi-Final
+max_sport_3_hd,2025-10-22,00:00,2025-10-21 21:00:00,2025-10-21 22:00:00,Мейджър Лийг Сокър:,Major League Soccer:
+max_sport_3_hd,2025-10-22,01:00,2025-10-21 22:00:00,2025-10-21 23:00:00,Ла Лига: Хетафе - Реал Мадрид,La Liga: Getafe - Real Madrid
 max_sport_3_hd,2025-10-22,02:00,2025-10-21 23:00:00,2025-10-21 23:30:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
 max_sport_3_hd,2025-10-22,02:30,2025-10-21 23:30:00,2025-10-22 00:00:00,LaLiga дневник Токшоу,LaLiga Diary Talk Show
-max_sport_3_hd,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 00:30:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
+max_sport_3_hd,2025-10-22,03:00,2025-10-22 00:00:00,2025-10-22 00:30:00,Trans World Sport,Trans World Sport
 max_sport_3_hd,2025-10-22,03:30,2025-10-22 00:30:00,2025-10-22 00:30:00,"ПРЯКО, Копа Судамерикана: Индепендиенте дел Вале - Атлетико Минейро Полуфинал","LIVE, Copa Sudamericana: Independiente del Valle - Atlético Mineiro Semi-Final"
-max_sport_3_hd,2025-10-22,03:30,2025-10-22 00:30:00,2025-10-22 02:30:00,"ПРЯКО, Копа Либертадорес: Лига де Кито - Палмейрас Полуфинал",LIVE Copa Libertadores: Liga de Quito v Palmeiras Semi-Final
+max_sport_3_hd,2025-10-22,03:30,2025-10-22 00:30:00,2025-10-22 02:30:00,"ПРЯКО, Копа Либертадорес: Фламенго - Расинг Клуб Полуфинал",LIVE Copa Libertadores: Flamengo v Racing Club Semi-Final
 max_sport_3_hd,2025-10-22,05:30,2025-10-22 02:30:00,2025-10-22 02:30:00,Trans World Sport,Trans World Sport
 max_sport_3_hd,2025-10-22,05:30,2025-10-22 02:30:00,2025-10-22 03:00:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
 max_sport_3_hd,2025-10-22,06:00,2025-10-22 03:00:00,2025-10-22 05:00:00,Саудитска Професионална Лига: Ал Насър - Ал Фатех Ал Насър - Ал Фатех,Saudi Professional League: Al Nasser - Al Fateh Al Nasser - Al Fateh
@@ -1240,41 +1045,87 @@ max_sport_4_hd,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 18:50:00,Забр
 max_sport_4_hd,2025-10-23,21:50,2025-10-23 18:50:00,2025-10-23 19:00:00,Спортни новини,Sports news
 max_sport_4_hd,2025-10-23,22:00,2025-10-23 19:00:00,2025-10-23 19:50:00,Забравени от Бога 3,Forgotten by God 3
 max_sport_4_hd,2025-10-23,22:50,2025-10-23 19:50:00,2025-10-23 20:50:00,Тенис: Среща от финалите на световния тенис тур за юноши,Tennis: Match of the finals of the World Junior Tennis Tour
-bnt_3,2025-10-23,01:15,2025-10-22 22:15:00,2025-10-22 22:30:00,Шабаб Ал Ахли - Насаф,Shabab Al Ahli - Nasaf
-bnt_3,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-23 00:15:00,Гамба Осака - Нам Дин,Gamba Osaka - Nam Din
-bnt_3,2025-10-23,03:15,2025-10-23 00:15:00,2025-10-23 00:30:00,Еротичен Телепазар,Erotic Telemarket
-bnt_3,2025-10-23,03:30,2025-10-23 00:30:00,2025-10-23 04:00:00,Еротичен Телепазар,Erotic Telemarket
-bnt_3,2025-10-23,07:00,2025-10-23 04:00:00,2025-10-23 06:00:00,АЕК - ПАОК,AEK - PAOK
-bnt_3,2025-10-23,09:00,2025-10-23 06:00:00,2025-10-23 08:00:00,Арис - Панатинайкос,Aris - Panathinaikos
-bnt_3,2025-10-23,11:00,2025-10-23 08:00:00,2025-10-23 10:00:00,Гангвон - Висел Кобе,Gangwon-Visel Kobe
-bnt_3,2025-10-23,13:00,2025-10-23 10:00:00,2025-10-23 11:55:00,Тампайнс Роувърс - Поханг Стийлърс,Tampines Rovers - Pohang Steelers
-bnt_3,2025-10-23,14:55,2025-10-23 11:55:00,2025-10-23 12:15:00,Новини,News
-bnt_3,2025-10-23,15:15,2025-10-23 12:15:00,2025-10-23 14:15:00,Банкок Юнайтед - Лайън Сити Сейлърс,Bangkok United - Lion City Sailors
-bnt_3,2025-10-23,17:15,2025-10-23 14:15:00,2025-10-23 16:30:00,Шанхай Шенхуа - Сеул,Shanghai Shenhua - Seoul
-bnt_3,2025-10-23,19:30,2025-10-23 16:30:00,2025-10-23 17:00:00,Пета четвърт,Fifth quarter
-bnt_3,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 17:30:00,Квалификации за Световно първенство 2026: Обзор,2026 World Cup Qualifiers: Overview
-bnt_3,2025-10-23,20:30,2025-10-23 17:30:00,2025-10-23 18:00:00,Мото Спорт Xtra,Moto Sport Xtra
-bnt_3,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 18:30:00,Елитна Шампионска лига на Азия: Обзор,Asia Elite Champions League: Overview
-bnt_3,2025-10-23,21:30,2025-10-23 18:30:00,2025-10-23 18:35:00,Новини,News
-bnt_3,2025-10-23,21:35,2025-10-23 18:35:00,2025-10-23 20:30:00,Aл Уахда - Ал Духаил,Al Wahda - Al Duhail
-bnt_3,2025-10-23,23:30,2025-10-23 20:30:00,2025-10-23 21:30:00,Ал Шарджа - Трактор,Al Sharjah - Tractor
-nova_sport,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-22 22:30:00,Втора професионална лига: Обзор на кръга,Second Professional League: Round Overview
-nova_sport,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-22 23:30:00,efbet Лига: Преди кръга,efbet League: Before the round
-nova_sport,2025-10-23,02:30,2025-10-22 23:30:00,2025-10-23 04:30:00,Домът на футбола,The home of football
-nova_sport,2025-10-23,07:30,2025-10-23 04:30:00,2025-10-23 06:30:00,Добруджа - ЦСКА,Dobruja - CSKA
-nova_sport,2025-10-23,09:30,2025-10-23 06:30:00,2025-10-23 08:30:00,Черно море - Левски,Black Sea - Levski
-nova_sport,2025-10-23,11:30,2025-10-23 08:30:00,2025-10-23 10:30:00,Локомотив София - ЦСКА 1948,Lokomotiv Sofia - CSKA 1948
-nova_sport,2025-10-23,13:30,2025-10-23 10:30:00,2025-10-23 12:30:00,Янтра - Локомотив Горна Оряховица,Yantra - Locomotive Gorna Oryahovitsa
-nova_sport,2025-10-23,15:30,2025-10-23 12:30:00,2025-10-23 13:00:00,Дневник НБА,NBA Diary
-nova_sport,2025-10-23,16:00,2025-10-23 13:00:00,2025-10-23 13:30:00,Головете на кръга,The goals of the round
-nova_sport,2025-10-23,16:30,2025-10-23 13:30:00,2025-10-23 14:00:00,Героите на кръга,The heroes of the circle
-nova_sport,2025-10-23,17:00,2025-10-23 14:00:00,2025-10-23 15:00:00,Втора професионална лига: Обзор на кръга,Second Professional League: Round Overview
-nova_sport,2025-10-23,18:00,2025-10-23 15:00:00,2025-10-23 16:00:00,Домът на футбола,The home of football
-nova_sport,2025-10-23,19:00,2025-10-23 16:00:00,2025-10-23 17:00:00,efbet Лига: Обзор на кръга,efbet League: Round Overview
-nova_sport,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 18:00:00,efbet Лига: Преди кръга,efbet League: Before the round
-nova_sport,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 18:30:00,Дневник НБА,NBA Diary
-nova_sport,2025-10-23,21:30,2025-10-23 18:30:00,2025-10-23 20:30:00,Лудогорец - Спартак Варна,Ludogorets - Spartak Varna
-nova_sport,2025-10-23,23:30,2025-10-23 20:30:00,2025-10-23 21:30:00,Ботев Пловдив - Славия,Botev Plovdiv - Slavia
+bnt_3,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 23:00:00,УЕФА Шампионска лига: Челси - Аякс,UEFA Champions League: Chelsea - Ajax
+bnt_3,2025-10-23,02:00,2025-10-22 23:00:00,2025-10-23 01:00:00,УЕФА Шампионска лига: Атлетик Билбао - Карабах,UEFA Champions League: Athletic Bilbao - Qarabag
+bnt_3,2025-10-23,04:00,2025-10-23 01:00:00,2025-10-23 03:00:00,УЕФА Шампионска лига: Реал Мадрид - Ювентус,UEFA Champions League: Real Madrid - Juventus
+bnt_3,2025-10-23,06:00,2025-10-23 03:00:00,2025-10-23 05:00:00,УЕФА Шампионска лига / УЕФА Лига Европа / Лига на конференциите - обзори,UEFA Champions League / UEFA Europa League / Conference League - overviews
+bnt_3,2025-10-23,08:00,2025-10-23 05:00:00,2025-10-23 07:00:00,УЕФА Шампионска лига: Атлетик Билбао - Карабах,UEFA Champions League: Athletic Bilbao - Qarabag
+bnt_3,2025-10-23,10:00,2025-10-23 07:00:00,2025-10-23 09:00:00,УЕФА Шампионска лига: Челси - Аякс,UEFA Champions League: Chelsea - Ajax
+bnt_3,2025-10-23,12:00,2025-10-23 09:00:00,2025-10-23 11:00:00,УЕФА Шампионска лига: Монако - Тотнъм,UEFA Champions League: Monaco - Tottenham
+bnt_3,2025-10-23,14:00,2025-10-23 11:00:00,2025-10-23 13:00:00,УЕФА Шампионска лига: Реал Мадрид - Ювентус,UEFA Champions League: Real Madrid - Juventus
+bnt_3,2025-10-23,16:00,2025-10-23 13:00:00,2025-10-23 15:00:00,УЕФА Шампионска лига: Айнтрахт - Ливърпул,UEFA Champions League: Eintracht - Liverpool
+bnt_3,2025-10-23,18:00,2025-10-23 15:00:00,2025-10-23 16:30:00,УЕФА Шампионска лига - обзори,UEFA Champions League - reviews
+bnt_3,2025-10-23,19:30,2025-10-23 16:30:00,2025-10-23 19:00:00,ПРЯКО: УЕФА Лига на конференциите: АЕК - Абърдийн,LIVE: UEFA Conference League: AEK v Aberdeen
+bnt_3,2025-10-23,22:00,2025-10-23 19:00:00,2025-10-23 20:00:00,ПРЯКО: УЕФА Лига Европа: Лил - ПАОК,LIVE: UEFA Europa League: Lille - PAOK
+ring,2025-10-23,01:15,2025-10-22 22:15:00,2025-10-22 22:30:00,Шабаб Ал Ахли - Насаф,Shabab Al Ahli - Nasaf
+ring,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-23 00:15:00,Гамба Осака - Нам Дин,Gamba Osaka - Nam Din
+ring,2025-10-23,03:15,2025-10-23 00:15:00,2025-10-23 00:30:00,Еротичен Телепазар,Erotic Telemarket
+ring,2025-10-23,03:30,2025-10-23 00:30:00,2025-10-23 04:00:00,Еротичен Телепазар,Erotic Telemarket
+ring,2025-10-23,07:00,2025-10-23 04:00:00,2025-10-23 06:00:00,АЕК - ПАОК,AEK - PAOK
+ring,2025-10-23,09:00,2025-10-23 06:00:00,2025-10-23 08:00:00,Арис - Панатинайкос,Aris - Panathinaikos
+ring,2025-10-23,11:00,2025-10-23 08:00:00,2025-10-23 10:00:00,Гангвон - Висел Кобе,Gangwon-Visel Kobe
+ring,2025-10-23,13:00,2025-10-23 10:00:00,2025-10-23 11:55:00,Тампайнс Роувърс - Поханг Стийлърс,Tampines Rovers - Pohang Steelers
+ring,2025-10-23,14:55,2025-10-23 11:55:00,2025-10-23 12:15:00,Новини,News
+ring,2025-10-23,15:15,2025-10-23 12:15:00,2025-10-23 14:15:00,Банкок Юнайтед - Лайън Сити Сейлърс,Bangkok United - Lion City Sailors
+ring,2025-10-23,17:15,2025-10-23 14:15:00,2025-10-23 16:30:00,Шанхай Шенхуа - Сеул,Shanghai Shenhua - Seoul
+ring,2025-10-23,19:30,2025-10-23 16:30:00,2025-10-23 17:00:00,Пета четвърт,Fifth quarter
+ring,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 17:30:00,Квалификации за Световно първенство 2026: Обзор,2026 World Cup Qualifiers: Overview
+ring,2025-10-23,20:30,2025-10-23 17:30:00,2025-10-23 18:00:00,Мото Спорт Xtra,Moto Sport Xtra
+ring,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 18:30:00,Елитна Шампионска лига на Азия: Обзор,Asia Elite Champions League: Overview
+ring,2025-10-23,21:30,2025-10-23 18:30:00,2025-10-23 18:35:00,Новини,News
+ring,2025-10-23,21:35,2025-10-23 18:35:00,2025-10-23 20:30:00,Aл Уахда - Ал Духаил,Al Wahda - Al Duhail
+ring,2025-10-23,23:30,2025-10-23 20:30:00,2025-10-23 21:30:00,Ал Шарджа - Трактор,Al Sharjah - Tractor
+nova_sport,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 23:40:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, директно","Track Cycling: World Championships in Santiago de Chile, live"
+nova_sport,2025-10-23,02:40,2025-10-22 23:40:00,2025-10-23 01:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+nova_sport,2025-10-23,04:00,2025-10-23 01:00:00,2025-10-23 02:00:00,"Колоездене: Световно първенство в Кигали, жени, часовник, повторение",Cycling: Kigali World Championships Women's Clock Repeat
+nova_sport,2025-10-23,05:00,2025-10-23 02:00:00,2025-10-23 03:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+nova_sport,2025-10-23,06:00,2025-10-23 03:00:00,2025-10-23 05:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+nova_sport,2025-10-23,08:00,2025-10-23 05:00:00,2025-10-23 05:45:00,"Ски алпийски дисциплини: Световен шампионат в Заалбах Хинтерглем, , спускане за комбинация, мъже, повторение","Alpine Skiing: Saalbach Hinterglemm World Championships, , Combined Downhill, Men, Repeat"
+nova_sport,2025-10-23,08:45,2025-10-23 05:45:00,2025-10-23 06:30:00,"Ски алпийски дисциплини: Световен шампионат в Заалбах Хинтерглем, , слалом за комбинация, мъже, повторение","Alpine Skiing: Saalbach Hinterglemm World Championships, , Combined Slalom, Men, Repeat"
+nova_sport,2025-10-23,09:30,2025-10-23 06:30:00,2025-10-23 08:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+nova_sport,2025-10-23,11:00,2025-10-23 08:00:00,2025-10-23 09:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+nova_sport,2025-10-23,12:00,2025-10-23 09:00:00,2025-10-23 11:00:00,"Колоездене: Тур дьо Франс, представяне на маршрута, мъже, директно",Cycling: Tour de France Route Presentation Men's Direct
+nova_sport,2025-10-23,14:00,2025-10-23 11:00:00,2025-10-23 12:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+nova_sport,2025-10-23,15:00,2025-10-23 12:00:00,2025-10-23 16:00:00,"Снукър: Северна Ирландия оупън, трети кръг, директно","Snooker: Northern Ireland Open, third round, direct"
+nova_sport,2025-10-23,19:00,2025-10-23 16:00:00,2025-10-23 17:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+nova_sport,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 18:00:00,"Снукър: Северна Ирландия оупън, трети кръг, повторение",Snooker: Northern Ireland Open third round replay
+nova_sport,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 19:00:00,"Снукър: Северна Ирландия оупън, трети кръг, директно","Snooker: Northern Ireland Open, third round, direct"
+eurosport_1,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 22:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
+eurosport_1,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 23:30:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+eurosport_1,2025-10-23,02:30,2025-10-22 23:30:00,2025-10-23 01:00:00,"Колоездене: Световно първенство в Кигали, жени, часовник, повторение",Cycling: Kigali World Championships Women's Clock Repeat
+eurosport_1,2025-10-23,04:00,2025-10-23 01:00:00,2025-10-23 03:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+eurosport_1,2025-10-23,06:00,2025-10-23 03:00:00,2025-10-23 04:00:00,"Колоездене: Световно първенство в Кигали, жени, часовник, повторение",Cycling: Kigali World Championships Women's Clock Repeat
+eurosport_1,2025-10-23,07:00,2025-10-23 04:00:00,2025-10-23 05:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+eurosport_1,2025-10-23,08:00,2025-10-23 05:00:00,2025-10-23 06:30:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+eurosport_1,2025-10-23,09:30,2025-10-23 06:30:00,2025-10-23 07:00:00,"Колоездене: Световно първенство в Кигали, жени, часовник, повторение",Cycling: Kigali World Championships Women's Clock Repeat
+eurosport_1,2025-10-23,10:00,2025-10-23 07:00:00,2025-10-23 08:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+eurosport_1,2025-10-23,11:00,2025-10-23 08:00:00,2025-10-23 09:00:00,"Триатлон: PTO Тур в Уолонгонг, повторение","Triathlon: PTO Tour of Walongong, repeat"
+eurosport_1,2025-10-23,12:00,2025-10-23 09:00:00,2025-10-23 11:00:00,"Снукър: Северна Ирландия оупън, втори кръг, повторение",Snooker: Northern Ireland Open second round replay
+eurosport_1,2025-10-23,14:00,2025-10-23 11:00:00,2025-10-23 12:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+eurosport_1,2025-10-23,15:00,2025-10-23 12:00:00,2025-10-23 13:00:00,"Колоездене: Тур дьо Франс, обзор, мъже, повторение",Cycling: Tour de France overview men's replay
+eurosport_1,2025-10-23,16:00,2025-10-23 13:00:00,2025-10-23 14:00:00,"Колоездене: Тур дьо Франс, обзор, жени, повторение",Cycling: Tour de France overview women's replay
+eurosport_1,2025-10-23,17:00,2025-10-23 14:00:00,2025-10-23 16:00:00,"Колоездене: Тур дьо Франс, представяне на маршрута, мъже, повторение","Cycling: Tour de France, route presentation, men, repeat"
+eurosport_1,2025-10-23,19:00,2025-10-23 16:00:00,2025-10-23 17:00:00,"Ски алпийски дисциплини: Световен шампионат в Заалбах Хинтерглем, спускане за комбинация, мъже, повторение",Alpine Skiing: Saalbach Hinterglemm World Championships Combined Downhill Men Repeat
+eurosport_1,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 18:00:00,"Ски алпийски дисциплини: Световен шампионат в Заалбах Хинтерглем, слалом за комбинация, мъже, повторение",Alpine Skiing: Saalbach Hinterglemm World Championships Combined Slalom Men Repeat
+eurosport_1,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 19:00:00,"Колоездене на писта: Световен шампионат в Сантиаго де Чили, повторение","Track Cycling: World Championships in Santiago de Chile, repeat"
+eurosport_1,2025-10-23,22:00,2025-10-23 19:00:00,2025-10-23 20:00:00,"Колоездене: Тур дьо Франс, представяне на маршрута, мъже, повторение","Cycling: Tour de France, route presentation, men, repeat"
+eurosport_2,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-22 22:30:00,Втора професионална лига: Обзор на кръга,Second Professional League: Round Overview
+eurosport_2,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-22 23:30:00,efbet Лига: Преди кръга,efbet League: Before the round
+eurosport_2,2025-10-23,02:30,2025-10-22 23:30:00,2025-10-23 04:30:00,Домът на футбола,The home of football
+eurosport_2,2025-10-23,07:30,2025-10-23 04:30:00,2025-10-23 06:30:00,Добруджа - ЦСКА,Dobruja - CSKA
+eurosport_2,2025-10-23,09:30,2025-10-23 06:30:00,2025-10-23 08:30:00,Черно море - Левски,Black Sea - Levski
+eurosport_2,2025-10-23,11:30,2025-10-23 08:30:00,2025-10-23 10:30:00,Локомотив София - ЦСКА 1948,Lokomotiv Sofia - CSKA 1948
+eurosport_2,2025-10-23,13:30,2025-10-23 10:30:00,2025-10-23 12:30:00,Янтра - Локомотив Горна Оряховица,Yantra - Locomotive Gorna Oryahovitsa
+eurosport_2,2025-10-23,15:30,2025-10-23 12:30:00,2025-10-23 13:00:00,Дневник НБА,NBA Diary
+eurosport_2,2025-10-23,16:00,2025-10-23 13:00:00,2025-10-23 13:30:00,Головете на кръга,The goals of the round
+eurosport_2,2025-10-23,16:30,2025-10-23 13:30:00,2025-10-23 14:00:00,Героите на кръга,The heroes of the circle
+eurosport_2,2025-10-23,17:00,2025-10-23 14:00:00,2025-10-23 15:00:00,Втора професионална лига: Обзор на кръга,Second Professional League: Round Overview
+eurosport_2,2025-10-23,18:00,2025-10-23 15:00:00,2025-10-23 16:00:00,Домът на футбола,The home of football
+eurosport_2,2025-10-23,19:00,2025-10-23 16:00:00,2025-10-23 17:00:00,efbet Лига: Обзор на кръга,efbet League: Round Overview
+eurosport_2,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 18:00:00,efbet Лига: Преди кръга,efbet League: Before the round
+eurosport_2,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 18:30:00,Дневник НБА,NBA Diary
+eurosport_2,2025-10-23,21:30,2025-10-23 18:30:00,2025-10-23 20:30:00,Лудогорец - Спартак Варна,Ludogorets - Spartak Varna
+eurosport_2,2025-10-23,23:30,2025-10-23 20:30:00,2025-10-23 21:30:00,Ботев Пловдив - Славия,Botev Plovdiv - Slavia
 diema_sport,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 22:30:00,Лига 1: Преди кръга,League 1: Before the round
 diema_sport,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-22 23:00:00,NBA Екшън,NBA Action
 diema_sport,2025-10-23,02:00,2025-10-22 23:00:00,2025-10-22 23:00:00,Бърнли - Лийдс Юнайтед,Burnley - Leeds United
@@ -1290,12 +1141,12 @@ diema_sport,2025-10-23,18:30,2025-10-23 15:30:00,2025-10-23 16:00:00,Висша 
 diema_sport,2025-10-23,19:00,2025-10-23 16:00:00,2025-10-23 17:00:00,NBA Екшън,NBA Action
 diema_sport,2025-10-23,20:00,2025-10-23 17:00:00,2025-10-23 19:00:00,Шефилд Уензди - Мидълзбро,Sheffield Wednesday - Middlesbrough
 diema_sport,2025-10-23,22:00,2025-10-23 19:00:00,2025-10-23 20:00:00,Екзитър Сити - Плимут Аргайл,Exeter City - Plymouth Argyle
-diema_sport_2,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 21:30:00,ATP 500: Виена Четвърти четвъртфинал,ATP 500: Vienna Fourth quarter-final
-diema_sport_2,2025-10-23,00:30,2025-10-22 21:30:00,2025-10-22 23:00:00,ATP 500: Базел,ATP 500: Basel
-diema_sport_2,2025-10-23,02:00,2025-10-22 23:00:00,2025-10-22 23:30:00,Удар със стик,Strike with a stick
-diema_sport_2,2025-10-23,02:30,2025-10-22 23:30:00,2025-10-23 00:00:00,ATP 500: Базел,ATP 500: Basel
-diema_sport_2,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 01:30:00,"ПРЯКО, NHL: Уинипег Джетс - Калгари Флeймс Уинипег Джетс - Калгари Флeймс","PRYAKO, NHL: Whinikina Jets - Calgary Fleims Whinikine Jets - Calgary Fleimes"
-diema_sport_2,2025-10-23,04:30,2025-10-23 01:30:00,2025-10-23 04:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 22:00:00,ATP 500: Виена Четвърти четвъртфинал,ATP 500: Vienna Fourth quarter-final
+diema_sport_2,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 23:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-23,02:00,2025-10-22 23:00:00,2025-10-23 00:00:00,Удар със стик,Strike with a stick
+diema_sport_2,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 00:00:00,ATP 500: Базел,ATP 500: Basel
+diema_sport_2,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 02:00:00,"ПРЯКО, NHL: Уинипег Джетс - Калгари Флeймс Уинипег Джетс - Калгари Флeймс","PRYAKO, NHL: Whinikina Jets - Calgary Fleims Whinikine Jets - Calgary Fleimes"
+diema_sport_2,2025-10-23,05:00,2025-10-23 02:00:00,2025-10-23 04:00:00,ATP 500: Базел,ATP 500: Basel
 diema_sport_2,2025-10-23,07:00,2025-10-23 04:00:00,2025-10-23 06:00:00,ATP 500: Виена,ATP 500: Vienna
 diema_sport_2,2025-10-23,09:00,2025-10-23 06:00:00,2025-10-23 08:00:00,ATP 500: Виена,ATP 500: Vienna
 diema_sport_2,2025-10-23,11:00,2025-10-23 08:00:00,2025-10-23 10:00:00,ATP 500: Виена,ATP 500: Vienna
@@ -1305,11 +1156,15 @@ diema_sport_2,2025-10-23,17:00,2025-10-23 14:00:00,2025-10-23 16:00:00,"ПРЯК
 diema_sport_2,2025-10-23,19:00,2025-10-23 16:00:00,2025-10-23 18:00:00,"ПРЯКО, ATP 500: Виена","LIVE, ATP 500: Vienna"
 diema_sport_2,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 19:45:00,"ПРЯКО, Евролига: Апоел Тел Авив - Монако Апоел Тел Авив - Монако","LIVE, Euroleague: Apoel Tel Aviv - Monaco Apoel Tel Aviv - Monaco"
 diema_sport_2,2025-10-23,22:45,2025-10-23 19:45:00,2025-10-23 20:45:00,Еврокупа: Кемниц - Лондон Лайънс Кемниц - Лондон Лайънс,Eurocup: Chemnitz - London Lions Chemnitz - London Lions
-max_sport_1_hd,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 21:30:00,UFC 321: Преди големия сблъсък: Аспинал срещу Ган Преди големия сблъсък: Том Аспинал срещу Сирил Ган,UFC 321: Before the Big Clash: Aspinall vs. Gunn Before the Big Clash: Tom Aspinall vs. Cyril Gunn
-max_sport_1_hd,2025-10-23,00:30,2025-10-22 21:30:00,2025-10-22 22:00:00,Nascar Cup Series: Състезание в Алабама Състезание в Алабама,Nascar Cup Series: Race in Alabama Race in Alabama
-max_sport_1_hd,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-23 00:00:00,ATP 500: Базел Четвърти четвъртфинал,ATP 500: Basel Fourth quarter-final
-max_sport_1_hd,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 01:30:00,Еврокупа: Кемниц - Лондон Лайънс Кемниц - Лондон Лайънс,Eurocup: Chemnitz - London Lions Chemnitz - London Lions
-max_sport_1_hd,2025-10-23,04:30,2025-10-23 01:30:00,2025-10-23 03:30:00,Moto GP: Обзор на състезанието за Голямата награда на Австралия Обзор на състезанието за Голямата награда на Австралия,Moto GP: Australian Grand Prix Race Overview Australian Grand Prix Race Overview
+max_sport_1_hd,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 22:00:00,UFC 321: Преди големия сблъсък: Аспинал срещу Ган Преди големия сблъсък: Том Аспинал срещу Сирил Ган,UFC 321: Before the Big Clash: Aspinall vs. Gunn Before the Big Clash: Tom Aspinall vs. Cyril Gunn
+max_sport_1_hd,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 22:00:00,Световен рали шампионат: Състезание в Централна Европа SS2 Golf und Therme 2,World Rally Championship: SS2 Golf und Therme 2 Central European Race
+max_sport_1_hd,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 23:00:00,ATP 500: Базел Четвърти четвъртфинал,ATP 500: Basel Fourth quarter-final
+max_sport_1_hd,2025-10-23,02:00,2025-10-22 23:00:00,2025-10-23 00:00:00,Световен рали шампионат: Състезание в Централна Европа SS10 Keply 1,World Rally Championship: Race in Central Europe SS10 Keply 1
+max_sport_1_hd,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 00:00:00,Световен рали шампионат: Състезание в Централна Европа SS12 Keply 2,World Rally Championship: Race in Central Europe SS12 Keply 2
+max_sport_1_hd,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 01:00:00,Еврокупа: Кемниц - Лондон Лайънс Кемниц - Лондон Лайънс,Eurocup: Chemnitz - London Lions Chemnitz - London Lions
+max_sport_1_hd,2025-10-23,04:00,2025-10-23 01:00:00,2025-10-23 02:00:00,Световен рали шампионат: Състезание в Централна Европа SS16 Muhltal 1,World Rally Championship: Race in Central Europe SS16 Muhltal 1
+max_sport_1_hd,2025-10-23,05:00,2025-10-23 02:00:00,2025-10-23 02:35:00,Световен рали шампионат: Състезание в Централна Европа SS18 Muhltal 2 WOLF PS,World Rally Championship: Race in Central Europe SS18 Muhltal 2 WOLF PS
+max_sport_1_hd,2025-10-23,05:35,2025-10-23 02:35:00,2025-10-23 03:30:00,"ПРЯКО, Moto GP: Първа тренировка за Голямата награда на Малайзия Първа тренировка за Голямата награда на Малайзия",LIVE Moto GP: First practice for the Malaysian Grand Prix First practice for the Malaysian Grand Prix
 max_sport_1_hd,2025-10-23,06:30,2025-10-23 03:30:00,2025-10-23 04:30:00,Зона волей Токшоу,Zone Volley Talkshow
 max_sport_1_hd,2025-10-23,07:30,2025-10-23 04:30:00,2025-10-23 05:00:00,Голф: DP World India Championship Обзор на турнира,Golf: DP World India Championship Tournament Overview
 max_sport_1_hd,2025-10-23,08:00,2025-10-23 05:00:00,2025-10-23 07:45:00,Волейбол - Суперкупа'25: Финал,Volleyball - Super Cup'25: Final
@@ -1323,13 +1178,14 @@ max_sport_1_hd,2025-10-23,18:30,2025-10-23 15:30:00,2025-10-23 16:45:00,Скор
 max_sport_1_hd,2025-10-23,19:45,2025-10-23 16:45:00,2025-10-23 18:30:00,"ПРЯКО, УЕФА Лига Европа: Гоу Ахед Игълс - Астън Вила Трети кръг",LIVE UEFA Europa League: Go Ahead Eagles v Aston Villa Third Round
 max_sport_1_hd,2025-10-23,21:30,2025-10-23 18:30:00,2025-10-23 20:30:00,"ПРЯКО, Евролига: Барселона - Жалгирис Барселона - Жалгирис","LIVE, Euroleague: Barcelona - Zalgiris Barcelona - Zalgiris"
 max_sport_1_hd,2025-10-23,23:30,2025-10-23 20:30:00,2025-10-23 21:30:00,Trans World Sport,Trans World Sport
-max_sport_2_hd,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 21:15:00,Trans World Sport,Trans World Sport
-max_sport_2_hd,2025-10-23,00:15,2025-10-22 21:15:00,2025-10-22 21:25:00,УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга,UEFA Europa League and Conference League: Round Overview Round Overview
-max_sport_2_hd,2025-10-23,00:25,2025-10-22 21:25:00,2025-10-22 22:15:00,"ПРЯКО, УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга","LIVE, UEFA Europa League and Conference League: Round Round Round Round Round Round Up"
-max_sport_2_hd,2025-10-23,01:15,2025-10-22 22:15:00,2025-10-22 22:30:00,УЕФА Шампионска лига: Нюкасъл - Бенфика Трети кръг,UEFA Champions League: Newcastle v Benfica Third Round
-max_sport_2_hd,2025-10-23,01:30,2025-10-22 22:30:00,2025-10-23 00:15:00,ATP 500: Базел,ATP 500: Basel
-max_sport_2_hd,2025-10-23,03:15,2025-10-23 00:15:00,2025-10-23 00:30:00,Копа Судамерикана: Индепендиенте дел Вале - Атлетико Минейро Полуфинал,Copa Sudamericana: Independiente del Valle - Atlético Mineiro Semi-Final
-max_sport_2_hd,2025-10-23,03:30,2025-10-23 00:30:00,2025-10-23 03:00:00,Серия А: Рома - Интер,Serie A: Roma - Inter
+max_sport_2_hd,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 21:15:00,УЕФА Шампионска лига Обзор на кръга,UEFA Champions League Round Overview
+max_sport_2_hd,2025-10-23,00:15,2025-10-22 21:15:00,2025-10-22 22:00:00,УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга,UEFA Europa League and Conference League: Round Overview Round Overview
+max_sport_2_hd,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 22:15:00,УЕФА Шампионска лига: Кайрат - Пафос Трети кръг,UEFA Champions League: Kairat - Paphos Third round
+max_sport_2_hd,2025-10-23,01:15,2025-10-22 22:15:00,2025-10-23 00:00:00,УЕФА Шампионска лига: Нюкасъл - Бенфика Трети кръг,UEFA Champions League: Newcastle v Benfica Third Round
+max_sport_2_hd,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 00:15:00,УЕФА Младежка Шампионска лига: Арсенал - Атлетик Билбао Арсенал - Атлетик Билбао,UEFA Youth Champions League: Arsenal - Athletic Bilbao Arsenal - Athletic Bilbao
+max_sport_2_hd,2025-10-23,03:15,2025-10-23 00:15:00,2025-10-23 02:00:00,Копа Судамерикана: Индепендиенте дел Вале - Атлетико Минейро Полуфинал,Copa Sudamericana: Independiente del Valle - Atlético Mineiro Semi-Final
+max_sport_2_hd,2025-10-23,05:00,2025-10-23 02:00:00,2025-10-23 02:30:00,УЕФА Шампионска лига Обзор на кръга,UEFA Champions League Round Overview
+max_sport_2_hd,2025-10-23,05:30,2025-10-23 02:30:00,2025-10-23 03:00:00,Серия А: Екстра Калчо,Serie A: Extra Calcio
 max_sport_2_hd,2025-10-23,06:00,2025-10-23 03:00:00,2025-10-23 08:00:00,"ПРЯКО, Голф: Genesis Championship","LIVE, Golf: Genesis Championship"
 max_sport_2_hd,2025-10-23,11:00,2025-10-23 08:00:00,2025-10-23 10:00:00,УЕФА Шампионска лига: Барселона - Олимпиакос Трети кръг,UEFA Champions League: Barcelona - Olympiakos Third Round
 max_sport_2_hd,2025-10-23,13:00,2025-10-23 10:00:00,2025-10-23 12:00:00,УЕФА Шампионска лига: Арсенал - Атлетик Билбао Трети кръг,UEFA Champions League: Arsenal v Athletic Bilbao Third Round
@@ -1340,15 +1196,15 @@ max_sport_2_hd,2025-10-23,21:00,2025-10-23 18:00:00,2025-10-23 18:30:00,Сери
 max_sport_2_hd,2025-10-23,21:30,2025-10-23 18:30:00,2025-10-23 19:00:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
 max_sport_2_hd,2025-10-23,22:00,2025-10-23 19:00:00,2025-10-23 20:45:00,"ПРЯКО, УЕФА Лига Европа: Йънг Бойс - Лудогорец Трети кръг","LIVE, UEFA Europa League: Young Boys - Ludogorets Third Round"
 max_sport_2_hd,2025-10-23,23:45,2025-10-23 20:45:00,2025-10-23 21:45:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
-max_sport_3_hd,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 21:00:00,УЕФА Шампионска лига Обзор на кръга,UEFA Champions League Round Overview
 max_sport_3_hd,2025-10-23,00:00,2025-10-22 21:00:00,2025-10-22 21:15:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
 max_sport_3_hd,2025-10-23,00:15,2025-10-22 21:15:00,2025-10-22 22:00:00,Саудитска Професионална Лига: Ал Итихад - Ал Хилал Ал Итихад - Ал Хилал,Saudi Professional League: Al Ittihad - Al Hilal Al Ittihad - Al Hilal
-max_sport_3_hd,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 23:00:00,"ПРЯКО, Копа Судамерикана: Универсидад Чили - Ланус Полуфинал",LIVE Copa Sudamericana: Universidad Chile - Lanus Semi-Final
+max_sport_3_hd,2025-10-23,01:00,2025-10-22 22:00:00,2025-10-22 23:00:00,Ла Лига: Хетафе - Реал Мадрид,La Liga: Getafe - Real Madrid
 max_sport_3_hd,2025-10-23,02:00,2025-10-22 23:00:00,2025-10-23 00:00:00,Ла Лига 2: Кадис - Бургос,La Liga 2: Cadiz - Burgos
-max_sport_3_hd,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 00:30:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
-max_sport_3_hd,2025-10-23,03:30,2025-10-23 00:30:00,2025-10-23 01:00:00,"ПРЯКО, Копа Либертадорес: Лига де Кито - Палмейрас Полуфинал",LIVE Copa Libertadores: Liga de Quito v Palmeiras Semi-Final
+max_sport_3_hd,2025-10-23,03:00,2025-10-23 00:00:00,2025-10-23 00:30:00,Trans World Sport,Trans World Sport
+max_sport_3_hd,2025-10-23,03:30,2025-10-23 00:30:00,2025-10-23 01:00:00,"ПРЯКО, Копа Либертадорес: Фламенго - Расинг Клуб Полуфинал",LIVE Copa Libertadores: Flamengo v Racing Club Semi-Final
 max_sport_3_hd,2025-10-23,04:00,2025-10-23 01:00:00,2025-10-23 02:30:00,Мейджър Лийг Сокър:,Major League Soccer:
-max_sport_3_hd,2025-10-23,05:30,2025-10-23 02:30:00,2025-10-23 03:00:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
+max_sport_3_hd,2025-10-23,05:30,2025-10-23 02:30:00,2025-10-23 02:30:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
+max_sport_3_hd,2025-10-23,05:30,2025-10-23 02:30:00,2025-10-23 03:00:00,Ла Лига: Алавес - Валенсия,La Liga: Alaves - Valencia
 max_sport_3_hd,2025-10-23,06:00,2025-10-23 03:00:00,2025-10-23 05:00:00,Мейджър Лийг Сокър:,Major League Soccer:
 max_sport_3_hd,2025-10-23,08:00,2025-10-23 05:00:00,2025-10-23 07:00:00,Ла Лига: Севиля - Майорка,La Liga: Sevilla - Mallorca
 max_sport_3_hd,2025-10-23,10:00,2025-10-23 07:00:00,2025-10-23 09:00:00,Саудитска Професионална Лига: Ал Насър - Ал Фатех Ал Насър - Ал Фатех,Saudi Professional League: Al Nasser - Al Fateh Al Nasser - Al Fateh
@@ -1359,3 +1215,163 @@ max_sport_3_hd,2025-10-23,15:30,2025-10-23 12:30:00,2025-10-23 14:30:00,Ла Л�
 max_sport_3_hd,2025-10-23,17:30,2025-10-23 14:30:00,2025-10-23 16:45:00,Копа Либертадорес: Фламенго - Расинг Клуб Полуфинал,Copa Libertadores: Flamengo - Racing Club Semi-Final
 max_sport_3_hd,2025-10-23,19:45,2025-10-23 16:45:00,2025-10-23 19:00:00,"ПРЯКО, УЕФА Лига Европа: Фейенорд - Панатинайкос Трети кръг",LIVE UEFA Europa League: Feyenoord v Panathinaikos Third Round
 max_sport_3_hd,2025-10-23,22:00,2025-10-23 19:00:00,2025-10-23 20:00:00,"ПРЯКО, УЕФА Лига Европа: Рома - Виктория Пилзен Трети кръг",LIVE UEFA Europa League: Roma v Viktoria Pilsen Third Round
+max_sport_4_hd,2025-10-24,00:20,2025-10-23 21:20:00,2025-10-23 21:20:00,Спортни новини,Sports news
+max_sport_4_hd,2025-10-24,00:20,2025-10-23 21:20:00,2025-10-23 21:30:00,Спортни новини,Sports news
+max_sport_4_hd,2025-10-24,00:30,2025-10-23 21:30:00,2025-10-23 21:30:00,Световно първенство по лека атлетика,World Championships in Athletics
+max_sport_4_hd,2025-10-24,00:30,2025-10-23 21:30:00,2025-10-24 00:55:00,Световно първенство по лека атлетика,World Championships in Athletics
+max_sport_4_hd,2025-10-24,03:55,2025-10-24 00:55:00,2025-10-24 01:00:00,Автомобилизъм: GT World Challenge Europe - спринт,Motorsport: GT World Challenge Europe - Sprint
+max_sport_4_hd,2025-10-24,04:00,2025-10-24 01:00:00,2025-10-24 02:20:00,Автомобилизъм: GT World Challenge Europe - спринт,Motorsport: GT World Challenge Europe - Sprint
+max_sport_4_hd,2025-10-24,05:20,2025-10-24 02:20:00,2025-10-24 02:30:00,Колоездачна обиколка на Чехия,Cycling tour of the Czech Republic
+max_sport_4_hd,2025-10-24,05:30,2025-10-24 02:30:00,2025-10-24 02:55:00,Рали Португалия,Rally Portugal
+max_sport_4_hd,2025-10-24,05:55,2025-10-24 02:55:00,2025-10-24 03:00:00,Аз съм...,I am...
+max_sport_4_hd,2025-10-24,06:00,2025-10-24 03:00:00,2025-10-24 03:55:00,Ветроходство: Гран при на Сен Тропе,Sailing: Grand Prix of Saint Tropez
+max_sport_4_hd,2025-10-24,06:55,2025-10-24 03:55:00,2025-10-24 04:10:00,Зала на славата: Андон Николов,Hall of Fame: Andon Nikolov
+max_sport_4_hd,2025-10-24,07:10,2025-10-24 04:10:00,2025-10-24 05:05:00,Колоездачна обиколка на Германия,Cycling tour of Germany
+max_sport_4_hd,2025-10-24,08:05,2025-10-24 05:05:00,2025-10-24 05:30:00,Световно шахматно шоу,World Chess Show
+max_sport_4_hd,2025-10-24,08:30,2025-10-24 05:30:00,2025-10-24 07:00:00,Тенис: Среща от финалите на световния тенис тур за юноши,Tennis: Match of the finals of the World Junior Tennis Tour
+max_sport_4_hd,2025-10-24,10:00,2025-10-24 07:00:00,2025-10-24 08:30:00,Тенис: Среща от финалите на световния тенис тур за юноши,Tennis: Match of the finals of the World Junior Tennis Tour
+max_sport_4_hd,2025-10-24,11:30,2025-10-24 08:30:00,2025-10-24 09:00:00,Рали Португалия,Rally Portugal
+max_sport_4_hd,2025-10-24,12:00,2025-10-24 09:00:00,2025-10-24 09:25:00,L'Etape Bulgaria by Tour de France,L’Etape Bulgaria by Tour de France
+max_sport_4_hd,2025-10-24,12:25,2025-10-24 09:25:00,2025-10-24 09:40:00,Зала на славата: Евладия Славчева,Hall of Fame: Evladia Slavcheva
+max_sport_4_hd,2025-10-24,12:40,2025-10-24 09:40:00,2025-10-24 13:05:00,Световно първенство по лека атлетика,World Championships in Athletics
+max_sport_4_hd,2025-10-24,16:05,2025-10-24 13:05:00,2025-10-24 14:00:00,Разходка назад във времето: 23 октомври,A Walk Back in Time: October 23rd
+max_sport_4_hd,2025-10-24,17:00,2025-10-24 14:00:00,2025-10-24 14:15:00,Телепазарен прозорец,Telemarketing window
+max_sport_4_hd,2025-10-24,17:15,2025-10-24 14:15:00,2025-10-24 15:15:00,Последният печели,The last one wins
+max_sport_4_hd,2025-10-24,18:15,2025-10-24 15:15:00,2025-10-24 15:40:00,Една различна Италия 2,A different Italy 2
+max_sport_4_hd,2025-10-24,18:40,2025-10-24 15:40:00,2025-10-24 16:35:00,One Water Race - екстремна надпревара,One Water Race - an extreme race
+max_sport_4_hd,2025-10-24,19:35,2025-10-24 16:35:00,2025-10-24 17:05:00,Extreme Е: Пустинно Екс-при,Extreme E: Desert Ex-pre
+max_sport_4_hd,2025-10-24,20:05,2025-10-24 17:05:00,2025-10-24 17:30:00,Monster Jam - автомобилно шоу,Monster Jam - Car Show
+max_sport_4_hd,2025-10-24,20:30,2025-10-24 17:30:00,2025-10-24 18:00:00,Време за губене,Time to waste
+max_sport_4_hd,2025-10-24,21:00,2025-10-24 18:00:00,2025-10-24 18:50:00,Забравени от Бога 3,Forgotten by God 3
+max_sport_4_hd,2025-10-24,21:50,2025-10-24 18:50:00,2025-10-24 19:00:00,Спортни новини,Sports news
+max_sport_4_hd,2025-10-24,22:00,2025-10-24 19:00:00,2025-10-24 19:50:00,Забравени от Бога 3,Forgotten by God 3
+max_sport_4_hd,2025-10-24,22:50,2025-10-24 19:50:00,2025-10-24 20:50:00,Тенис: Среща от финалите на световния тенис тур за юноши,Tennis: Match of the finals of the World Junior Tennis Tour
+bnt_3,2025-10-24,01:30,2025-10-23 22:30:00,2025-10-23 22:45:00,Гамба Осака - Нам Дин,Gamba Osaka - Nam Din
+bnt_3,2025-10-24,01:45,2025-10-23 22:45:00,2025-10-24 00:30:00,Бристъл Сити - Саутхямптън,Bristol City - Southampton
+bnt_3,2025-10-24,03:30,2025-10-24 00:30:00,2025-10-24 00:45:00,Еротичен Телепазар,Erotic Telemarket
+bnt_3,2025-10-24,03:45,2025-10-24 00:45:00,2025-10-24 04:30:00,Еротичен Телепазар,Erotic Telemarket
+bnt_3,2025-10-24,07:30,2025-10-24 04:30:00,2025-10-24 06:30:00,Ал Ахли - Аркадаг,Al Ahli - Arkadag
+bnt_3,2025-10-24,09:30,2025-10-24 06:30:00,2025-10-24 08:30:00,Тампайнс Роувърс - Поханг Стийлърс,Tampines Rovers - Pohang Steelers
+bnt_3,2025-10-24,11:30,2025-10-24 08:30:00,2025-10-24 10:30:00,Банкок Юнайтед - Лайън Сити Сейлърс,Bangkok United - Lion City Sailors
+bnt_3,2025-10-24,13:30,2025-10-24 10:30:00,2025-10-24 12:25:00,Гоа - Ал Насър,Goa - Al Nasser
+bnt_3,2025-10-24,15:25,2025-10-24 12:25:00,2025-10-24 12:30:00,Новини,News
+bnt_3,2025-10-24,15:30,2025-10-24 12:30:00,2025-10-24 14:30:00,Екзитър Сити - Плимут Аргайл,Exeter City - Plymouth Argyle
+bnt_3,2025-10-24,17:30,2025-10-24 14:30:00,2025-10-24 15:00:00,Мото Спорт Xtra,Moto Sport Xtra
+bnt_3,2025-10-24,18:00,2025-10-24 15:00:00,2025-10-24 15:30:00,Елитна Шампионска лига на Азия: Обзор,Asia Elite Champions League: Overview
+bnt_3,2025-10-24,18:30,2025-10-24 15:30:00,2025-10-24 16:00:00,Шампионска лига на Азия 2: Обзор,Asian Champions League 2: Overview
+bnt_3,2025-10-24,19:00,2025-10-24 16:00:00,2025-10-24 16:30:00,Студио Бундеслига,Studio Bundesliga
+bnt_3,2025-10-24,19:30,2025-10-24 16:30:00,2025-10-24 18:30:00,Гройтер Фюрт - Карлсруе,Greuther Furth - Karlsruhe
+bnt_3,2025-10-24,21:30,2025-10-24 18:30:00,2025-10-24 20:25:00,Вердер Бремен - Унион Берлин,Werder Bremen - Union Berlin
+bnt_3,2025-10-24,23:25,2025-10-24 20:25:00,2025-10-24 20:45:00,Студио Бундеслига,Studio Bundesliga
+bnt_3,2025-10-24,23:45,2025-10-24 20:45:00,2025-10-24 21:45:00,Шефилд Уензди - Мидълзбро,Sheffield Wednesday - Middlesbrough
+nova_sport,2025-10-24,01:00,2025-10-23 22:00:00,2025-10-23 22:30:00,ONE Петъчни битки 129,ONE Friday Fights 129
+nova_sport,2025-10-24,01:30,2025-10-23 22:30:00,2025-10-24 04:00:00,efbet Лига: Преди кръга,efbet League: Before the round
+nova_sport,2025-10-24,07:00,2025-10-24 04:00:00,2025-10-24 05:00:00,Втора професионална лига: Обзор на кръга,Second Professional League: Round Overview
+nova_sport,2025-10-24,08:00,2025-10-24 05:00:00,2025-10-24 06:00:00,Домът на футбола,The home of football
+nova_sport,2025-10-24,09:00,2025-10-24 06:00:00,2025-10-24 07:00:00,efbet Лига: Обзор на кръга,efbet League: Round Overview
+nova_sport,2025-10-24,10:00,2025-10-24 07:00:00,2025-10-24 09:00:00,Лудогорец - Спартак Варна,Ludogorets - Spartak Varna
+nova_sport,2025-10-24,12:00,2025-10-24 09:00:00,2025-10-24 09:30:00,Головете на кръга,The goals of the round
+nova_sport,2025-10-24,12:30,2025-10-24 09:30:00,2025-10-24 10:00:00,Героите на кръга,The heroes of the circle
+nova_sport,2025-10-24,13:00,2025-10-24 10:00:00,2025-10-24 10:30:00,Дневник НБА,NBA Diary
+nova_sport,2025-10-24,13:30,2025-10-24 10:30:00,2025-10-24 11:30:00,efbet Лига: Преди кръга,efbet League: Before the round
+nova_sport,2025-10-24,14:30,2025-10-24 11:30:00,2025-10-24 12:00:00,Студио efbet Лига футбол,Studio efbet League football
+nova_sport,2025-10-24,15:00,2025-10-24 12:00:00,2025-10-24 13:55:00,Монтана - Арда,Montana - Arda
+nova_sport,2025-10-24,16:55,2025-10-24 13:55:00,2025-10-24 14:30:00,Студио efbet Лига футбол,Studio efbet League football
+nova_sport,2025-10-24,17:30,2025-10-24 14:30:00,2025-10-24 16:25:00,Спартак Варна - Ботев Пловдив,Spartak Varna - Botev Plovdiv
+nova_sport,2025-10-24,19:25,2025-10-24 16:25:00,2025-10-24 17:00:00,Студио efbet Лига футбол,Studio efbet League football
+nova_sport,2025-10-24,20:00,2025-10-24 17:00:00,2025-10-24 18:55:00,Локовотив София - Локомотив Пловдив,Lokomotiv Sofia - Lokomotiv Plovdiv
+nova_sport,2025-10-24,21:55,2025-10-24 18:55:00,2025-10-24 19:30:00,Студио efbet Лига футбол,Studio efbet League football
+nova_sport,2025-10-24,22:30,2025-10-24 19:30:00,2025-10-24 20:00:00,Дневник НБА,NBA Diary
+nova_sport,2025-10-24,23:00,2025-10-24 20:00:00,2025-10-24 21:00:00,Париж ФК - Нант,Paris FC - Nantes
+diema_sport,2025-10-24,00:15,2025-10-23 21:15:00,2025-10-23 22:00:00,Реал Мадрид - Бургос,Real Madrid - Burgos
+diema_sport,2025-10-24,01:00,2025-10-23 22:00:00,2025-10-23 22:30:00,Лига 1: Преди кръга,League 1: Before the round
+diema_sport,2025-10-24,01:30,2025-10-23 22:30:00,2025-10-23 23:00:00,NBA Екшън,NBA Action
+diema_sport,2025-10-24,02:00,2025-10-23 23:00:00,2025-10-23 23:15:00,Премиър Лийг Токшоу,Premier League Talk Show
+diema_sport,2025-10-24,02:15,2025-10-23 23:15:00,2025-10-23 23:30:00,Уникаха - Барселона,Unicaja - Barcelona
+diema_sport,2025-10-24,02:30,2025-10-23 23:30:00,2025-10-24 04:30:00,Индиана Пейсърс - Оклахома Сити Тъндър,Indiana Pacers - Oklahoma City Thunder
+diema_sport,2025-10-24,07:30,2025-10-24 04:30:00,2025-10-24 07:00:00,Далас Маверикс - Сан Антонио Спърс,Dallas Mavericks - San Antonio Spurs
+diema_sport,2025-10-24,10:00,2025-10-24 07:00:00,2025-10-24 08:00:00,NBA Екшън,NBA Action
+diema_sport,2025-10-24,11:00,2025-10-24 08:00:00,2025-10-24 10:30:00,Индиана Пейсърс - Оклахома Сити Тъндър,Indiana Pacers - Oklahoma City Thunder
+diema_sport,2025-10-24,13:30,2025-10-24 10:30:00,2025-10-24 12:30:00,Уест Хям Юнайтед - Брентфорд,West Ham United - Brentford
+diema_sport,2025-10-24,15:30,2025-10-24 12:30:00,2025-10-24 13:00:00,Висша лига: Голямото интервю,Premier League: The Big Interview
+diema_sport,2025-10-24,16:00,2025-10-24 13:00:00,2025-10-24 15:00:00,Манчестър Сити - Евертън,Manchester City - Everton
+diema_sport,2025-10-24,18:00,2025-10-24 15:00:00,2025-10-24 16:00:00,Премиър Лийг Токшоу,Premier League Talk Show
+diema_sport,2025-10-24,19:00,2025-10-24 16:00:00,2025-10-24 18:00:00,Ливърпул - Манчестър Юнайтед,Liverpool - Manchester United
+diema_sport,2025-10-24,21:00,2025-10-24 18:00:00,2025-10-24 18:30:00,Преди кръга във Висшата лига V1,Before the Premier League round V1
+diema_sport,2025-10-24,21:30,2025-10-24 18:30:00,2025-10-24 19:00:00,Студио Висша лига,Premier League Studio
+diema_sport,2025-10-24,22:00,2025-10-24 19:00:00,2025-10-24 20:55:00,Лийдс Юнайтед - Уест Хям Юнайтед,Leeds United - West Ham United
+diema_sport,2025-10-24,23:55,2025-10-24 20:55:00,2025-10-24 21:55:00,Студио Висша лига,Premier League Studio
+diema_sport_2,2025-10-24,00:00,2025-10-23 21:00:00,2025-10-23 22:00:00,ATP 500: Виена Четвърти четвъртфинал,ATP 500: Vienna Fourth quarter-final
+diema_sport_2,2025-10-24,01:00,2025-10-23 22:00:00,2025-10-23 23:00:00,Евролига: Анадолу Ефес - Фенербахче Анадолу Ефес - Фенербахче,Euroleague: Anadolu Efes - Fenerbahce Anadolu Efes - Fenerbahce
+diema_sport_2,2025-10-24,02:00,2025-10-23 23:00:00,2025-10-24 00:00:00,Удар със стик,Strike with a stick
+diema_sport_2,2025-10-24,03:00,2025-10-24 00:00:00,2025-10-24 00:00:00,"ПРЯКО, NHL: Уинипег Джетс - Калгари Флeймс Уинипег Джетс - Калгари Флeймс","PRYAKO, NHL: Whinikina Jets - Calgary Fleims Whinikine Jets - Calgary Fleimes"
+diema_sport_2,2025-10-24,03:00,2025-10-24 00:00:00,2025-10-24 01:00:00,Евролига: Барселона - Жалгирис Барселона - Жалгирис,Euroleague: Barcelona - Zalgiris Barcelona - Zalgiris
+diema_sport_2,2025-10-24,04:00,2025-10-24 01:00:00,2025-10-24 03:30:00,ATP 500: Базел Първи полуфинал,ATP 500: Basel First semi-final
+diema_sport_2,2025-10-24,06:30,2025-10-24 03:30:00,2025-10-24 05:30:00,ATP 500: Виена,ATP 500: Vienna
+diema_sport_2,2025-10-24,08:30,2025-10-24 05:30:00,2025-10-24 07:30:00,ATP 500: Виена,ATP 500: Vienna
+diema_sport_2,2025-10-24,10:30,2025-10-24 07:30:00,2025-10-24 09:30:00,ATP 500: Виена,ATP 500: Vienna
+diema_sport_2,2025-10-24,12:30,2025-10-24 09:30:00,2025-10-24 11:30:00,ATP 500: Виена,ATP 500: Vienna
+diema_sport_2,2025-10-24,14:30,2025-10-24 11:30:00,2025-10-24 13:30:00,"ПРЯКО, ATP 500: Виена Първи четвъртфинал","LIVE, ATP 500: Vienna First quarter-final"
+diema_sport_2,2025-10-24,16:30,2025-10-24 13:30:00,2025-10-24 15:30:00,"ПРЯКО, ATP 500: Виена Втори четвъртфинал","LIVE, ATP 500: Vienna Second quarter-final"
+diema_sport_2,2025-10-24,18:30,2025-10-24 15:30:00,2025-10-24 17:30:00,"ПРЯКО, ATP 500: Виена Трети четвъртфинал","LIVE, ATP 500: Vienna Third quarter-final"
+diema_sport_2,2025-10-24,20:30,2025-10-24 17:30:00,2025-10-24 18:45:00,Удар със стик,Strike with a stick
+diema_sport_2,2025-10-24,21:45,2025-10-24 18:45:00,2025-10-24 20:30:00,"ПРЯКО, Евролига: Байерн Мюнхен - Олимпиакос Байерн Мюнхен - Олимпиакос","LIVE, Euroleague: Bayern Munich - Olympiacos Bayern Munich - Olympiacos"
+diema_sport_2,2025-10-24,23:30,2025-10-24 20:30:00,2025-10-24 21:30:00,NFL: Обзор 7 кръг Обзор 7 кръг,NFL: Round 7 Overview Round 7 Overview
+max_sport_1_hd,2025-10-24,00:00,2025-10-23 21:00:00,2025-10-23 21:00:00,UFC 321: Преди големия сблъсък: Аспинал срещу Ган Преди големия сблъсък: Том Аспинал срещу Сирил Ган,UFC 321: Before the Big Clash: Aspinall vs. Gunn Before the Big Clash: Tom Aspinall vs. Cyril Gunn
+max_sport_1_hd,2025-10-24,00:00,2025-10-23 21:00:00,2025-10-23 22:00:00,ATP 500: Базел Втори полуфинал,ATP 500: Basel Second Semi-Final
+max_sport_1_hd,2025-10-24,01:00,2025-10-23 22:00:00,2025-10-23 23:00:00,ATP 500: Базел Четвърти четвъртфинал,ATP 500: Basel Fourth quarter-final
+max_sport_1_hd,2025-10-24,02:00,2025-10-23 23:00:00,2025-10-24 00:00:00,NHL: Бостън Бруинс - Колорадо Авеланш Бостън Бруинс - Колорадо Авеланш,NHL: Boston Bruins - Colorado Avalanche Boston Bruins - Colorado Avalanche
+max_sport_1_hd,2025-10-24,03:00,2025-10-24 00:00:00,2025-10-24 00:00:00,Еврокупа: Кемниц - Лондон Лайънс Кемниц - Лондон Лайънс,Eurocup: Chemnitz - London Lions Chemnitz - London Lions
+max_sport_1_hd,2025-10-24,03:00,2025-10-24 00:00:00,2025-10-24 01:00:00,Nascar Cup Series: Обзор на състезанието в Алабама Обзор на състезанието в Алабама,Nascar Cup Series: Alabama Race Overview Alabama Race Overview
+max_sport_1_hd,2025-10-24,04:00,2025-10-24 01:00:00,2025-10-24 01:30:00,NFL: Обзор 7 кръг Обзор 7 кръг,NFL: Round 7 Overview Round 7 Overview
+max_sport_1_hd,2025-10-24,04:30,2025-10-24 01:30:00,2025-10-24 02:35:00,"ПРЯКО, Moto GP: Загрявка преди състезанието за Голямата награда на Малайзия Загрявка преди състезанието за Голямата награда на Малайзия",LIVE Moto GP: Malaysian Grand Prix warm-up Malaysian Grand Prix warm-up
+max_sport_1_hd,2025-10-24,05:35,2025-10-24 02:35:00,2025-10-24 03:30:00,"ПРЯКО, Moto GP: Първа тренировка за Голямата награда на Малайзия Първа тренировка за Голямата награда на Малайзия",LIVE Moto GP: First practice for the Malaysian Grand Prix First practice for the Malaysian Grand Prix
+max_sport_1_hd,2025-10-24,06:30,2025-10-24 03:30:00,2025-10-24 05:20:00,Еврокупа: Бахчешехир Истанбул - Цедевита Любляна Бахчешехир Истанбул - Цедевита Любляна,Eurocup: Bahceşehir Istanbul - Cedevita Ljubljana Bahceşehir Istanbul - Cedevita Ljubljana
+max_sport_1_hd,2025-10-24,08:20,2025-10-24 05:20:00,2025-10-24 06:20:00,Nascar Cup Series: Обзор на състезанието в Алабама Обзор на състезанието в Алабама,Nascar Cup Series: Alabama Race Overview Alabama Race Overview
+max_sport_1_hd,2025-10-24,09:20,2025-10-24 06:20:00,2025-10-24 06:50:00,Голф: Hainan Open Обзор на турнира,Golf: Hainan Open Tournament Review
+max_sport_1_hd,2025-10-24,09:50,2025-10-24 06:50:00,2025-10-24 08:15:00,"ПРЯКО, Moto GP: Тренировка за Голямата награда на Малайзия Тренировка за Голямата награда на Малайзия",LIVE Moto GP: Practice for the Malaysian Grand Prix Practice for the Malaysian Grand Prix
+max_sport_1_hd,2025-10-24,11:15,2025-10-24 08:15:00,2025-10-24 11:00:00,NFL:,NFL:
+max_sport_1_hd,2025-10-24,14:00,2025-10-24 11:00:00,2025-10-24 13:00:00,Евролига: Барселона - Жалгирис Барселона - Жалгирис,Euroleague: Barcelona - Zalgiris Barcelona - Zalgiris
+max_sport_1_hd,2025-10-24,16:00,2025-10-24 13:00:00,2025-10-24 15:00:00,Евролига: Апоел Тел Авив - Монако Апоел Тел Авив - Монако,Euroleague: Apoel Tel Aviv - Monaco Apoel Tel Aviv - Monaco
+max_sport_1_hd,2025-10-24,18:00,2025-10-24 15:00:00,2025-10-24 16:00:00,Зона волей Токшоу,Zone Volley Talkshow
+max_sport_1_hd,2025-10-24,19:00,2025-10-24 16:00:00,2025-10-24 16:30:00,"ПРЯКО, Студио Волейбол","LIVE, Studio Volleyball"
+max_sport_1_hd,2025-10-24,19:30,2025-10-24 16:30:00,2025-10-24 18:30:00,"ПРЯКО, Волейбол - efbet Супер Волей: Левски - Нефтохимик Левски - Нефтохимик","LIVE, Volleyball - efbet Super Volley: Levski - Neftokhimik Levski - Neftokhimik"
+max_sport_1_hd,2025-10-24,21:30,2025-10-24 18:30:00,2025-10-24 19:00:00,"ПРЯКО, Студио Волейбол","LIVE, Studio Volleyball"
+max_sport_1_hd,2025-10-24,22:00,2025-10-24 19:00:00,2025-10-24 20:00:00,Евролига: Анадолу Ефес - Фенербахче Анадолу Ефес - Фенербахче,Euroleague: Anadolu Efes - Fenerbahce Anadolu Efes - Fenerbahce
+max_sport_2_hd,2025-10-24,00:00,2025-10-23 21:00:00,2025-10-23 21:15:00,УЕФА Шампионска лига: Виляреал - Манчестър Сити Трети кръг,UEFA Champions League: Villarreal - Manchester City Third Round
+max_sport_2_hd,2025-10-24,00:15,2025-10-23 21:15:00,2025-10-23 22:15:00,УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга,UEFA Europa League and Conference League: Round Overview Round Overview
+max_sport_2_hd,2025-10-24,01:15,2025-10-23 22:15:00,2025-10-23 22:45:00,УЕФА Шампионска лига: Нюкасъл - Бенфика Трети кръг,UEFA Champions League: Newcastle v Benfica Third Round
+max_sport_2_hd,2025-10-24,01:45,2025-10-23 22:45:00,2025-10-23 23:45:00,Серия А: Наполи - Интер,Serie A: Napoli - Inter
+max_sport_2_hd,2025-10-24,02:45,2025-10-23 23:45:00,2025-10-24 00:15:00,УЕФА Лига Европа и Лига на конференциите: Обзор на кръга Обзор на кръга,UEFA Europa League and Conference League: Round Overview Round Overview
+max_sport_2_hd,2025-10-24,03:15,2025-10-24 00:15:00,2025-10-24 00:45:00,Копа Судамерикана: Индепендиенте дел Вале - Атлетико Минейро Полуфинал,Copa Sudamericana: Independiente del Valle - Atlético Mineiro Semi-Final
+max_sport_2_hd,2025-10-24,03:45,2025-10-24 00:45:00,2025-10-24 02:30:00,Копа Судамерикана: Универсидад Католика - Ланус Полуфинал,Copa Sudamericana: Universidad Católica - Lanus Semi-final
+max_sport_2_hd,2025-10-24,05:30,2025-10-24 02:30:00,2025-10-24 03:00:00,Серия А: Екстра Калчо,Serie A: Extra Calcio
+max_sport_2_hd,2025-10-24,06:00,2025-10-24 03:00:00,2025-10-24 08:00:00,"ПРЯКО, Голф: Genesis Championship","LIVE, Golf: Genesis Championship"
+max_sport_2_hd,2025-10-24,11:00,2025-10-24 08:00:00,2025-10-24 10:00:00,УЕФА Лига Европа: Гоу Ахед Игълс - Астън Вила Трети кръг,UEFA Europa League: Go Ahead Eagles - Aston Villa Third Round
+max_sport_2_hd,2025-10-24,13:00,2025-10-24 10:00:00,2025-10-24 12:00:00,УЕФА Лига Европа: Йънг Бойс - Лудогорец Трети кръг,UEFA Europa League: Young Boys - Ludogorets Third round
+max_sport_2_hd,2025-10-24,15:00,2025-10-24 12:00:00,2025-10-24 14:00:00,"ПРЯКО, ATP 500: Базел Първи четвъртфинал","LIVE, ATP 500: Basel First quarter-final"
+max_sport_2_hd,2025-10-24,17:00,2025-10-24 14:00:00,2025-10-24 16:00:00,"ПРЯКО, ATP 500: Базел Втори четвъртфинал","LIVE, ATP 500: Basel Second quarter-final"
+max_sport_2_hd,2025-10-24,19:00,2025-10-24 16:00:00,2025-10-24 18:15:00,"ПРЯКО, ATP 500: Базел Трети четвъртфинал","LIVE, ATP 500: Basel Third quarter-final"
+max_sport_2_hd,2025-10-24,21:15,2025-10-24 18:15:00,2025-10-24 18:45:00,Серия А: Преди кръга,Serie A: Before the round
+max_sport_2_hd,2025-10-24,21:45,2025-10-24 18:45:00,2025-10-24 20:45:00,"ПРЯКО, Серия А: Милан - Пиза","LIVE, Serie A: Milan - Pisa"
+max_sport_2_hd,2025-10-24,23:45,2025-10-24 20:45:00,2025-10-24 21:45:00,УЕФА Шампионска лига Магазинно предаване,UEFA Champions League Shop show
+max_sport_3_hd,2025-10-24,00:00,2025-10-23 21:00:00,2025-10-23 21:00:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
+max_sport_3_hd,2025-10-24,00:00,2025-10-23 21:00:00,2025-10-23 21:15:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
+max_sport_3_hd,2025-10-24,00:15,2025-10-23 21:15:00,2025-10-23 21:15:00,Саудитска Професионална Лига: Ал Итихад - Ал Хилал Ал Итихад - Ал Хилал,Saudi Professional League: Al Ittihad - Al Hilal Al Ittihad - Al Hilal
+max_sport_3_hd,2025-10-24,00:15,2025-10-23 21:15:00,2025-10-23 23:00:00,Копа Либертадорес: Фламенго - Расинг Клуб Полуфинал,Copa Libertadores: Flamengo - Racing Club Semi-Final
+max_sport_3_hd,2025-10-24,02:00,2025-10-23 23:00:00,2025-10-23 23:00:00,Ла Лига 2: Кадис - Бургос,La Liga 2: Cadiz - Burgos
+max_sport_3_hd,2025-10-24,02:00,2025-10-23 23:00:00,2025-10-24 01:00:00,Ла Лига: Жирона - Овиедо,La Liga: Girona - Oviedo
+max_sport_3_hd,2025-10-24,04:00,2025-10-24 01:00:00,2025-10-24 01:00:00,Мейджър Лийг Сокър:,Major League Soccer:
+max_sport_3_hd,2025-10-24,04:00,2025-10-24 01:00:00,2025-10-24 02:30:00,Ла Лига: Валенсия - Виляреал,La Liga: Valencia - Villarreal
+max_sport_3_hd,2025-10-24,05:30,2025-10-24 02:30:00,2025-10-24 04:30:00,Ла Лига: Алавес - Валенсия,La Liga: Alaves - Valencia
+max_sport_3_hd,2025-10-24,07:30,2025-10-24 04:30:00,2025-10-24 05:00:00,Trans World Sport,Trans World Sport
+max_sport_3_hd,2025-10-24,08:00,2025-10-24 05:00:00,2025-10-24 07:00:00,Ла Лига: Атлетико Мадрид - Осасуна,La Liga: Atletico Madrid - Osasuna
+max_sport_3_hd,2025-10-24,10:00,2025-10-24 07:00:00,2025-10-24 09:00:00,Ла Лига: Алавес - Валенсия,La Liga: Alaves - Valencia
+max_sport_3_hd,2025-10-24,12:00,2025-10-24 09:00:00,2025-10-24 11:00:00,Ла Лига: Барселона - Жирона,La Liga: Barcelona - Girona
+max_sport_3_hd,2025-10-24,14:00,2025-10-24 11:00:00,2025-10-24 13:00:00,Ла Лига: Хетафе - Реал Мадрид,La Liga: Getafe - Real Madrid
+max_sport_3_hd,2025-10-24,16:00,2025-10-24 13:00:00,2025-10-24 15:00:00,Копа Судамерикана: Универсидад Чили - Ланус Полуфинал,Copa Sudamericana: Universidad Chile - Lanus Semi-Final
+max_sport_3_hd,2025-10-24,18:00,2025-10-24 15:00:00,2025-10-24 17:00:00,Копа Либертадорес: Лига де Кито - Палмейрас Полуфинал,Copa Libertadores: Liga de Quito - Palmeiras Semi-final
+max_sport_3_hd,2025-10-24,20:00,2025-10-24 17:00:00,2025-10-24 18:15:00,"ПРЯКО, Пред Стадиона - спортно шоу Пред Стадиона - спортно шоу","LIVE, In front of the Stadium - sports show In front of the Stadium - sports show"
+max_sport_3_hd,2025-10-24,21:15,2025-10-24 18:15:00,2025-10-24 18:45:00,Ла Лига: Обзор 9 кръг Обзор,La Liga: Overview round 9 Overview
+max_sport_3_hd,2025-10-24,21:45,2025-10-24 18:45:00,2025-10-24 19:00:00,"ПРЯКО, Студио Футбол","LIVE, Studio Football"
+max_sport_3_hd,2025-10-24,22:00,2025-10-24 19:00:00,2025-10-24 20:00:00,"ПРЯКО, Ла Лига: Реал Сосиедад - Севиля","LIVE, La Liga: Real Sociedad - Sevilla"
