@@ -1,39 +1,4 @@
 channelName,channelAbbreviation,startTime_UTC,endTime_UTC,duration (minutes),programmeTitle,title,genreTitle,synopsis,live,hiDef
-FOX League,LEAGUE,2025-10-18T13:00:00+00:00,2025-10-18T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-18T13:00:00+00:00,2025-10-18T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-18T13:00:00+00:00,2025-10-18T14:00:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
-FOX Cricket,CRICKET,2025-10-18T14:00:00+00:00,2025-10-18T15:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T15:00:00+00:00,2025-10-18T16:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T16:00:00+00:00,2025-10-18T17:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T17:00:00+00:00,2025-10-18T18:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Footy,FOOTY,2025-10-18T17:00:00+00:00,2025-10-18T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-18T17:00:00+00:00,2025-10-18T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-18T18:00:00+00:00,2025-10-18T19:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T19:00:00+00:00,2025-10-18T20:00:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T20:00:00+00:00,2025-10-18T20:30:00+00:00,30,Asia Cup,Final,Sport,"The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.",False,True
-FOX Cricket,CRICKET,2025-10-18T20:30:00+00:00,2025-10-18T21:30:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
-FOX League,LEAGUE,2025-10-18T21:00:00+00:00,2025-10-19T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-18T21:00:00+00:00,2025-10-19T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-18T21:30:00+00:00,2025-10-18T22:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T22:30:00+00:00,2025-10-18T23:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-18T23:30:00+00:00,2025-10-19T00:30:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
-FOX Cricket,CRICKET,2025-10-19T00:30:00+00:00,2025-10-19T01:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Footy,FOOTY,2025-10-19T01:00:00+00:00,2025-10-19T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-19T01:00:00+00:00,2025-10-19T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-19T01:30:00+00:00,2025-10-19T02:30:00+00:00,60,ODI Thrillers,ODI Thrillers,Cricket,We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.,False,True
-FOX Cricket,CRICKET,2025-10-19T02:30:00+00:00,2025-10-19T03:30:00+00:00,60,Pre Game,AUS v IND,Cricket,,True,True
-FOX Cricket,CRICKET,2025-10-19T03:30:00+00:00,2025-10-19T07:00:00+00:00,210,ODI AUS v IND,Game 1 IN1,Cricket,,True,True
-FOX League,LEAGUE,2025-10-19T05:00:00+00:00,2025-10-19T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Footy,FOOTY,2025-10-19T05:00:00+00:00,2025-10-19T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-19T07:00:00+00:00,2025-10-19T07:30:00+00:00,30,The Big Break,AUS v IND,Cricket,,True,True
-FOX Cricket,CRICKET,2025-10-19T07:30:00+00:00,2025-10-19T11:00:00+00:00,210,ODI AUS v IND,Game 1 IN2,Cricket,,True,True
-FOX Footy,FOOTY,2025-10-19T09:00:00+00:00,2025-10-19T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-19T09:00:00+00:00,2025-10-19T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-19T11:00:00+00:00,2025-10-19T11:15:00+00:00,15,Post Game,AUS v IND,Sport,Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.,True,True
-FOX Cricket,CRICKET,2025-10-19T11:15:00+00:00,2025-10-19T12:15:00+00:00,60,ODI AUS v IND,Game 1,Cricket,,False,True
-FOX Cricket,CRICKET,2025-10-19T12:15:00+00:00,2025-10-19T12:35:00+00:00,20,T20,Game 1,Sport,,False,True
-FOX Cricket,CRICKET,2025-10-19T12:35:00+00:00,2025-10-19T12:55:00+00:00,20,ODI,Game 1,Sport,,False,True
-FOX Cricket,CRICKET,2025-10-19T12:55:00+00:00,2025-10-19T13:55:00+00:00,60,T20,NZ v ENG Game 1,Cricket,,False,True
 FOX League,LEAGUE,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Footy,FOOTY,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-19T13:00:00+00:00,2025-10-19T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
@@ -132,3 +97,21 @@ FOX Cricket,CRICKET,2025-10-25T07:30:00+00:00,2025-10-25T11:00:00+00:00,210,ODI 
 FOX League,LEAGUE,2025-10-25T09:00:00+00:00,2025-10-25T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-25T11:00:00+00:00,2025-10-25T11:15:00+00:00,15,Post Game,AUS v IND,Sport,Join the Fox Cricket team for the best review from the day of cricket with this Post Game show.,True,True
 FOX Cricket,CRICKET,2025-10-25T11:15:00+00:00,2025-10-25T13:00:00+00:00,105,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-25T13:00:00+00:00,2025-10-25T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-25T13:00:00+00:00,2025-10-25T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-25T17:00:00+00:00,2025-10-25T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-25T17:00:00+00:00,2025-10-25T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-25T21:00:00+00:00,2025-10-26T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-25T21:00:00+00:00,2025-10-26T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-26T01:00:00+00:00,2025-10-26T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-26T01:00:00+00:00,2025-10-26T02:35:00+00:00,95,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-26T02:35:00+00:00,2025-10-26T03:00:00+00:00,25,MotoGP,Malaysia Warm Up,Racing,The riders get one final look around the circuit before all the races begin.,True,True
+FOX Cricket,CRICKET,2025-10-26T03:00:00+00:00,2025-10-26T03:45:00+00:00,45,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-26T03:45:00+00:00,2025-10-26T05:00:00+00:00,75,Moto3,Grand Prix of Malaysia,Racing,,True,True
+FOX Cricket,CRICKET,2025-10-26T05:00:00+00:00,2025-10-26T06:15:00+00:00,75,Moto2,Grand Prix of Malaysia,Racing,,True,True
+FOX League,LEAGUE,2025-10-26T05:00:00+00:00,2025-10-26T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-26T06:15:00+00:00,2025-10-26T06:58:00+00:00,43,MotoGP The Grid,Malaysia,Racing,All the latest news and interviews from the MotoGP Grid.,True,True
+FOX Cricket,CRICKET,2025-10-26T06:58:00+00:00,2025-10-26T08:20:00+00:00,82,MOTOGP 2025 RACES,Malaysia Race,Sport,,True,True
+FOX Cricket,CRICKET,2025-10-26T08:20:00+00:00,2025-10-26T09:00:00+00:00,40,Sport Special,Sport Special,Undefined,,False,True
+FOX Cricket,CRICKET,2025-10-26T09:00:00+00:00,2025-10-26T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-26T09:00:00+00:00,2025-10-26T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
