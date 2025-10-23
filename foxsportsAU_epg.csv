@@ -1,16 +1,4 @@
 channelName,channelAbbreviation,startTime_UTC,endTime_UTC,duration (minutes),programmeTitle,title,genreTitle,synopsis,live,hiDef
-FOX League,LEAGUE,2025-10-21T13:00:00+00:00,2025-10-21T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-21T13:00:00+00:00,2025-10-21T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-21T17:00:00+00:00,2025-10-21T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T17:00:00+00:00,2025-10-21T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-21T21:00:00+00:00,2025-10-22T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-21T21:00:00+00:00,2025-10-22T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-22T01:00:00+00:00,2025-10-22T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-22T01:00:00+00:00,2025-10-22T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-22T05:00:00+00:00,2025-10-22T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-22T05:00:00+00:00,2025-10-22T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-22T09:00:00+00:00,2025-10-22T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-22T09:00:00+00:00,2025-10-22T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-22T13:00:00+00:00,2025-10-22T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-22T13:00:00+00:00,2025-10-22T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-22T17:00:00+00:00,2025-10-22T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
@@ -91,3 +79,9 @@ FOX League,LEAGUE,2025-10-27T21:00:00+00:00,2025-10-28T01:00:00+00:00,240,Sport 
 FOX League,LEAGUE,2025-10-28T01:00:00+00:00,2025-10-28T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-28T05:00:00+00:00,2025-10-28T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-28T09:00:00+00:00,2025-10-28T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-28T13:00:00+00:00,2025-10-28T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-28T17:00:00+00:00,2025-10-28T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-28T21:00:00+00:00,2025-10-29T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-29T01:00:00+00:00,2025-10-29T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-29T05:00:00+00:00,2025-10-29T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-29T09:00:00+00:00,2025-10-29T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
