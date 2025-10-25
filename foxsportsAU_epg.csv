@@ -1,22 +1,4 @@
 channelName,channelAbbreviation,startTime_UTC,endTime_UTC,duration (minutes),programmeTitle,title,genreTitle,synopsis,live,hiDef
-FOX League,LEAGUE,2025-10-23T13:00:00+00:00,2025-10-23T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-23T13:00:00+00:00,2025-10-23T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-23T17:00:00+00:00,2025-10-23T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-23T17:00:00+00:00,2025-10-23T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-23T21:00:00+00:00,2025-10-24T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-23T21:00:00+00:00,2025-10-24T00:55:00+00:00,235,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-24T00:55:00+00:00,2025-10-24T01:40:00+00:00,45,Moto3,Grand Prix of Malaysia Practice 1,Racing,,True,True
-FOX League,LEAGUE,2025-10-24T01:00:00+00:00,2025-10-24T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-24T01:40:00+00:00,2025-10-24T02:35:00+00:00,55,Moto2,Grand Prix of Malaysia Practice 1,Racing,,True,True
-FOX Cricket,CRICKET,2025-10-24T02:35:00+00:00,2025-10-24T03:47:00+00:00,72,MotoGP,Malaysia Practice 1,Racing,,True,True
-FOX Cricket,CRICKET,2025-10-24T03:47:00+00:00,2025-10-24T05:10:00+00:00,83,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-24T05:00:00+00:00,2025-10-24T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-24T05:10:00+00:00,2025-10-24T05:55:00+00:00,45,Moto3,Grand Prix of Malaysia Practice 2,Racing,,True,True
-FOX Cricket,CRICKET,2025-10-24T05:55:00+00:00,2025-10-24T06:50:00+00:00,55,Moto2,Grand Prix of Malaysia Practice 2,Racing,,True,True
-FOX Cricket,CRICKET,2025-10-24T06:50:00+00:00,2025-10-24T08:12:00+00:00,82,MotoGP,Malaysia Practice 2,Racing,,True,True
-FOX Cricket,CRICKET,2025-10-24T08:12:00+00:00,2025-10-24T09:00:00+00:00,48,Sport Special,Sport Special,Undefined,,False,True
-FOX Cricket,CRICKET,2025-10-24T09:00:00+00:00,2025-10-24T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
-FOX League,LEAGUE,2025-10-24T09:00:00+00:00,2025-10-24T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-24T13:00:00+00:00,2025-10-24T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-24T13:00:00+00:00,2025-10-24T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX Cricket,CRICKET,2025-10-24T17:00:00+00:00,2025-10-24T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
@@ -75,3 +57,9 @@ FOX League,LEAGUE,2025-10-29T21:00:00+00:00,2025-10-30T01:00:00+00:00,240,Sport 
 FOX League,LEAGUE,2025-10-30T01:00:00+00:00,2025-10-30T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-30T05:00:00+00:00,2025-10-30T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
 FOX League,LEAGUE,2025-10-30T09:00:00+00:00,2025-10-30T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-30T13:00:00+00:00,2025-10-30T17:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-30T17:00:00+00:00,2025-10-30T21:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-30T21:00:00+00:00,2025-10-31T01:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-31T01:00:00+00:00,2025-10-31T05:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-31T05:00:00+00:00,2025-10-31T09:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
+FOX League,LEAGUE,2025-10-31T09:00:00+00:00,2025-10-31T13:00:00+00:00,240,Sport Special,Sport Special,Undefined,,False,True
