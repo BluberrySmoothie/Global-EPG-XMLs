@@ -2,6 +2,10 @@ Daily XML and CSV TV Guides.
 
 The job to generate these files starts running at 10pm UK Time. Once the scripts are finished, the files will be automatically uploaded to this repo.
 
+## Support the Project
+If you like my work, feel free to buy me a coffee! ☕
+https://buymeacoffee.com/BluberrySmoothie
+
 **starhubSG_EPG**
 
 Platform: Star Hub
